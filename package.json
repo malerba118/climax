@@ -1,0 +1,66 @@
+{
+  "name": "react-redux-template",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "http://malerba118.github.io/react-redux-template",
+  "dependencies": {
+    "@material-ui/core": "^3.2.2",
+    "@material-ui/icons": "^3.0.1",
+    "@material-ui/lab": "^3.0.0-alpha.24",
+    "axios": "^0.18.0",
+    "color-blend": "^2.0.3",
+    "lodash": "^4.17.11",
+    "moment": "^2.22.2",
+    "node-sass": "^4.9.3",
+    "normalizr": "^3.3.0",
+    "query-string": "^6.2.0",
+    "react": "^16.5.2",
+    "react-container-dimensions": "^1.4.1",
+    "react-dom": "^16.5.2",
+    "react-image": "^1.5.1",
+    "react-moment": "^0.8.2",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "2.0.4",
+    "react-spinners": "^0.4.7",
+    "react-transition-group": "1.x",
+    "react-usa-map": "^1.3.0",
+    "redux": "^4.0.0",
+    "redux-actions": "^2.6.1",
+    "redux-logger": "^3.0.6",
+    "redux-promise-middleware": "^5.1.1",
+    "redux-thunk": "^2.3.0",
+    "reselect": "^4.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "storybook": "start-storybook -p 9009 -s public",
+    "build-storybook": "build-storybook -s public",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "@storybook/addon-actions": "^3.4.11",
+    "@storybook/addon-links": "^3.4.11",
+    "@storybook/addons": "^3.4.11",
+    "@storybook/react": "^3.4.11",
+    "babel-core": "^6.26.3",
+    "babel-runtime": "^6.26.0",
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.6.0",
+    "gh-pages": "^2.0.1"
+  }
+}

@@ -1,0 +1,7 @@
+.app {
+
+}
+
+.body {
+  composes: app-background-color from global;
+}

@@ -1,0 +1,24 @@
+
+.Toolbar {
+  composes: border-bottom from global;
+  composes: app-background-color from global;
+  height: 64px;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1;
+}
+
+.toolbarButton {
+  composes: text-grey-7 from global;
+  height: 100%;
+}
+
+.right {
+  display: flex;
+  height: 100%;
+}
