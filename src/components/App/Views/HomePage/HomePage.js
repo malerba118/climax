@@ -20,14 +20,14 @@ const tabs = ['Spring', 'Summer', 'Fall', 'Winter']
 const percentagePartitions = {
   'None': {
     min: 0,
-    max: 33
+    max: 40
   },
   'Some': {
-    min: 33,
-    max: 66
+    min: 40,
+    max: 70
   },
   'A lot': {
-    min: 66,
+    min: 70,
     max: 100
   },
 }
@@ -67,18 +67,18 @@ class HomePage extends Component {
 
   state = {
     selectedTab: 0,
-    averageHighSpringTarget: 65,
+    averageHighSpringTarget: 70,
     chanceOfSunshineSpringTarget: 'A lot',
-    precipitationSpringTarget: 'Some',
-    averageHighSummerTarget: 75,
+    precipitationSpringTarget: 'None',
+    averageHighSummerTarget: 90,
     chanceOfSunshineSummerTarget: 'A lot',
-    precipitationSummerTarget: 'Some',
-    averageHighFallTarget: 65,
-    chanceOfSunshineFallTarget: 'Some',
-    precipitationFallTarget: 'Some',
-    averageHighWinterTarget: 45,
-    chanceOfSunshineWinterTarget: 'Some',
-    snowfallWinterTarget: 'Some',
+    precipitationSummerTarget: 'None',
+    averageHighFallTarget: 70,
+    chanceOfSunshineFallTarget: 'A lot',
+    precipitationFallTarget: 'None',
+    averageHighWinterTarget: 50,
+    chanceOfSunshineWinterTarget: 'A lot',
+    snowfallWinterTarget: 'None',
   }
 
   onFieldChange = (key) => (e, value) => {
@@ -380,10 +380,10 @@ function getStateColors(searchResults) {
     (sumMap, result) => {
       let sumArr
       if (sumMap[result.city.state]) {
-        sumArr = [...sumMap[result.city.state], result.criteriaMet.length/6]
+        sumArr = [...sumMap[result.city.state], result.criteriaMet.length/12]
       }
       else {
-        sumArr = [result.criteriaMet.length/6]
+        sumArr = [result.criteriaMet.length/12]
       }
       return {
         ...sumMap,
@@ -395,7 +395,7 @@ function getStateColors(searchResults) {
   Object.keys(sums).forEach((state) => {
     let blended = colorBurn(
       {r: 255/255, g: 102/255, b: 99/255, a: mean(sums[state])},
-      {r: 230/255, g: 230/255, b: 230/255, a: .9},
+      {r: 255/255, g: 255/255, b: 255/255, a: 1},
     )
     sums[state] = {
       fill: `rgba(${blended.r*255},${blended.g*255},${blended.b*255},${blended.a})`

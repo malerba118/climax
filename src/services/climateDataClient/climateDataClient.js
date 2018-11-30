@@ -18,6 +18,7 @@ class ClimateDataClient {
       }
     })
     results.sort((a, b) => a.criteriaMet.length < b.criteriaMet.length ? 1 : -1)
+    // results = results.filter(result => !!result.city.averageHighs || !!result.city.sunshineProbability || !!result.city.snowfall || !!result.city.numDaysPrecipitation)
     return results
   }
 
