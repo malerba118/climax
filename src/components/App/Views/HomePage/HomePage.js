@@ -32,18 +32,53 @@ const percentagePartitions = {
   },
 }
 
+const precipitationPartitions = {
+  'None': {
+    min: 0,
+    max: 20
+  },
+  'Some': {
+    min: 20,
+    max: 50
+  },
+  'A lot': {
+    min: 50,
+    max: 100
+  },
+}
+
+const snowfallPartitions = {
+  'None': {
+    min: 0,
+    max: 20
+  },
+  'Some': {
+    min: 20,
+    max: 50
+  },
+  'A lot': {
+    min: 50,
+    max: 200
+  },
+}
+
+
 class HomePage extends Component {
 
   state = {
     selectedTab: 0,
     averageHighSpringTarget: 65,
     chanceOfSunshineSpringTarget: 'A lot',
+    precipitationSpringTarget: 'Some',
     averageHighSummerTarget: 75,
     chanceOfSunshineSummerTarget: 'A lot',
+    precipitationSummerTarget: 'Some',
     averageHighFallTarget: 65,
     chanceOfSunshineFallTarget: 'Some',
+    precipitationFallTarget: 'Some',
     averageHighWinterTarget: 45,
     chanceOfSunshineWinterTarget: 'Some',
+    snowfallWinterTarget: 'Some',
   }
 
   onFieldChange = (key) => (e, value) => {
@@ -74,6 +109,13 @@ class HomePage extends Component {
         }
       },
       {
+        name: 'precipitationSpring',
+        isMet: (climate) => {
+          let partition = precipitationPartitions[this.state.precipitationSpringTarget]
+          return inRange(climate.daysWithPrecipitation('spring'), partition.min, partition.max)
+        }
+      },
+      {
         name: 'averageHighSummer',
         isMet: (climate) => {
           return inRange(climate.averageHigh('summer'), this.state.averageHighSummerTarget - 5, this.state.averageHighSummerTarget + 5)
@@ -84,6 +126,13 @@ class HomePage extends Component {
         isMet: (climate) => {
           let partition = percentagePartitions[this.state.chanceOfSunshineSummerTarget]
           return inRange(climate.chanceOfSunshine('summer'), partition.min, partition.max)
+        }
+      },
+      {
+        name: 'precipitationSummer',
+        isMet: (climate) => {
+          let partition = precipitationPartitions[this.state.precipitationSummerTarget]
+          return inRange(climate.daysWithPrecipitation('summer'), partition.min, partition.max)
         }
       },
       {
@@ -100,6 +149,13 @@ class HomePage extends Component {
         }
       },
       {
+        name: 'precipitationFall',
+        isMet: (climate) => {
+          let partition = precipitationPartitions[this.state.precipitationFallTarget]
+          return inRange(climate.daysWithPrecipitation('fall'), partition.min, partition.max)
+        }
+      },
+      {
         name: 'averageHighWinter',
         isMet: (climate) => {
           return inRange(climate.averageHigh('winter'), this.state.averageHighWinterTarget - 5, this.state.averageHighWinterTarget + 5)
@@ -110,6 +166,13 @@ class HomePage extends Component {
         isMet: (climate) => {
           let partition = percentagePartitions[this.state.chanceOfSunshineWinterTarget]
           return inRange(climate.chanceOfSunshine('winter'), partition.min, partition.max)
+        }
+      },
+      {
+        name: 'snowfallWinter',
+        isMet: (climate) => {
+          let partition = snowfallPartitions[this.state.snowfallWinterTarget]
+          return inRange(climate.daysWithPrecipitation('winter'), partition.min, partition.max)
         }
       },
     ]
@@ -145,6 +208,7 @@ class HomePage extends Component {
                       <Typography>{`${this.state.averageHighSpringTarget-5} - ${this.state.averageHighSpringTarget+5} F`}</Typography>
                     </div>
                     <Slider
+                      className={styles.slider}
                       value={this.state.averageHighSpringTarget}
                       min={40}
                       max={100}
@@ -163,6 +227,16 @@ class HomePage extends Component {
                       labels={['None', 'Some', 'A lot']}
                     />
                   </div>
+                  <div className={styles.field}>
+                    <div className={styles.radioGroupLabel}>
+                      <Typography>Precipitation</Typography>
+                    </div>
+                    <CustomRadioGroup
+                      onChange={this.onFieldChange('precipitationSpringTarget')}
+                      value={this.state.precipitationSpringTarget}
+                      labels={['None', 'Some', 'A lot']}
+                    />
+                  </div>
                 </div>
               )}
               {tabs[this.state.selectedTab] === 'Summer' && (
@@ -173,6 +247,7 @@ class HomePage extends Component {
                       <Typography>{`${this.state.averageHighSummerTarget-5} - ${this.state.averageHighSummerTarget+5} F`}</Typography>
                     </div>
                     <Slider
+                      className={styles.slider}
                       value={this.state.averageHighSummerTarget}
                       min={60}
                       max={110}
@@ -191,6 +266,16 @@ class HomePage extends Component {
                       labels={['None', 'Some', 'A lot']}
                     />
                   </div>
+                  <div className={styles.field}>
+                    <div className={styles.radioGroupLabel}>
+                      <Typography>Precipitation</Typography>
+                    </div>
+                    <CustomRadioGroup
+                      onChange={this.onFieldChange('precipitationSummerTarget')}
+                      value={this.state.precipitationSummerTarget}
+                      labels={['None', 'Some', 'A lot']}
+                    />
+                  </div>
                 </div>
               )}
               {tabs[this.state.selectedTab] === 'Fall' && (
@@ -201,6 +286,7 @@ class HomePage extends Component {
                       <Typography>{`${this.state.averageHighFallTarget-5} - ${this.state.averageHighFallTarget+5} F`}</Typography>
                     </div>
                     <Slider
+                      className={styles.slider}
                       value={this.state.averageHighFallTarget}
                       min={40}
                       max={100}
@@ -219,6 +305,16 @@ class HomePage extends Component {
                       labels={['None', 'Some', 'A lot']}
                     />
                   </div>
+                  <div className={styles.field}>
+                    <div className={styles.radioGroupLabel}>
+                      <Typography>Precipitation</Typography>
+                    </div>
+                    <CustomRadioGroup
+                      onChange={this.onFieldChange('precipitationFallTarget')}
+                      value={this.state.precipitationFallTarget}
+                      labels={['None', 'Some', 'A lot']}
+                    />
+                  </div>
                 </div>
               )}
               {tabs[this.state.selectedTab] === 'Winter' && (
@@ -229,6 +325,7 @@ class HomePage extends Component {
                       <Typography>{`${this.state.averageHighWinterTarget-5} - ${this.state.averageHighWinterTarget+5} F`}</Typography>
                     </div>
                     <Slider
+                      className={styles.slider}
                       value={this.state.averageHighWinterTarget}
                       min={0}
                       max={70}
@@ -244,6 +341,16 @@ class HomePage extends Component {
                     <CustomRadioGroup
                       onChange={this.onFieldChange('chanceOfSunshineWinterTarget')}
                       value={this.state.chanceOfSunshineWinterTarget}
+                      labels={['None', 'Some', 'A lot']}
+                    />
+                  </div>
+                  <div className={styles.field}>
+                    <div className={styles.radioGroupLabel}>
+                      <Typography>Snowfall</Typography>
+                    </div>
+                    <CustomRadioGroup
+                      onChange={this.onFieldChange('snowfallWinterTarget')}
+                      value={this.state.snowfallWinterTarget}
                       labels={['None', 'Some', 'A lot']}
                     />
                   </div>

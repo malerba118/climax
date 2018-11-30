@@ -3,6 +3,10 @@ function mean(arr) {
   return arr.reduce( ( p, c ) => p + c, 0 ) / arr.length
 }
 
+function sum(arr) {
+  return arr.reduce( ( p, c ) => p + c, 0 )
+}
+
 const months = ['mar', 'apr', 'may', 'jun', 'jul', 'aug', 'sep', 'oct', 'nov', 'dec', 'jan', 'feb']
 
 const seasons = {
@@ -24,6 +28,9 @@ class Climate {
     }
 
     averageHigh(season) {
+      if (!this.location.averageHighs) {
+        return NaN
+      }
       let months = getMonths(season)
       let avg = mean(
         months.map(month => this.location.averageHighs[month])
@@ -38,6 +45,28 @@ class Climate {
       let months = getMonths(season)
       let avg = mean(
         months.map(month => this.location.sunshineProbability[month])
+      )
+      return avg
+    }
+
+    daysWithPrecipitation(season) {
+      if (!this.location.daysWithPrecipitation) {
+        return NaN
+      }
+      let months = getMonths(season)
+      let avg = sum(
+        months.map(month => this.location.daysWithPrecipitation[month])
+      )
+      return avg
+    }
+
+    snowfall(season) {
+      if (!this.location.snowfall) {
+        return NaN
+      }
+      let months = getMonths(season)
+      let avg = sum(
+        months.map(month => this.location.snowfall[month])
       )
       return avg
     }

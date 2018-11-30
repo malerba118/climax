@@ -32,6 +32,36 @@
       "nov": 65.4,
       "dec": 55.9,
       "annual": 73.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 11,
+      "apr": 9,
+      "may": 10,
+      "jun": 10,
+      "jul": 13,
+      "aug": 10,
+      "sep": 8,
+      "oct": 6,
+      "nov": 9,
+      "dec": 11,
+      "annual": 117
+    },
+    "snowfall": {
+      "jan": 0.8,
+      "feb": 0.2,
+      "mar": 0.3,
+      "apr": 0.1,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.2,
+      "annual": 1.6
     }
   },
   "13895": {
@@ -67,6 +97,36 @@
       "nov": 69.0,
       "dec": 59.6,
       "annual": 76.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 10,
+      "apr": 8,
+      "may": 8,
+      "jun": 9,
+      "jul": 12,
+      "aug": 9,
+      "sep": 7,
+      "oct": 6,
+      "nov": 7,
+      "dec": 10,
+      "annual": 106
+    },
+    "snowfall": {
+      "jan": 0.2,
+      "feb": 0.1,
+      "mar": 0.1,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.4
     }
   },
   "26451": {
@@ -102,6 +162,36 @@
       "nov": 27.8,
       "dec": 24.8,
       "annual": 43.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 8,
+      "mar": 7,
+      "apr": 6,
+      "may": 6,
+      "jun": 8,
+      "jul": 12,
+      "aug": 14,
+      "sep": 14,
+      "oct": 11,
+      "nov": 9,
+      "dec": 10,
+      "annual": 114
+    },
+    "snowfall": {
+      "jan": 10.4,
+      "feb": 12.1,
+      "mar": 9.9,
+      "apr": 5.2,
+      "may": 0.3,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.4,
+      "oct": 7.3,
+      "nov": 12.1,
+      "dec": 16.0,
+      "annual": 73.7
     }
   },
   "25309": {
@@ -137,6 +227,36 @@
       "nov": 37.8,
       "dec": 34.1,
       "annual": 48.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 19,
+      "feb": 17,
+      "mar": 18,
+      "apr": 17,
+      "may": 17,
+      "jun": 16,
+      "jul": 17,
+      "aug": 18,
+      "sep": 21,
+      "oct": 24,
+      "nov": 20,
+      "dec": 21,
+      "annual": 224
+    },
+    "snowfall": {
+      "jan": 26.1,
+      "feb": 18.5,
+      "mar": 13.8,
+      "apr": 2.6,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 1.0,
+      "nov": 12.6,
+      "dec": 21.6,
+      "annual": 96.2
     }
   },
   "26617": {
@@ -172,6 +292,36 @@
       "nov": 23.1,
       "dec": 16.8,
       "annual": 34.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 9,
+      "apr": 8,
+      "may": 8,
+      "jun": 9,
+      "jul": 13,
+      "aug": 16,
+      "sep": 14,
+      "oct": 11,
+      "nov": 10,
+      "dec": 10,
+      "annual": 128
+    },
+    "snowfall": {
+      "jan": 10.8,
+      "feb": 9.8,
+      "mar": 8.8,
+      "apr": 6.8,
+      "may": 2.0,
+      "jun": 0.2,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.4,
+      "oct": 4.9,
+      "nov": 10.3,
+      "dec": 10.8,
+      "annual": 64.8
     }
   },
   "03103": {
@@ -207,6 +357,36 @@
       "nov": 50.5,
       "dec": 42.5,
       "annual": 60.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 7,
+      "mar": 7,
+      "apr": 5,
+      "may": 4,
+      "jun": 3,
+      "jul": 12,
+      "aug": 12,
+      "sep": 7,
+      "oct": 5,
+      "nov": 5,
+      "dec": 7,
+      "annual": 82
+    },
+    "snowfall": {
+      "jan": 19.9,
+      "feb": 16.1,
+      "mar": 17.5,
+      "apr": 7.2,
+      "may": 1.7,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.1,
+      "oct": 1.6,
+      "nov": 8.5,
+      "dec": 15.5,
+      "annual": 88.1
     }
   },
   "23183": {
@@ -242,6 +422,36 @@
       "nov": 75.5,
       "dec": 66.0,
       "annual": 86.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 4,
+      "feb": 4,
+      "mar": 3,
+      "apr": 2,
+      "may": 1,
+      "jun": 1,
+      "jul": 4,
+      "aug": 5,
+      "sep": 3,
+      "oct": 3,
+      "nov": 2,
+      "dec": 4,
+      "annual": 35
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "23160": {
@@ -277,6 +487,36 @@
       "nov": 73.5,
       "dec": 64.8,
       "annual": 83.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 4,
+      "feb": 4,
+      "mar": 4,
+      "apr": 2,
+      "may": 1,
+      "jun": 2,
+      "jul": 10,
+      "aug": 9,
+      "sep": 5,
+      "oct": 3,
+      "nov": 3,
+      "dec": 5,
+      "annual": 51
+    },
+    "snowfall": {
+      "jan": 0.3,
+      "feb": 0.2,
+      "mar": 0.2,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.1,
+      "dec": 0.2,
+      "annual": 1.0
     }
   },
   "13964": {
@@ -312,6 +552,36 @@
       "nov": 62.8,
       "dec": 51.5,
       "annual": 72.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 8,
+      "mar": 10,
+      "apr": 10,
+      "may": 11,
+      "jun": 9,
+      "jul": 7,
+      "aug": 7,
+      "sep": 8,
+      "oct": 7,
+      "nov": 7,
+      "dec": 7,
+      "annual": 97
+    },
+    "snowfall": {
+      "jan": 2.2,
+      "feb": 1.6,
+      "mar": 0.6,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.3,
+      "dec": 0.9,
+      "annual": 5.6
     }
   },
   "13963": {
@@ -347,6 +617,36 @@
       "nov": 63.0,
       "dec": 52.3,
       "annual": 72.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 9,
+      "mar": 10,
+      "apr": 10,
+      "may": 10,
+      "jun": 8,
+      "jul": 8,
+      "aug": 7,
+      "sep": 7,
+      "oct": 7,
+      "nov": 8,
+      "dec": 9,
+      "annual": 104
+    },
+    "snowfall": {
+      "jan": 2.0,
+      "feb": 1.6,
+      "mar": 0.6,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.1,
+      "dec": 0.7,
+      "annual": 5.0
     }
   },
   "93193": {
@@ -382,6 +682,36 @@
       "nov": 65.1,
       "dec": 54.9,
       "annual": 76.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 8,
+      "mar": 7,
+      "apr": 4,
+      "may": 2,
+      "jun": 1,
+      "jul": 0,
+      "aug": 0,
+      "sep": 1,
+      "oct": 2,
+      "nov": 5,
+      "dec": 7,
+      "annual": 45
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "93134": {
@@ -417,6 +747,36 @@
       "nov": 72.8,
       "dec": 67.7,
       "annual": 75.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 6,
+      "feb": 6,
+      "mar": 6,
+      "apr": 3,
+      "may": 1,
+      "jun": 1,
+      "jul": 0,
+      "aug": 0,
+      "sep": 1,
+      "oct": 2,
+      "nov": 3,
+      "dec": 5,
+      "annual": 35
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "23232": {
@@ -452,6 +812,36 @@
       "nov": 63.8,
       "dec": 53.9,
       "annual": 73.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 9,
+      "apr": 5,
+      "may": 3,
+      "jun": 1,
+      "jul": 0,
+      "aug": 0,
+      "sep": 1,
+      "oct": 3,
+      "nov": 7,
+      "dec": 9,
+      "annual": 57
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "23188": {
@@ -487,6 +877,36 @@
       "nov": 69.0,
       "dec": 64.7,
       "annual": 69.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 6,
+      "mar": 6,
+      "apr": 4,
+      "may": 2,
+      "jun": 1,
+      "jul": 0,
+      "aug": 0,
+      "sep": 1,
+      "oct": 3,
+      "nov": 4,
+      "dec": 6,
+      "annual": 41
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "23272": {
@@ -522,6 +942,36 @@
       "nov": 63.1,
       "dec": 57.1,
       "annual": 63.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 10,
+      "apr": 6,
+      "may": 3,
+      "jun": 1,
+      "jul": 1,
+      "aug": 1,
+      "sep": 1,
+      "oct": 4,
+      "nov": 8,
+      "dec": 11,
+      "annual": 67
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "03017": {
@@ -592,6 +1042,36 @@
       "nov": 50.4,
       "dec": 38.5,
       "annual": 65.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 6,
+      "mar": 7,
+      "apr": 7,
+      "may": 6,
+      "jun": 4,
+      "jul": 6,
+      "aug": 7,
+      "sep": 6,
+      "oct": 6,
+      "nov": 5,
+      "dec": 6,
+      "annual": 73
+    },
+    "snowfall": {
+      "jan": 5.9,
+      "feb": 3.8,
+      "mar": 3.0,
+      "apr": 1.0,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.4,
+      "nov": 2.4,
+      "dec": 5.2,
+      "annual": 21.8
     }
   },
   "93058": {
@@ -627,6 +1107,36 @@
       "nov": 56.1,
       "dec": 46.0,
       "annual": 68.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 4,
+      "feb": 4,
+      "mar": 6,
+      "apr": 6,
+      "may": 8,
+      "jun": 7,
+      "jul": 9,
+      "aug": 9,
+      "sep": 5,
+      "oct": 4,
+      "nov": 4,
+      "dec": 4,
+      "annual": 70
+    },
+    "snowfall": {
+      "jan": 5.8,
+      "feb": 4.4,
+      "mar": 6.0,
+      "apr": 3.4,
+      "may": 0.3,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.5,
+      "oct": 1.2,
+      "nov": 4.0,
+      "dec": 5.2,
+      "annual": 30.8
     }
   },
   "14740": {
@@ -662,6 +1172,36 @@
       "nov": 51.6,
       "dec": 39.7,
       "annual": 60.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 11,
+      "apr": 11,
+      "may": 12,
+      "jun": 11,
+      "jul": 10,
+      "aug": 10,
+      "sep": 9,
+      "oct": 9,
+      "nov": 11,
+      "dec": 12,
+      "annual": 127
+    },
+    "snowfall": {
+      "jan": 13.5,
+      "feb": 12.8,
+      "mar": 8.8,
+      "apr": 1.1,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.2,
+      "nov": 1.8,
+      "dec": 9.9,
+      "annual": 48.1
     }
   },
   "13743": {
@@ -697,6 +1237,36 @@
       "nov": 57.9,
       "dec": 46.8,
       "annual": 66.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 11,
+      "apr": 10,
+      "may": 11,
+      "jun": 10,
+      "jul": 10,
+      "aug": 9,
+      "sep": 8,
+      "oct": 8,
+      "nov": 8,
+      "dec": 9,
+      "annual": 114
+    },
+    "snowfall": {
+      "jan": 5.2,
+      "feb": 5.6,
+      "mar": 2.1,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.6,
+      "dec": 2.8,
+      "annual": 16.3
     }
   },
   "13889": {
@@ -732,6 +1302,36 @@
       "nov": 73.5,
       "dec": 66.6,
       "annual": 79.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 8,
+      "mar": 8,
+      "apr": 6,
+      "may": 8,
+      "jun": 13,
+      "jul": 14,
+      "aug": 15,
+      "sep": 13,
+      "oct": 8,
+      "nov": 6,
+      "dec": 8,
+      "annual": 115
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "12836": {
@@ -767,6 +1367,36 @@
       "nov": 79.9,
       "dec": 76.0,
       "annual": 82.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 6,
+      "feb": 5,
+      "mar": 5,
+      "apr": 4,
+      "may": 7,
+      "jun": 12,
+      "jul": 12,
+      "aug": 15,
+      "sep": 16,
+      "oct": 11,
+      "nov": 6,
+      "dec": 7,
+      "annual": 107
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "12839": {
@@ -802,6 +1432,36 @@
       "nov": 81.7,
       "dec": 77.9,
       "annual": 84.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 6,
+      "mar": 6,
+      "apr": 6,
+      "may": 10,
+      "jun": 16,
+      "jul": 16,
+      "aug": 18,
+      "sep": 18,
+      "oct": 14,
+      "nov": 8,
+      "dec": 7,
+      "annual": 133
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "13899": {
@@ -837,6 +1497,36 @@
       "nov": 70.3,
       "dec": 62.6,
       "annual": 76.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 9,
+      "mar": 9,
+      "apr": 7,
+      "may": 7,
+      "jun": 11,
+      "jul": 14,
+      "aug": 13,
+      "sep": 9,
+      "oct": 5,
+      "nov": 7,
+      "dec": 9,
+      "annual": 111
+    },
+    "snowfall": {
+      "jan": 0.1,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.1
     }
   },
   "12842": {
@@ -872,6 +1562,36 @@
       "nov": 78.0,
       "dec": 72.0,
       "annual": 81.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 7,
+      "mar": 7,
+      "apr": 5,
+      "may": 6,
+      "jun": 12,
+      "jul": 16,
+      "aug": 16,
+      "sep": 13,
+      "oct": 7,
+      "nov": 5,
+      "dec": 6,
+      "annual": 106
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "13874": {
@@ -907,6 +1627,36 @@
       "nov": 63.6,
       "dec": 54.0,
       "annual": 71.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 11,
+      "apr": 9,
+      "may": 9,
+      "jun": 10,
+      "jul": 12,
+      "aug": 10,
+      "sep": 8,
+      "oct": 7,
+      "nov": 8,
+      "dec": 11,
+      "annual": 115
+    },
+    "snowfall": {
+      "jan": 0.9,
+      "feb": 0.5,
+      "mar": 0.4,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.2,
+      "annual": 2.0
     }
   },
   "03813": {
@@ -942,6 +1692,36 @@
       "nov": 68.8,
       "dec": 59.6,
       "annual": 76.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 10,
+      "apr": 8,
+      "may": 8,
+      "jun": 10,
+      "jul": 12,
+      "aug": 10,
+      "sep": 8,
+      "oct": 6,
+      "nov": 7,
+      "dec": 9,
+      "annual": 109
+    },
+    "snowfall": {
+      "jan": 0.3,
+      "feb": 0.5,
+      "mar": 0.1,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.9
     }
   },
   "03822": {
@@ -977,6 +1757,36 @@
       "nov": 70.6,
       "dec": 62.5,
       "annual": 77.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 8,
+      "mar": 9,
+      "apr": 7,
+      "may": 8,
+      "jun": 12,
+      "jul": 13,
+      "aug": 13,
+      "sep": 10,
+      "oct": 6,
+      "nov": 6,
+      "dec": 8,
+      "annual": 110
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.2,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.1,
+      "annual": 0.3
     }
   },
   "21504": {
@@ -1012,6 +1822,36 @@
       "nov": 80.8,
       "dec": 79.4,
       "annual": 80.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 16,
+      "feb": 17,
+      "mar": 23,
+      "apr": 25,
+      "may": 25,
+      "jun": 25,
+      "jul": 27,
+      "aug": 27,
+      "sep": 23,
+      "oct": 24,
+      "nov": 23,
+      "dec": 21,
+      "annual": 276
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "22521": {
@@ -1047,6 +1887,36 @@
       "nov": 83.9,
       "dec": 81.2,
       "annual": 84.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 8,
+      "mar": 9,
+      "apr": 8,
+      "may": 7,
+      "jun": 6,
+      "jul": 7,
+      "aug": 6,
+      "sep": 7,
+      "oct": 8,
+      "nov": 9,
+      "dec": 10,
+      "annual": 93
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "22516": {
@@ -1082,6 +1952,36 @@
       "nov": 84.1,
       "dec": 81.6,
       "annual": 84.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 8,
+      "mar": 10,
+      "apr": 9,
+      "may": 6,
+      "jun": 4,
+      "jul": 6,
+      "aug": 6,
+      "sep": 5,
+      "oct": 6,
+      "nov": 9,
+      "dec": 10,
+      "annual": 88
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "22536": {
@@ -1117,6 +2017,36 @@
       "nov": 80.8,
       "dec": 78.8,
       "annual": 81.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 14,
+      "feb": 13,
+      "mar": 16,
+      "apr": 17,
+      "may": 15,
+      "jun": 17,
+      "jul": 19,
+      "aug": 18,
+      "sep": 16,
+      "oct": 17,
+      "nov": 17,
+      "dec": 17,
+      "annual": 197
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "24131": {
@@ -1152,6 +2082,36 @@
       "nov": 48.2,
       "dec": 37.5,
       "annual": 63.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 12,
+      "feb": 10,
+      "mar": 10,
+      "apr": 8,
+      "may": 8,
+      "jun": 6,
+      "jul": 2,
+      "aug": 3,
+      "sep": 4,
+      "oct": 6,
+      "nov": 10,
+      "dec": 12,
+      "annual": 90
+    },
+    "snowfall": {
+      "jan": 6.2,
+      "feb": 3.4,
+      "mar": 1.6,
+      "apr": 0.5,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 2.2,
+      "dec": 5.7,
+      "annual": 19.8
     }
   },
   "24156": {
@@ -1187,6 +2147,36 @@
       "nov": 44.5,
       "dec": 32.8,
       "annual": 59.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 10,
+      "apr": 9,
+      "may": 9,
+      "jun": 7,
+      "jul": 4,
+      "aug": 5,
+      "sep": 5,
+      "oct": 6,
+      "nov": 9,
+      "dec": 11,
+      "annual": 95
+    },
+    "snowfall": {
+      "jan": 9.0,
+      "feb": 6.6,
+      "mar": 5.4,
+      "apr": 3.6,
+      "may": 0.5,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 1.7,
+      "nov": 4.6,
+      "dec": 8.6,
+      "annual": 40.0
     }
   },
   "94846": {
@@ -1222,6 +2212,36 @@
       "nov": 48.2,
       "dec": 34.8,
       "annual": 59.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 9,
+      "mar": 12,
+      "apr": 12,
+      "may": 11,
+      "jun": 10,
+      "jul": 10,
+      "aug": 9,
+      "sep": 9,
+      "oct": 10,
+      "nov": 10,
+      "dec": 11,
+      "annual": 125
+    },
+    "snowfall": {
+      "jan": 11.6,
+      "feb": 9.2,
+      "mar": 6.4,
+      "apr": 1.4,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.3,
+      "nov": 1.8,
+      "dec": 8.4,
+      "annual": 39.1
     }
   },
   "14923": {
@@ -1257,6 +2277,36 @@
       "nov": 49.2,
       "dec": 34.6,
       "annual": 60.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 8,
+      "mar": 11,
+      "apr": 11,
+      "may": 12,
+      "jun": 10,
+      "jul": 9,
+      "aug": 9,
+      "sep": 8,
+      "oct": 8,
+      "nov": 9,
+      "dec": 10,
+      "annual": 115
+    },
+    "snowfall": {
+      "jan": 9.1,
+      "feb": 7.4,
+      "mar": 5.5,
+      "apr": 1.2,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.2,
+      "nov": 2.2,
+      "dec": 8.2,
+      "annual": 33.8
     }
   },
   "14842": {
@@ -1292,6 +2342,36 @@
       "nov": 50.3,
       "dec": 36.1,
       "annual": 61.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 8,
+      "mar": 11,
+      "apr": 12,
+      "may": 12,
+      "jun": 10,
+      "jul": 9,
+      "aug": 8,
+      "sep": 8,
+      "oct": 8,
+      "nov": 9,
+      "dec": 10,
+      "annual": 114
+    },
+    "snowfall": {
+      "jan": 6.9,
+      "feb": 6.0,
+      "mar": 3.8,
+      "apr": 0.7,
+      "may": 0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 1.8,
+      "dec": 6.1,
+      "annual": 25.3
     }
   },
   "93822": {
@@ -1327,6 +2407,36 @@
       "nov": 52.3,
       "dec": 38.3,
       "annual": 63.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 9,
+      "mar": 11,
+      "apr": 11,
+      "may": 11,
+      "jun": 10,
+      "jul": 8,
+      "aug": 8,
+      "sep": 8,
+      "oct": 8,
+      "nov": 9,
+      "dec": 9,
+      "annual": 113
+    },
+    "snowfall": {
+      "jan": 5.8,
+      "feb": 5.7,
+      "mar": 3.8,
+      "apr": 0.5,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 1.2,
+      "dec": 4.7,
+      "annual": 21.8
     }
   },
   "93817": {
@@ -1362,6 +2472,36 @@
       "nov": 56.5,
       "dec": 44.1,
       "annual": 66.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 11,
+      "apr": 12,
+      "may": 11,
+      "jun": 10,
+      "jul": 9,
+      "aug": 7,
+      "sep": 7,
+      "oct": 8,
+      "nov": 9,
+      "dec": 11,
+      "annual": 116
+    },
+    "snowfall": {
+      "jan": 4.0,
+      "feb": 3.6,
+      "mar": 2.1,
+      "apr": 0.2,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 0.5,
+      "dec": 2.9,
+      "annual": 13.4
     }
   },
   "14827": {
@@ -1397,6 +2537,36 @@
       "nov": 49.9,
       "dec": 36.2,
       "annual": 60.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 12,
+      "feb": 10,
+      "mar": 12,
+      "apr": 13,
+      "may": 12,
+      "jun": 11,
+      "jul": 10,
+      "aug": 9,
+      "sep": 9,
+      "oct": 9,
+      "nov": 11,
+      "dec": 13,
+      "annual": 132
+    },
+    "snowfall": {
+      "jan": 9.0,
+      "feb": 7.7,
+      "mar": 4.9,
+      "apr": 1.1,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.2,
+      "nov": 2.7,
+      "dec": 7.2,
+      "annual": 32.8
     }
   },
   "93819": {
@@ -1432,6 +2602,36 @@
       "nov": 52.2,
       "dec": 38.9,
       "annual": 62.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 12,
+      "feb": 10,
+      "mar": 12,
+      "apr": 12,
+      "may": 12,
+      "jun": 10,
+      "jul": 10,
+      "aug": 9,
+      "sep": 8,
+      "oct": 9,
+      "nov": 10,
+      "dec": 12,
+      "annual": 127
+    },
+    "snowfall": {
+      "jan": 8.1,
+      "feb": 6.4,
+      "mar": 3.5,
+      "apr": 0.4,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.2,
+      "nov": 1.5,
+      "dec": 5.9,
+      "annual": 26.0
     }
   },
   "14933": {
@@ -1467,6 +2667,36 @@
       "nov": 47.9,
       "dec": 34.0,
       "annual": 60.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 8,
+      "mar": 10,
+      "apr": 11,
+      "may": 12,
+      "jun": 11,
+      "jul": 9,
+      "aug": 9,
+      "sep": 8,
+      "oct": 8,
+      "nov": 7,
+      "dec": 8,
+      "annual": 108
+    },
+    "snowfall": {
+      "jan": 8.5,
+      "feb": 8.2,
+      "mar": 5.9,
+      "apr": 1.7,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.3,
+      "nov": 2.8,
+      "dec": 7.4,
+      "annual": 34.9
     }
   },
   "14943": {
@@ -1502,6 +2732,36 @@
       "nov": 46.4,
       "dec": 32.1,
       "annual": 59.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 6,
+      "mar": 8,
+      "apr": 10,
+      "may": 11,
+      "jun": 11,
+      "jul": 9,
+      "aug": 9,
+      "sep": 8,
+      "oct": 7,
+      "nov": 6,
+      "dec": 7,
+      "annual": 99
+    },
+    "snowfall": {
+      "jan": 7.1,
+      "feb": 6.5,
+      "mar": 7.2,
+      "apr": 1.7,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.7,
+      "nov": 3.4,
+      "dec": 6.8,
+      "annual": 33.4
     }
   },
   "13984": {
@@ -1537,6 +2797,36 @@
       "nov": 52.2,
       "dec": 39.5,
       "annual": 65.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 5,
+      "feb": 5,
+      "mar": 7,
+      "apr": 9,
+      "may": 11,
+      "jun": 10,
+      "jul": 9,
+      "aug": 9,
+      "sep": 7,
+      "oct": 6,
+      "nov": 5,
+      "dec": 5,
+      "annual": 88
+    },
+    "snowfall": {
+      "jan": 4.4,
+      "feb": 5.2,
+      "mar": 4.1,
+      "apr": 0.9,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.2,
+      "nov": 1.7,
+      "dec": 4.0,
+      "annual": 20.5
     }
   },
   "13985": {
@@ -1572,6 +2862,36 @@
       "nov": 55.9,
       "dec": 44.3,
       "annual": 68.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 4,
+      "feb": 5,
+      "mar": 6,
+      "apr": 7,
+      "may": 9,
+      "jun": 9,
+      "jul": 8,
+      "aug": 8,
+      "sep": 6,
+      "oct": 5,
+      "nov": 4,
+      "dec": 4,
+      "annual": 77
+    },
+    "snowfall": {
+      "jan": 4.3,
+      "feb": 4.3,
+      "mar": 4.7,
+      "apr": 0.8,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.3,
+      "nov": 1.8,
+      "dec": 3.7,
+      "annual": 19.9
     }
   },
   "13996": {
@@ -1607,6 +2927,36 @@
       "nov": 54.6,
       "dec": 41.7,
       "annual": 66.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 6,
+      "feb": 6,
+      "mar": 9,
+      "apr": 10,
+      "may": 12,
+      "jun": 11,
+      "jul": 9,
+      "aug": 8,
+      "sep": 8,
+      "oct": 7,
+      "nov": 6,
+      "dec": 6,
+      "annual": 97
+    },
+    "snowfall": {
+      "jan": 5.4,
+      "feb": 5.1,
+      "mar": 3.1,
+      "apr": 0.4,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 1.0,
+      "dec": 4.7,
+      "annual": 19.8
     }
   },
   "03928": {
@@ -1642,6 +2992,36 @@
       "nov": 56.2,
       "dec": 43.5,
       "annual": 68.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 5,
+      "feb": 5,
+      "mar": 8,
+      "apr": 8,
+      "may": 11,
+      "jun": 9,
+      "jul": 8,
+      "aug": 8,
+      "sep": 7,
+      "oct": 6,
+      "nov": 5,
+      "dec": 6,
+      "annual": 86
+    },
+    "snowfall": {
+      "jan": 4.0,
+      "feb": 4.3,
+      "mar": 2.5,
+      "apr": 0.2,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 1.1,
+      "dec": 3.4,
+      "annual": 15.5
     }
   },
   "93821": {
@@ -1677,6 +3057,36 @@
       "nov": 57.9,
       "dec": 45.8,
       "annual": 67.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 13,
+      "apr": 12,
+      "may": 12,
+      "jun": 10,
+      "jul": 10,
+      "aug": 8,
+      "sep": 8,
+      "oct": 8,
+      "nov": 10,
+      "dec": 12,
+      "annual": 124
+    },
+    "snowfall": {
+      "jan": 5.1,
+      "feb": 4.5,
+      "mar": 2.8,
+      "apr": 0.1,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 0.8,
+      "dec": 2.4,
+      "annual": 15.8
     }
   },
   "03816": {
@@ -1712,6 +3122,36 @@
       "nov": 58.4,
       "dec": 46.3,
       "annual": 68.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 11,
+      "apr": 11,
+      "may": 11,
+      "jun": 9,
+      "jul": 9,
+      "aug": 7,
+      "sep": 7,
+      "oct": 7,
+      "nov": 9,
+      "dec": 10,
+      "annual": 109
+    },
+    "snowfall": {
+      "jan": 3.1,
+      "feb": 3.1,
+      "mar": 1.7,
+      "apr": 0.1,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.2,
+      "dec": 1.7,
+      "annual": 9.9
     }
   },
   "03937": {
@@ -1747,6 +3187,36 @@
       "nov": 71.6,
       "dec": 63.5,
       "annual": 78.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 8,
+      "mar": 8,
+      "apr": 7,
+      "may": 8,
+      "jun": 9,
+      "jul": 11,
+      "aug": 11,
+      "sep": 9,
+      "oct": 7,
+      "nov": 8,
+      "dec": 9,
+      "annual": 104
+    },
+    "snowfall": {
+      "jan": 0.1,
+      "feb": 0.1,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.2
     }
   },
   "12916": {
@@ -1782,6 +3252,36 @@
       "nov": 71.8,
       "dec": 64.4,
       "annual": 78.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 9,
+      "apr": 7,
+      "may": 8,
+      "jun": 11,
+      "jul": 14,
+      "aug": 13,
+      "sep": 10,
+      "oct": 6,
+      "nov": 7,
+      "dec": 10,
+      "annual": 114
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.1,
+      "annual": 0.1
     }
   },
   "13957": {
@@ -1817,6 +3317,36 @@
       "nov": 67.5,
       "dec": 58.5,
       "annual": 76.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 9,
+      "apr": 8,
+      "may": 9,
+      "jun": 8,
+      "jul": 8,
+      "aug": 7,
+      "sep": 7,
+      "oct": 7,
+      "nov": 8,
+      "dec": 9,
+      "annual": 99
+    },
+    "snowfall": {
+      "jan": 0.8,
+      "feb": 0.5,
+      "mar": 0.1,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.2,
+      "annual": 1.6
     }
   },
   "14764": {
@@ -1852,6 +3382,36 @@
       "nov": 48.0,
       "dec": 37.3,
       "annual": 55.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 11,
+      "apr": 12,
+      "may": 13,
+      "jun": 12,
+      "jul": 10,
+      "aug": 9,
+      "sep": 9,
+      "oct": 10,
+      "nov": 11,
+      "dec": 12,
+      "annual": 130
+    },
+    "snowfall": {
+      "jan": 19.4,
+      "feb": 17.3,
+      "mar": 12.7,
+      "apr": 2.7,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.2,
+      "nov": 2.8,
+      "dec": 14.4,
+      "annual": 69.6
     }
   },
   "93721": {
@@ -1887,6 +3447,36 @@
       "nov": 56.4,
       "dec": 45.3,
       "annual": 65.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 11,
+      "apr": 11,
+      "may": 11,
+      "jun": 10,
+      "jul": 10,
+      "aug": 9,
+      "sep": 8,
+      "oct": 8,
+      "nov": 9,
+      "dec": 10,
+      "annual": 116
+    },
+    "snowfall": {
+      "jan": 5.7,
+      "feb": 7.0,
+      "mar": 3.4,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.6,
+      "dec": 3.2,
+      "annual": 19.9
     }
   },
   "14739": {
@@ -1922,6 +3512,36 @@
       "nov": 51.5,
       "dec": 41.2,
       "annual": 58.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 12,
+      "feb": 10,
+      "mar": 12,
+      "apr": 11,
+      "may": 12,
+      "jun": 11,
+      "jul": 9,
+      "aug": 10,
+      "sep": 9,
+      "oct": 9,
+      "nov": 11,
+      "dec": 12,
+      "annual": 126
+    },
+    "snowfall": {
+      "jan": 13.3,
+      "feb": 12.5,
+      "mar": 7.8,
+      "apr": 1.1,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 1.2,
+      "dec": 8.0,
+      "annual": 43.9
     }
   },
   "94849": {
@@ -1957,6 +3577,36 @@
       "nov": 43.1,
       "dec": 31.7,
       "annual": 53.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 14,
+      "feb": 11,
+      "mar": 11,
+      "apr": 11,
+      "may": 11,
+      "jun": 11,
+      "jul": 10,
+      "aug": 10,
+      "sep": 12,
+      "oct": 12,
+      "nov": 13,
+      "dec": 14,
+      "annual": 141
+    },
+    "snowfall": {
+      "jan": 19.3,
+      "feb": 14.9,
+      "mar": 12.7,
+      "apr": 4.4,
+      "may": 0.4,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.6,
+      "nov": 6.9,
+      "dec": 16.6,
+      "annual": 75.8
     }
   },
   "94847": {
@@ -1992,6 +3642,36 @@
       "nov": 48.8,
       "dec": 36.1,
       "annual": 59.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 13,
+      "feb": 11,
+      "mar": 12,
+      "apr": 12,
+      "may": 12,
+      "jun": 11,
+      "jul": 10,
+      "aug": 10,
+      "sep": 10,
+      "oct": 10,
+      "nov": 11,
+      "dec": 14,
+      "annual": 135
+    },
+    "snowfall": {
+      "jan": 12.0,
+      "feb": 10.7,
+      "mar": 6.7,
+      "apr": 1.6,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 2.4,
+      "dec": 9.7,
+      "annual": 43.2
     }
   },
   "94860": {
@@ -2027,6 +3707,36 @@
       "nov": 47.3,
       "dec": 34.8,
       "annual": 58.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 16,
+      "feb": 12,
+      "mar": 12,
+      "apr": 13,
+      "may": 11,
+      "jun": 10,
+      "jul": 10,
+      "aug": 10,
+      "sep": 10,
+      "oct": 12,
+      "nov": 13,
+      "dec": 16,
+      "annual": 146
+    },
+    "snowfall": {
+      "jan": 22.0,
+      "feb": 14.7,
+      "mar": 9.1,
+      "apr": 2.3,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.5,
+      "nov": 7.5,
+      "dec": 19.3,
+      "annual": 75.4
     }
   },
   "14836": {
@@ -2062,6 +3772,36 @@
       "nov": 46.7,
       "dec": 34.3,
       "annual": 57.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 14,
+      "feb": 11,
+      "mar": 12,
+      "apr": 12,
+      "may": 11,
+      "jun": 11,
+      "jul": 10,
+      "aug": 10,
+      "sep": 10,
+      "oct": 10,
+      "nov": 12,
+      "dec": 14,
+      "annual": 138
+    },
+    "snowfall": {
+      "jan": 13.4,
+      "feb": 11.0,
+      "mar": 7.6,
+      "apr": 2.6,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.4,
+      "nov": 4.8,
+      "dec": 11.7,
+      "annual": 51.5
     }
   },
   "14847": {
@@ -2097,6 +3837,36 @@
       "nov": 40.1,
       "dec": 28.6,
       "annual": 50.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 19,
+      "feb": 14,
+      "mar": 13,
+      "apr": 11,
+      "may": 11,
+      "jun": 11,
+      "jul": 10,
+      "aug": 11,
+      "sep": 13,
+      "oct": 15,
+      "nov": 17,
+      "dec": 19,
+      "annual": 165
+    },
+    "snowfall": {
+      "jan": 30.5,
+      "feb": 19.5,
+      "mar": 14.3,
+      "apr": 5.9,
+      "may": 0.4,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.1,
+      "oct": 2.0,
+      "nov": 15.4,
+      "dec": 30.2,
+      "annual": 118.3
     }
   },
   "14913": {
@@ -2132,6 +3902,36 @@
       "nov": 35.6,
       "dec": 22.3,
       "annual": 48.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 9,
+      "mar": 10,
+      "apr": 11,
+      "may": 12,
+      "jun": 12,
+      "jul": 12,
+      "aug": 11,
+      "sep": 12,
+      "oct": 11,
+      "nov": 11,
+      "dec": 11,
+      "annual": 133
+    },
+    "snowfall": {
+      "jan": 17.4,
+      "feb": 12.5,
+      "mar": 14.2,
+      "apr": 7.6,
+      "may": 0.7,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.1,
+      "oct": 1.7,
+      "nov": 12.0,
+      "dec": 16.9,
+      "annual": 83.1
     }
   },
   "14922": {
@@ -2167,6 +3967,36 @@
       "nov": 41.2,
       "dec": 27.1,
       "annual": 55.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 7,
+      "mar": 10,
+      "apr": 11,
+      "may": 12,
+      "jun": 12,
+      "jul": 10,
+      "aug": 10,
+      "sep": 9,
+      "oct": 8,
+      "nov": 8,
+      "dec": 9,
+      "annual": 115
+    },
+    "snowfall": {
+      "jan": 10.3,
+      "feb": 8.4,
+      "mar": 10.3,
+      "apr": 2.7,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.5,
+      "nov": 7.0,
+      "dec": 10.1,
+      "annual": 49.4
     }
   },
   "03940": {
@@ -2202,6 +4032,36 @@
       "nov": 67.4,
       "dec": 58.2,
       "annual": 75.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 10,
+      "apr": 8,
+      "may": 9,
+      "jun": 9,
+      "jul": 11,
+      "aug": 10,
+      "sep": 7,
+      "oct": 6,
+      "nov": 8,
+      "dec": 10,
+      "annual": 108
+    },
+    "snowfall": {
+      "jan": 0.4,
+      "feb": 0.3,
+      "mar": 0.1,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.2,
+      "annual": 1.0
     }
   },
   "03945": {
@@ -2237,6 +4097,36 @@
       "nov": 53.9,
       "dec": 41.1,
       "annual": 64.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 8,
+      "mar": 11,
+      "apr": 11,
+      "may": 12,
+      "jun": 9,
+      "jul": 8,
+      "aug": 8,
+      "sep": 8,
+      "oct": 9,
+      "nov": 9,
+      "dec": 9,
+      "annual": 111
+    },
+    "snowfall": {
+      "jan": 6.1,
+      "feb": 6.2,
+      "mar": 2.8,
+      "apr": 0.5,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 1.5,
+      "dec": 4.3,
+      "annual": 21.4
     }
   },
   "03947": {
@@ -2272,6 +4162,36 @@
       "nov": 53.2,
       "dec": 40.3,
       "annual": 64.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 7,
+      "mar": 10,
+      "apr": 11,
+      "may": 11,
+      "jun": 10,
+      "jul": 8,
+      "aug": 8,
+      "sep": 8,
+      "oct": 8,
+      "nov": 7,
+      "dec": 7,
+      "annual": 104
+    },
+    "snowfall": {
+      "jan": 5.3,
+      "feb": 5.8,
+      "mar": 2.4,
+      "apr": 0.5,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.2,
+      "nov": 1.1,
+      "dec": 4.4,
+      "annual": 19.7
     }
   },
   "13994": {
@@ -2307,6 +4227,36 @@
       "nov": 55.5,
       "dec": 42.5,
       "annual": 66.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 8,
+      "mar": 11,
+      "apr": 11,
+      "may": 11,
+      "jun": 10,
+      "jul": 8,
+      "aug": 8,
+      "sep": 7,
+      "oct": 8,
+      "nov": 9,
+      "dec": 9,
+      "annual": 110
+    },
+    "snowfall": {
+      "jan": 5.6,
+      "feb": 4.5,
+      "mar": 3.8,
+      "apr": 0.4,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 1.2,
+      "dec": 3.7,
+      "annual": 19.2
     }
   },
   "13995": {
@@ -2342,6 +4292,36 @@
       "nov": 56.7,
       "dec": 44.9,
       "annual": 67.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 8,
+      "mar": 10,
+      "apr": 11,
+      "may": 11,
+      "jun": 10,
+      "jul": 8,
+      "aug": 8,
+      "sep": 8,
+      "oct": 8,
+      "nov": 9,
+      "dec": 9,
+      "annual": 109
+    },
+    "snowfall": {
+      "jan": 4.6,
+      "feb": 4.2,
+      "mar": 3.2,
+      "apr": 0.3,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 1.3,
+      "dec": 3.3,
+      "annual": 16.9
     }
   },
   "24033": {
@@ -2377,6 +4357,36 @@
       "nov": 45.3,
       "dec": 35.2,
       "annual": 59.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 7,
+      "mar": 9,
+      "apr": 10,
+      "may": 12,
+      "jun": 11,
+      "jul": 7,
+      "aug": 6,
+      "sep": 7,
+      "oct": 7,
+      "nov": 6,
+      "dec": 7,
+      "annual": 97
+    },
+    "snowfall": {
+      "jan": 10.5,
+      "feb": 7.7,
+      "mar": 9.9,
+      "apr": 8.2,
+      "may": 1.6,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 1.0,
+      "oct": 4.0,
+      "nov": 6.8,
+      "dec": 9.1,
+      "annual": 58.8
     }
   },
   "24143": {
@@ -2412,6 +4422,36 @@
       "nov": 43.3,
       "dec": 34.6,
       "annual": 57.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 8,
+      "mar": 9,
+      "apr": 9,
+      "may": 11,
+      "jun": 12,
+      "jul": 7,
+      "aug": 7,
+      "sep": 7,
+      "oct": 6,
+      "nov": 7,
+      "dec": 7,
+      "annual": 100
+    },
+    "snowfall": {
+      "jan": 9.7,
+      "feb": 8.7,
+      "mar": 10.5,
+      "apr": 7.9,
+      "may": 1.9,
+      "jun": 0.3,
+      "jul": 0.0,
+      "aug": 0.1,
+      "sep": 1.1,
+      "oct": 3.4,
+      "nov": 7.7,
+      "dec": 9.1,
+      "annual": 60.4
     }
   },
   "94012": {
@@ -2447,6 +4487,36 @@
       "nov": 41.6,
       "dec": 30.2,
       "annual": 56.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 6,
+      "mar": 7,
+      "apr": 8,
+      "may": 10,
+      "jun": 11,
+      "jul": 8,
+      "aug": 7,
+      "sep": 7,
+      "oct": 5,
+      "nov": 6,
+      "dec": 7,
+      "annual": 88
+    },
+    "snowfall": {
+      "jan": 8.9,
+      "feb": 5.7,
+      "mar": 6.6,
+      "apr": 4.7,
+      "may": 1.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.2,
+      "oct": 1.6,
+      "nov": 5.1,
+      "dec": 7.7,
+      "annual": 41.5
     }
   },
   "24144": {
@@ -2482,6 +4552,36 @@
       "nov": 43.1,
       "dec": 31.7,
       "annual": 58.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 6,
+      "mar": 8,
+      "apr": 8,
+      "may": 11,
+      "jun": 11,
+      "jul": 8,
+      "aug": 7,
+      "sep": 6,
+      "oct": 6,
+      "nov": 7,
+      "dec": 7,
+      "annual": 94
+    },
+    "snowfall": {
+      "jan": 8.3,
+      "feb": 6.3,
+      "mar": 6.6,
+      "apr": 4.4,
+      "may": 1.1,
+      "jun": 0.1,
+      "jul": 0.0,
+      "aug": 0.1,
+      "sep": 1.2,
+      "oct": 1.9,
+      "nov": 6.2,
+      "dec": 7.6,
+      "annual": 43.8
     }
   },
   "24153": {
@@ -2517,6 +4617,36 @@
       "nov": 41.5,
       "dec": 31.0,
       "annual": 58.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 14,
+      "feb": 10,
+      "mar": 12,
+      "apr": 11,
+      "may": 12,
+      "jun": 12,
+      "jul": 7,
+      "aug": 7,
+      "sep": 7,
+      "oct": 8,
+      "nov": 11,
+      "dec": 13,
+      "annual": 124
+    },
+    "snowfall": {
+      "jan": 12.0,
+      "feb": 7.9,
+      "mar": 6.0,
+      "apr": 1.9,
+      "may": 0.6,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.7,
+      "nov": 5.6,
+      "dec": 10.9,
+      "annual": 45.6
     }
   },
   "14939": {
@@ -2552,6 +4682,36 @@
       "nov": 50.3,
       "dec": 37.2,
       "annual": 63.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 6,
+      "feb": 6,
+      "mar": 8,
+      "apr": 9,
+      "may": 11,
+      "jun": 10,
+      "jul": 9,
+      "aug": 9,
+      "sep": 7,
+      "oct": 6,
+      "nov": 5,
+      "dec": 6,
+      "annual": 93
+    },
+    "snowfall": {
+      "jan": 6.4,
+      "feb": 6.0,
+      "mar": 4.8,
+      "apr": 1.2,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.5,
+      "nov": 2.2,
+      "dec": 5.7,
+      "annual": 26.9
     }
   },
   "24023": {
@@ -2587,6 +4747,36 @@
       "nov": 50.2,
       "dec": 39.1,
       "annual": 63.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 5,
+      "feb": 5,
+      "mar": 7,
+      "apr": 8,
+      "may": 11,
+      "jun": 10,
+      "jul": 10,
+      "aug": 8,
+      "sep": 7,
+      "oct": 6,
+      "nov": 4,
+      "dec": 4,
+      "annual": 85
+    },
+    "snowfall": {
+      "jan": 5.2,
+      "feb": 5.4,
+      "mar": 6.0,
+      "apr": 3.0,
+      "may": 0.2,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.1,
+      "oct": 1.6,
+      "nov": 3.5,
+      "dec": 4.7,
+      "annual": 29.7
     }
   },
   "14942": {
@@ -2622,6 +4812,36 @@
       "nov": 48.9,
       "dec": 35.3,
       "annual": 61.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 6,
+      "feb": 7,
+      "mar": 9,
+      "apr": 10,
+      "may": 12,
+      "jun": 11,
+      "jul": 10,
+      "aug": 9,
+      "sep": 8,
+      "oct": 7,
+      "nov": 6,
+      "dec": 7,
+      "annual": 100
+    },
+    "snowfall": {
+      "jan": 7.0,
+      "feb": 6.8,
+      "mar": 5.8,
+      "apr": 0.8,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.3,
+      "nov": 2.4,
+      "dec": 5.9,
+      "annual": 29.1
     }
   },
   "24032": {
@@ -2657,6 +4877,36 @@
       "nov": 47.7,
       "dec": 36.6,
       "annual": 61.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 5,
+      "feb": 5,
+      "mar": 7,
+      "apr": 9,
+      "may": 11,
+      "jun": 11,
+      "jul": 9,
+      "aug": 8,
+      "sep": 7,
+      "oct": 5,
+      "nov": 4,
+      "dec": 5,
+      "annual": 85
+    },
+    "snowfall": {
+      "jan": 4.3,
+      "feb": 5.9,
+      "mar": 7.3,
+      "apr": 4.2,
+      "may": 0.3,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.3,
+      "oct": 1.1,
+      "nov": 4.5,
+      "dec": 5.1,
+      "annual": 33.0
     }
   },
   "23154": {
@@ -2692,6 +4942,36 @@
       "nov": 48.6,
       "dec": 39.5,
       "annual": 61.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 6,
+      "feb": 7,
+      "mar": 7,
+      "apr": 7,
+      "may": 7,
+      "jun": 4,
+      "jul": 5,
+      "aug": 6,
+      "sep": 4,
+      "oct": 5,
+      "nov": 5,
+      "dec": 6,
+      "annual": 70
+    },
+    "snowfall": {
+      "jan": 9.0,
+      "feb": 8.2,
+      "mar": 9.7,
+      "apr": 6.2,
+      "may": 2.4,
+      "jun": 0.1,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.3,
+      "oct": 2.2,
+      "nov": 5.3,
+      "dec": 8.1,
+      "annual": 51.5
     }
   },
   "23169": {
@@ -2727,6 +5007,36 @@
       "nov": 66.3,
       "dec": 56.6,
       "annual": 80.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 3,
+      "feb": 3,
+      "mar": 3,
+      "apr": 2,
+      "may": 1,
+      "jun": 1,
+      "jul": 3,
+      "aug": 3,
+      "sep": 2,
+      "oct": 2,
+      "nov": 2,
+      "dec": 3,
+      "annual": 26
+    },
+    "snowfall": {
+      "jan": 0.6,
+      "feb": 0.0,
+      "mar": 0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.1,
+      "dec": 0.1,
+      "annual": 0.8
     }
   },
   "23185": {
@@ -2762,6 +5072,36 @@
       "nov": 55.0,
       "dec": 45.6,
       "annual": 67.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 6,
+      "mar": 6,
+      "apr": 4,
+      "may": 4,
+      "jun": 3,
+      "jul": 2,
+      "aug": 2,
+      "sep": 2,
+      "oct": 3,
+      "nov": 5,
+      "dec": 6,
+      "annual": 51
+    },
+    "snowfall": {
+      "jan": 5.2,
+      "feb": 5.0,
+      "mar": 3.5,
+      "apr": 1.1,
+      "may": 0.7,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.3,
+      "nov": 1.9,
+      "dec": 4.7,
+      "annual": 22.4
     }
   },
   "24128": {
@@ -2797,6 +5137,36 @@
       "nov": 51.4,
       "dec": 41.3,
       "annual": 65.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 8,
+      "mar": 8,
+      "apr": 7,
+      "may": 7,
+      "jun": 5,
+      "jul": 2,
+      "aug": 2,
+      "sep": 3,
+      "oct": 5,
+      "nov": 6,
+      "dec": 8,
+      "annual": 69
+    },
+    "snowfall": {
+      "jan": 6.5,
+      "feb": 4.5,
+      "mar": 3.9,
+      "apr": 1.9,
+      "may": 0.4,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.5,
+      "nov": 2.3,
+      "dec": 5.7,
+      "annual": 25.7
     }
   },
   "14745": {
@@ -2832,6 +5202,36 @@
       "nov": 48.4,
       "dec": 36.3,
       "annual": 58.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 9,
+      "mar": 11,
+      "apr": 11,
+      "may": 12,
+      "jun": 12,
+      "jul": 11,
+      "aug": 10,
+      "sep": 9,
+      "oct": 9,
+      "nov": 11,
+      "dec": 11,
+      "annual": 128
+    },
+    "snowfall": {
+      "jan": 18.1,
+      "feb": 15.5,
+      "mar": 11.5,
+      "apr": 2.4,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.4,
+      "nov": 3.4,
+      "dec": 13.7,
+      "annual": 65.1
     }
   },
   "14755": {
@@ -2867,6 +5267,36 @@
       "nov": 28.1,
       "dec": 18.4,
       "annual": 34.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 20,
+      "feb": 18,
+      "mar": 19,
+      "apr": 18,
+      "may": 17,
+      "jun": 17,
+      "jul": 17,
+      "aug": 16,
+      "sep": 15,
+      "oct": 16,
+      "nov": 19,
+      "dec": 21,
+      "annual": 213
+    },
+    "snowfall": {
+      "jan": 43.2,
+      "feb": 44.7,
+      "mar": 46.9,
+      "apr": 34.2,
+      "may": 11.5,
+      "jun": 1.0,
+      "jul": 0.0,
+      "aug": 0.1,
+      "sep": 1.8,
+      "oct": 14.8,
+      "nov": 34.0,
+      "dec": 48.0,
+      "annual": 280.2
     }
   },
   "93730": {
@@ -2902,6 +5332,36 @@
       "nov": 56.3,
       "dec": 46.0,
       "annual": 63.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 10,
+      "apr": 11,
+      "may": 10,
+      "jun": 9,
+      "jul": 9,
+      "aug": 9,
+      "sep": 8,
+      "oct": 8,
+      "nov": 9,
+      "dec": 10,
+      "annual": 114
+    },
+    "snowfall": {
+      "jan": 5.4,
+      "feb": 6.8,
+      "mar": 2.2,
+      "apr": 0.3,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.3,
+      "dec": 2.9,
+      "annual": 17.9
     }
   },
   "23050": {
@@ -2937,6 +5397,36 @@
       "nov": 55.8,
       "dec": 46.1,
       "annual": 68.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 4,
+      "feb": 4,
+      "mar": 4,
+      "apr": 3,
+      "may": 4,
+      "jun": 4,
+      "jul": 9,
+      "aug": 9,
+      "sep": 6,
+      "oct": 5,
+      "nov": 3,
+      "dec": 4,
+      "annual": 59
+    },
+    "snowfall": {
+      "jan": 2.2,
+      "feb": 1.9,
+      "mar": 1.5,
+      "apr": 0.5,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 1.0,
+      "dec": 2.5,
+      "annual": 9.7
     }
   },
   "23009": {
@@ -2972,6 +5462,36 @@
       "nov": 64.3,
       "dec": 54.6,
       "annual": 75.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 3,
+      "feb": 3,
+      "mar": 3,
+      "apr": 2,
+      "may": 4,
+      "jun": 4,
+      "jul": 7,
+      "aug": 7,
+      "sep": 6,
+      "oct": 4,
+      "nov": 3,
+      "dec": 3,
+      "annual": 50
+    },
+    "snowfall": {
+      "jan": 2.6,
+      "feb": 2.2,
+      "mar": 0.7,
+      "apr": 0.2,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 1.2,
+      "dec": 3.1,
+      "annual": 10.1
     }
   },
   "14735": {
@@ -3007,6 +5527,36 @@
       "nov": 47.9,
       "dec": 35.8,
       "annual": 57.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 12,
+      "feb": 10,
+      "mar": 12,
+      "apr": 12,
+      "may": 13,
+      "jun": 12,
+      "jul": 11,
+      "aug": 10,
+      "sep": 10,
+      "oct": 10,
+      "nov": 11,
+      "dec": 12,
+      "annual": 136
+    },
+    "snowfall": {
+      "jan": 16.7,
+      "feb": 13.9,
+      "mar": 11.1,
+      "apr": 2.3,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.2,
+      "nov": 3.8,
+      "dec": 13.7,
+      "annual": 61.8
     }
   },
   "04725": {
@@ -3042,6 +5592,36 @@
       "nov": 45.1,
       "dec": 33.3,
       "annual": 54.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 16,
+      "feb": 14,
+      "mar": 15,
+      "apr": 14,
+      "may": 14,
+      "jun": 12,
+      "jul": 11,
+      "aug": 11,
+      "sep": 11,
+      "oct": 12,
+      "nov": 14,
+      "dec": 17,
+      "annual": 161
+    },
+    "snowfall": {
+      "jan": 20.5,
+      "feb": 18.1,
+      "mar": 14.7,
+      "apr": 4.3,
+      "may": 0.2,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.7,
+      "nov": 7.3,
+      "dec": 18.2,
+      "annual": 84.0
     }
   },
   "14733": {
@@ -3077,6 +5657,36 @@
       "nov": 47.6,
       "dec": 36.1,
       "annual": 56.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 20,
+      "feb": 17,
+      "mar": 16,
+      "apr": 14,
+      "may": 13,
+      "jun": 11,
+      "jul": 10,
+      "aug": 10,
+      "sep": 11,
+      "oct": 12,
+      "nov": 15,
+      "dec": 19,
+      "annual": 167
+    },
+    "snowfall": {
+      "jan": 24.7,
+      "feb": 18.3,
+      "mar": 12.2,
+      "apr": 2.8,
+      "may": 0.2,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.5,
+      "nov": 10.2,
+      "dec": 23.0,
+      "annual": 91.9
     }
   },
   "14768": {
@@ -3112,6 +5722,36 @@
       "nov": 48.0,
       "dec": 36.5,
       "annual": 57.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 19,
+      "feb": 16,
+      "mar": 15,
+      "apr": 14,
+      "may": 12,
+      "jun": 11,
+      "jul": 10,
+      "aug": 10,
+      "sep": 11,
+      "oct": 12,
+      "nov": 15,
+      "dec": 18,
+      "annual": 162
+    },
+    "snowfall": {
+      "jan": 23.0,
+      "feb": 21.6,
+      "mar": 15.1,
+      "apr": 3.2,
+      "may": 0.2,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.2,
+      "nov": 6.6,
+      "dec": 18.9,
+      "annual": 88.8
     }
   },
   "14771": {
@@ -3147,6 +5787,36 @@
       "nov": 48.4,
       "dec": 36.4,
       "annual": 57.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 19,
+      "feb": 16,
+      "mar": 16,
+      "apr": 14,
+      "may": 13,
+      "jun": 12,
+      "jul": 11,
+      "aug": 11,
+      "sep": 11,
+      "oct": 13,
+      "nov": 16,
+      "dec": 19,
+      "annual": 172
+    },
+    "snowfall": {
+      "jan": 30.0,
+      "feb": 26.9,
+      "mar": 17.3,
+      "apr": 3.3,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.4,
+      "nov": 8.9,
+      "dec": 27.0,
+      "annual": 113.9
     }
   },
   "03812": {
@@ -3182,6 +5852,36 @@
       "nov": 58.8,
       "dec": 49.5,
       "annual": 66.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 9,
+      "mar": 12,
+      "apr": 10,
+      "may": 11,
+      "jun": 12,
+      "jul": 13,
+      "aug": 12,
+      "sep": 9,
+      "oct": 8,
+      "nov": 9,
+      "dec": 10,
+      "annual": 126
+    },
+    "snowfall": {
+      "jan": 3.9,
+      "feb": 3.4,
+      "mar": 2.0,
+      "apr": 0.4,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.6,
+      "dec": 1.7,
+      "annual": 12.0
     }
   },
   "93729": {
@@ -3217,6 +5917,36 @@
       "nov": 64.0,
       "dec": 55.9,
       "annual": 68.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 10,
+      "apr": 9,
+      "may": 9,
+      "jun": 10,
+      "jul": 12,
+      "aug": 11,
+      "sep": 10,
+      "oct": 9,
+      "nov": 9,
+      "dec": 10,
+      "annual": 121
+    },
+    "snowfall": {
+      "jan": 0.4,
+      "feb": 0.7,
+      "mar": 0.4,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.5,
+      "annual": 2.0
     }
   },
   "13881": {
@@ -3252,6 +5982,36 @@
       "nov": 62.4,
       "dec": 52.9,
       "annual": 70.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 10,
+      "mar": 11,
+      "apr": 9,
+      "may": 9,
+      "jun": 10,
+      "jul": 11,
+      "aug": 10,
+      "sep": 8,
+      "oct": 7,
+      "nov": 8,
+      "dec": 10,
+      "annual": 111
+    },
+    "snowfall": {
+      "jan": 1.9,
+      "feb": 1.6,
+      "mar": 0.9,
+      "apr": 0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.1,
+      "dec": 0.4,
+      "annual": 4.9
     }
   },
   "13723": {
@@ -3287,6 +6047,36 @@
       "nov": 60.8,
       "dec": 50.7,
       "annual": 69.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 10,
+      "mar": 11,
+      "apr": 9,
+      "may": 10,
+      "jun": 10,
+      "jul": 12,
+      "aug": 10,
+      "sep": 8,
+      "oct": 7,
+      "nov": 8,
+      "dec": 9,
+      "annual": 115
+    },
+    "snowfall": {
+      "jan": 3.1,
+      "feb": 2.5,
+      "mar": 1.5,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.1,
+      "dec": 1.2,
+      "annual": 8.4
     }
   },
   "13722": {
@@ -3322,6 +6112,36 @@
       "nov": 63.6,
       "dec": 53.6,
       "annual": 71.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 10,
+      "apr": 9,
+      "may": 10,
+      "jun": 10,
+      "jul": 11,
+      "aug": 10,
+      "sep": 8,
+      "oct": 7,
+      "nov": 8,
+      "dec": 9,
+      "annual": 113
+    },
+    "snowfall": {
+      "jan": 2.5,
+      "feb": 2.4,
+      "mar": 1.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.1,
+      "dec": 0.7,
+      "annual": 6.7
     }
   },
   "13748": {
@@ -3357,6 +6177,36 @@
       "nov": 68.0,
       "dec": 59.3,
       "annual": 74.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 10,
+      "mar": 10,
+      "apr": 8,
+      "may": 9,
+      "jun": 10,
+      "jul": 13,
+      "aug": 13,
+      "sep": 10,
+      "oct": 7,
+      "nov": 8,
+      "dec": 9,
+      "annual": 118
+    },
+    "snowfall": {
+      "jan": 0.5,
+      "feb": 0.5,
+      "mar": 0.3,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.4,
+      "annual": 1.7
     }
   },
   "24011": {
@@ -3392,6 +6242,36 @@
       "nov": 39.6,
       "dec": 26.2,
       "annual": 55.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 7,
+      "mar": 8,
+      "apr": 8,
+      "may": 10,
+      "jun": 11,
+      "jul": 9,
+      "aug": 8,
+      "sep": 7,
+      "oct": 6,
+      "nov": 6,
+      "dec": 8,
+      "annual": 97
+    },
+    "snowfall": {
+      "jan": 8.3,
+      "feb": 7.3,
+      "mar": 8.4,
+      "apr": 4.1,
+      "may": 0.7,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.1,
+      "oct": 1.5,
+      "nov": 6.6,
+      "dec": 8.3,
+      "annual": 45.3
     }
   },
   "14914": {
@@ -3427,6 +6307,36 @@
       "nov": 37.3,
       "dec": 22.3,
       "annual": 52.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 7,
+      "mar": 8,
+      "apr": 8,
+      "may": 11,
+      "jun": 11,
+      "jul": 9,
+      "aug": 9,
+      "sep": 8,
+      "oct": 7,
+      "nov": 6,
+      "dec": 9,
+      "annual": 102
+    },
+    "snowfall": {
+      "jan": 9.2,
+      "feb": 6.5,
+      "mar": 7.8,
+      "apr": 3.5,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.7,
+      "nov": 6.0,
+      "dec": 8.5,
+      "annual": 42.3
     }
   },
   "94014": {
@@ -3462,6 +6372,36 @@
       "nov": 37.9,
       "dec": 24.4,
       "annual": 54.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 6,
+      "mar": 7,
+      "apr": 7,
+      "may": 9,
+      "jun": 12,
+      "jul": 9,
+      "aug": 8,
+      "sep": 7,
+      "oct": 6,
+      "nov": 6,
+      "dec": 8,
+      "annual": 93
+    },
+    "snowfall": {
+      "jan": 7.0,
+      "feb": 5.0,
+      "mar": 6.5,
+      "apr": 3.4,
+      "may": 0.5,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.2,
+      "oct": 1.6,
+      "nov": 5.0,
+      "dec": 6.6,
+      "annual": 35.8
     }
   },
   "14820": {
@@ -3497,6 +6437,36 @@
       "nov": 50.8,
       "dec": 38.3,
       "annual": 59.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 17,
+      "feb": 14,
+      "mar": 15,
+      "apr": 14,
+      "may": 13,
+      "jun": 11,
+      "jul": 10,
+      "aug": 10,
+      "sep": 10,
+      "oct": 11,
+      "nov": 14,
+      "dec": 16,
+      "annual": 156
+    },
+    "snowfall": {
+      "jan": 14.9,
+      "feb": 13.4,
+      "mar": 10.6,
+      "apr": 2.4,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.4,
+      "nov": 5.0,
+      "dec": 12.0,
+      "annual": 58.7
     }
   },
   "14821": {
@@ -3532,6 +6502,36 @@
       "nov": 52.6,
       "dec": 40.1,
       "annual": 62.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 14,
+      "feb": 11,
+      "mar": 13,
+      "apr": 13,
+      "may": 13,
+      "jun": 11,
+      "jul": 11,
+      "aug": 9,
+      "sep": 9,
+      "oct": 9,
+      "nov": 11,
+      "dec": 13,
+      "annual": 138
+    },
+    "snowfall": {
+      "jan": 9.0,
+      "feb": 6.8,
+      "mar": 4.5,
+      "apr": 0.8,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 1.9,
+      "dec": 5.6,
+      "annual": 28.7
     }
   },
   "93815": {
@@ -3567,6 +6567,36 @@
       "nov": 51.1,
       "dec": 38.1,
       "annual": 61.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 13,
+      "feb": 11,
+      "mar": 12,
+      "apr": 13,
+      "may": 13,
+      "jun": 11,
+      "jul": 10,
+      "aug": 9,
+      "sep": 8,
+      "oct": 9,
+      "nov": 11,
+      "dec": 12,
+      "annual": 133
+    },
+    "snowfall": {
+      "jan": 8.5,
+      "feb": 6.4,
+      "mar": 5.1,
+      "apr": 0.6,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.2,
+      "nov": 1.8,
+      "dec": 5.3,
+      "annual": 27.9
     }
   },
   "94830": {
@@ -3602,6 +6632,36 @@
       "nov": 49.7,
       "dec": 36.4,
       "annual": 60.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 13,
+      "feb": 11,
+      "mar": 12,
+      "apr": 12,
+      "may": 12,
+      "jun": 10,
+      "jul": 10,
+      "aug": 9,
+      "sep": 10,
+      "oct": 10,
+      "nov": 11,
+      "dec": 13,
+      "annual": 134
+    },
+    "snowfall": {
+      "jan": 10.9,
+      "feb": 9.4,
+      "mar": 5.9,
+      "apr": 1.4,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 2.6,
+      "dec": 7.9,
+      "annual": 38.2
     }
   },
   "13967": {
@@ -3637,6 +6697,36 @@
       "nov": 61.5,
       "dec": 50.6,
       "annual": 72.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 5,
+      "feb": 6,
+      "mar": 7,
+      "apr": 7,
+      "may": 10,
+      "jun": 9,
+      "jul": 6,
+      "aug": 6,
+      "sep": 7,
+      "oct": 7,
+      "nov": 5,
+      "dec": 5,
+      "annual": 82
+    },
+    "snowfall": {
+      "jan": 2.7,
+      "feb": 2.3,
+      "mar": 1.3,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0,
+      "nov": 0.6,
+      "dec": 2.0,
+      "annual": 8.9
     }
   },
   "13968": {
@@ -3672,6 +6762,36 @@
       "nov": 60.9,
       "dec": 49.3,
       "annual": 71.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 6,
+      "feb": 7,
+      "mar": 8,
+      "apr": 9,
+      "may": 11,
+      "jun": 9,
+      "jul": 7,
+      "aug": 7,
+      "sep": 8,
+      "oct": 7,
+      "nov": 6,
+      "dec": 7,
+      "annual": 91
+    },
+    "snowfall": {
+      "jan": 2.9,
+      "feb": 2.5,
+      "mar": 1.8,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.6,
+      "dec": 1.8,
+      "annual": 9.6
     }
   },
   "24229": {
@@ -3707,6 +6827,36 @@
       "nov": 52.8,
       "dec": 45.6,
       "annual": 63.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 18,
+      "feb": 16,
+      "mar": 17,
+      "apr": 15,
+      "may": 12,
+      "jun": 9,
+      "jul": 4,
+      "aug": 4,
+      "sep": 7,
+      "oct": 13,
+      "nov": 18,
+      "dec": 19,
+      "annual": 153
+    },
+    "snowfall": {
+      "jan": 3.1,
+      "feb": 1.2,
+      "mar": 0.4,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.4,
+      "dec": 1.3,
+      "annual": 6.4
     }
   },
   "14751": {
@@ -3777,6 +6927,36 @@
       "nov": 56.0,
       "dec": 44.8,
       "annual": 64.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 9,
+      "mar": 11,
+      "apr": 11,
+      "may": 11,
+      "jun": 10,
+      "jul": 9,
+      "aug": 9,
+      "sep": 8,
+      "oct": 8,
+      "nov": 9,
+      "dec": 11,
+      "annual": 118
+    },
+    "snowfall": {
+      "jan": 6.9,
+      "feb": 7.6,
+      "mar": 3.5,
+      "apr": 0.4,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.5,
+      "dec": 3.6,
+      "annual": 22.5
     }
   },
   "94823": {
@@ -3812,6 +6992,36 @@
       "nov": 51.2,
       "dec": 39.4,
       "annual": 60.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 17,
+      "feb": 14,
+      "mar": 15,
+      "apr": 14,
+      "may": 13,
+      "jun": 12,
+      "jul": 11,
+      "aug": 10,
+      "sep": 9,
+      "oct": 11,
+      "nov": 13,
+      "dec": 16,
+      "annual": 153
+    },
+    "snowfall": {
+      "jan": 12.0,
+      "feb": 10.1,
+      "mar": 8.0,
+      "apr": 1.4,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.3,
+      "nov": 3.5,
+      "dec": 8.2,
+      "annual": 43.6
     }
   },
   "14777": {
@@ -3847,6 +7057,36 @@
       "nov": 49.4,
       "dec": 37.5,
       "annual": 58.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 12,
+      "feb": 11,
+      "mar": 12,
+      "apr": 12,
+      "may": 13,
+      "jun": 12,
+      "jul": 11,
+      "aug": 11,
+      "sep": 10,
+      "oct": 10,
+      "nov": 11,
+      "dec": 12,
+      "annual": 137
+    },
+    "snowfall": {
+      "jan": 11.4,
+      "feb": 10.7,
+      "mar": 8.5,
+      "apr": 2.2,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.4,
+      "nov": 3.4,
+      "dec": 8.5,
+      "annual": 45.2
     }
   },
   "14765": {
@@ -3882,6 +7122,36 @@
       "nov": 53.2,
       "dec": 42.3,
       "annual": 60.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 12,
+      "apr": 11,
+      "may": 12,
+      "jun": 11,
+      "jul": 9,
+      "aug": 9,
+      "sep": 8,
+      "oct": 9,
+      "nov": 10,
+      "dec": 12,
+      "annual": 124
+    },
+    "snowfall": {
+      "jan": 10.2,
+      "feb": 10.2,
+      "mar": 6.8,
+      "apr": 0.5,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 1.0,
+      "dec": 7.1,
+      "annual": 36.0
     }
   },
   "13883": {
@@ -3917,6 +7187,36 @@
       "nov": 67.3,
       "dec": 58.2,
       "annual": 75.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 10,
+      "apr": 8,
+      "may": 8,
+      "jun": 10,
+      "jul": 12,
+      "aug": 10,
+      "sep": 8,
+      "oct": 7,
+      "nov": 7,
+      "dec": 9,
+      "annual": 108
+    },
+    "snowfall": {
+      "jan": 0.6,
+      "feb": 0.7,
+      "mar": 0.2,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.2,
+      "annual": 1.7
     }
   },
   "03870": {
@@ -3952,6 +7252,36 @@
       "nov": 63.5,
       "dec": 54.1,
       "annual": 72.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 9,
+      "mar": 11,
+      "apr": 9,
+      "may": 10,
+      "jun": 10,
+      "jul": 12,
+      "aug": 10,
+      "sep": 8,
+      "oct": 7,
+      "nov": 9,
+      "dec": 10,
+      "annual": 116
+    },
+    "snowfall": {
+      "jan": 2.1,
+      "feb": 1.7,
+      "mar": 0.8,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.1,
+      "dec": 0.5,
+      "annual": 5.2
     }
   },
   "14936": {
@@ -3987,6 +7317,36 @@
       "nov": 43.0,
       "dec": 29.0,
       "annual": 57.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 6,
+      "mar": 8,
+      "apr": 9,
+      "may": 11,
+      "jun": 11,
+      "jul": 9,
+      "aug": 9,
+      "sep": 7,
+      "oct": 6,
+      "nov": 5,
+      "dec": 6,
+      "annual": 94
+    },
+    "snowfall": {
+      "jan": 6.9,
+      "feb": 7.2,
+      "mar": 7.5,
+      "apr": 2.9,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.8,
+      "nov": 4.6,
+      "dec": 6.2,
+      "annual": 36.2
     }
   },
   "24090": {
@@ -4022,6 +7382,36 @@
       "nov": 47.0,
       "dec": 36.9,
       "annual": 60.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 6,
+      "feb": 7,
+      "mar": 8,
+      "apr": 10,
+      "may": 12,
+      "jun": 12,
+      "jul": 9,
+      "aug": 8,
+      "sep": 6,
+      "oct": 6,
+      "nov": 5,
+      "dec": 6,
+      "annual": 95
+    },
+    "snowfall": {
+      "jan": 4.7,
+      "feb": 6.7,
+      "mar": 9.2,
+      "apr": 7.5,
+      "may": 1.1,
+      "jun": 0.1,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.1,
+      "oct": 1.9,
+      "nov": 5.4,
+      "dec": 5.5,
+      "annual": 42.2
     }
   },
   "14944": {
@@ -4057,6 +7447,36 @@
       "nov": 42.5,
       "dec": 28.5,
       "annual": 56.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 6,
+      "feb": 6,
+      "mar": 8,
+      "apr": 9,
+      "may": 11,
+      "jun": 11,
+      "jul": 9,
+      "aug": 9,
+      "sep": 8,
+      "oct": 6,
+      "nov": 6,
+      "dec": 6,
+      "annual": 97
+    },
+    "snowfall": {
+      "jan": 7.0,
+      "feb": 8.3,
+      "mar": 8.7,
+      "apr": 2.9,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.7,
+      "nov": 5.2,
+      "dec": 7.7,
+      "annual": 40.6
     }
   },
   "13882": {
@@ -4092,6 +7512,36 @@
       "nov": 62.3,
       "dec": 52.1,
       "annual": 71.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 12,
+      "apr": 10,
+      "may": 10,
+      "jun": 11,
+      "jul": 12,
+      "aug": 10,
+      "sep": 8,
+      "oct": 7,
+      "nov": 9,
+      "dec": 11,
+      "annual": 120
+    },
+    "snowfall": {
+      "jan": 1.6,
+      "feb": 1.2,
+      "mar": 0.7,
+      "apr": 0.1,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.1,
+      "dec": 0.4,
+      "annual": 4.1
     }
   },
   "13891": {
@@ -4127,6 +7577,36 @@
       "nov": 60.4,
       "dec": 49.8,
       "annual": 69.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 12,
+      "feb": 11,
+      "mar": 12,
+      "apr": 11,
+      "may": 11,
+      "jun": 11,
+      "jul": 12,
+      "aug": 10,
+      "sep": 8,
+      "oct": 8,
+      "nov": 9,
+      "dec": 11,
+      "annual": 127
+    },
+    "snowfall": {
+      "jan": 3.1,
+      "feb": 2.7,
+      "mar": 1.6,
+      "apr": 0.3,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.4,
+      "dec": 1.5,
+      "annual": 9.6
     }
   },
   "13893": {
@@ -4162,6 +7642,36 @@
       "nov": 62.6,
       "dec": 52.1,
       "annual": 72.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 10,
+      "mar": 11,
+      "apr": 10,
+      "may": 10,
+      "jun": 9,
+      "jul": 9,
+      "aug": 7,
+      "sep": 7,
+      "oct": 7,
+      "nov": 9,
+      "dec": 10,
+      "annual": 108
+    },
+    "snowfall": {
+      "jan": 1.9,
+      "feb": 1.2,
+      "mar": 0.7,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.1,
+      "dec": 0.5,
+      "annual": 4.4
     }
   },
   "13897": {
@@ -4197,6 +7707,36 @@
       "nov": 60.3,
       "dec": 49.5,
       "annual": 69.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 11,
+      "apr": 11,
+      "may": 11,
+      "jun": 10,
+      "jul": 10,
+      "aug": 9,
+      "sep": 8,
+      "oct": 7,
+      "nov": 9,
+      "dec": 11,
+      "annual": 119
+    },
+    "snowfall": {
+      "jan": 3.6,
+      "feb": 2.7,
+      "mar": 1.3,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.4,
+      "dec": 1.1,
+      "annual": 9.1
     }
   },
   "13962": {
@@ -4232,6 +7772,36 @@
       "nov": 66.3,
       "dec": 56.9,
       "annual": 76.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 5,
+      "feb": 5,
+      "mar": 5,
+      "apr": 6,
+      "may": 8,
+      "jun": 6,
+      "jul": 5,
+      "aug": 6,
+      "sep": 6,
+      "oct": 6,
+      "nov": 4,
+      "dec": 4,
+      "annual": 66
+    },
+    "snowfall": {
+      "jan": 1.5,
+      "feb": 1.2,
+      "mar": 0.5,
+      "apr": 0.1,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.6,
+      "dec": 0.8,
+      "annual": 4.7
     }
   },
   "23047": {
@@ -4267,6 +7837,36 @@
       "nov": 60.0,
       "dec": 49.7,
       "annual": 71.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 4,
+      "feb": 5,
+      "mar": 5,
+      "apr": 5,
+      "may": 8,
+      "jun": 8,
+      "jul": 8,
+      "aug": 8,
+      "sep": 6,
+      "oct": 5,
+      "nov": 4,
+      "dec": 4,
+      "annual": 70
+    },
+    "snowfall": {
+      "jan": 4.1,
+      "feb": 4.0,
+      "mar": 2.5,
+      "apr": 0.4,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.3,
+      "nov": 2.2,
+      "dec": 3.1,
+      "annual": 16.7
     }
   },
   "13958": {
@@ -4302,6 +7902,36 @@
       "nov": 71.4,
       "dec": 62.7,
       "annual": 79.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 8,
+      "mar": 8,
+      "apr": 7,
+      "may": 9,
+      "jun": 7,
+      "jul": 5,
+      "aug": 5,
+      "sep": 7,
+      "oct": 7,
+      "nov": 7,
+      "dec": 7,
+      "annual": 84
+    },
+    "snowfall": {
+      "jan": 0.4,
+      "feb": 0.3,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.7
     }
   },
   "12919": {
@@ -4337,6 +7967,36 @@
       "nov": 79.1,
       "dec": 71.8,
       "annual": 83.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 6,
+      "mar": 5,
+      "apr": 4,
+      "may": 5,
+      "jun": 6,
+      "jul": 5,
+      "aug": 6,
+      "sep": 10,
+      "oct": 7,
+      "nov": 6,
+      "dec": 7,
+      "annual": 71
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "12924": {
@@ -4372,6 +8032,36 @@
       "nov": 76.0,
       "dec": 68.4,
       "annual": 81.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 7,
+      "mar": 5,
+      "apr": 5,
+      "may": 6,
+      "jun": 6,
+      "jul": 5,
+      "aug": 6,
+      "sep": 9,
+      "oct": 6,
+      "nov": 6,
+      "dec": 6,
+      "annual": 76
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.1,
+      "annual": 0.1
     }
   },
   "13960": {
@@ -4407,6 +8097,36 @@
       "nov": 67.1,
       "dec": 57.5,
       "annual": 77.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 7,
+      "mar": 7,
+      "apr": 8,
+      "may": 9,
+      "jun": 7,
+      "jul": 5,
+      "aug": 5,
+      "sep": 6,
+      "oct": 6,
+      "nov": 6,
+      "dec": 6,
+      "annual": 79
+    },
+    "snowfall": {
+      "jan": 0.9,
+      "feb": 0.8,
+      "mar": 0.2,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.1,
+      "dec": 0.3,
+      "annual": 2.3
     }
   },
   "23044": {
@@ -4442,6 +8162,36 @@
       "nov": 66.2,
       "dec": 57.1,
       "annual": 77.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 4,
+      "feb": 3,
+      "mar": 2,
+      "apr": 2,
+      "may": 2,
+      "jun": 3,
+      "jul": 8,
+      "aug": 8,
+      "sep": 6,
+      "oct": 4,
+      "nov": 3,
+      "dec": 4,
+      "annual": 48
+    },
+    "snowfall": {
+      "jan": 1.1,
+      "feb": 0.8,
+      "mar": 0.3,
+      "apr": 0.3,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 1.0,
+      "dec": 1.9,
+      "annual": 5.4
     }
   },
   "12960": {
@@ -4477,6 +8227,36 @@
       "nov": 72.5,
       "dec": 64.3,
       "annual": 79.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 9,
+      "apr": 7,
+      "may": 8,
+      "jun": 9,
+      "jul": 9,
+      "aug": 9,
+      "sep": 9,
+      "oct": 8,
+      "nov": 8,
+      "dec": 9,
+      "annual": 103
+    },
+    "snowfall": {
+      "jan": 0.1,
+      "feb": 0.1,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.1,
+      "annual": 0.3
     }
   },
   "23042": {
@@ -4512,6 +8292,36 @@
       "nov": 63.6,
       "dec": 54.1,
       "annual": 74.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 4,
+      "feb": 4,
+      "mar": 4,
+      "apr": 4,
+      "may": 7,
+      "jun": 7,
+      "jul": 6,
+      "aug": 7,
+      "sep": 6,
+      "oct": 5,
+      "nov": 3,
+      "dec": 4,
+      "annual": 63
+    },
+    "snowfall": {
+      "jan": 2.2,
+      "feb": 2.5,
+      "mar": 1.2,
+      "apr": 0.1,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 1.1,
+      "dec": 2.0,
+      "annual": 9.2
     }
   },
   "23023": {
@@ -4547,6 +8357,36 @@
       "nov": 66.6,
       "dec": 58.1,
       "annual": 77.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 4,
+      "feb": 4,
+      "mar": 3,
+      "apr": 3,
+      "may": 6,
+      "jun": 5,
+      "jul": 5,
+      "aug": 5,
+      "sep": 5,
+      "oct": 5,
+      "nov": 3,
+      "dec": 4,
+      "annual": 50
+    },
+    "snowfall": {
+      "jan": 1.7,
+      "feb": 0.8,
+      "mar": 0.3,
+      "apr": 0.1,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.5,
+      "dec": 1.1,
+      "annual": 4.5
     }
   },
   "12917": {
@@ -4582,6 +8422,36 @@
       "nov": 71.7,
       "dec": 63.7,
       "annual": 78.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 8,
+      "apr": 7,
+      "may": 7,
+      "jun": 9,
+      "jul": 12,
+      "aug": 11,
+      "sep": 9,
+      "oct": 6,
+      "nov": 8,
+      "dec": 9,
+      "annual": 105
+    },
+    "snowfall": {
+      "jan": 0.2,
+      "feb": 0.2,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.4
     }
   },
   "12921": {
@@ -4617,6 +8487,36 @@
       "nov": 72.2,
       "dec": 64.0,
       "annual": 80.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 7,
+      "mar": 8,
+      "apr": 7,
+      "may": 8,
+      "jun": 7,
+      "jul": 5,
+      "aug": 5,
+      "sep": 7,
+      "oct": 6,
+      "nov": 7,
+      "dec": 7,
+      "annual": 81
+    },
+    "snowfall": {
+      "jan": 0.4,
+      "feb": 0.2,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.6
     }
   },
   "24127": {
@@ -4652,6 +8552,36 @@
       "nov": 49.4,
       "dec": 38.0,
       "annual": 63.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 10,
+      "apr": 10,
+      "may": 9,
+      "jun": 5,
+      "jul": 4,
+      "aug": 5,
+      "sep": 5,
+      "oct": 6,
+      "nov": 8,
+      "dec": 10,
+      "annual": 92
+    },
+    "snowfall": {
+      "jan": 13.1,
+      "feb": 10.1,
+      "mar": 9.1,
+      "apr": 5.1,
+      "may": 0.6,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.1,
+      "oct": 1.3,
+      "nov": 6.8,
+      "dec": 13.1,
+      "annual": 59.3
     }
   },
   "14742": {
@@ -4687,6 +8617,36 @@
       "nov": 45.5,
       "dec": 33.2,
       "annual": 55.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 14,
+      "feb": 12,
+      "mar": 13,
+      "apr": 12,
+      "may": 14,
+      "jun": 13,
+      "jul": 12,
+      "aug": 12,
+      "sep": 11,
+      "oct": 12,
+      "nov": 14,
+      "dec": 15,
+      "annual": 154
+    },
+    "snowfall": {
+      "jan": 19.8,
+      "feb": 17.4,
+      "mar": 13.8,
+      "apr": 3.9,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0,
+      "oct": 0.3,
+      "nov": 6.3,
+      "dec": 18.8,
+      "annual": 80.4
     }
   },
   "13733": {
@@ -4722,6 +8682,36 @@
       "nov": 58.5,
       "dec": 47.8,
       "annual": 67.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 9,
+      "mar": 11,
+      "apr": 10,
+      "may": 12,
+      "jun": 10,
+      "jul": 12,
+      "aug": 10,
+      "sep": 8,
+      "oct": 8,
+      "nov": 9,
+      "dec": 10,
+      "annual": 118
+    },
+    "snowfall": {
+      "jan": 4.8,
+      "feb": 5.0,
+      "mar": 3.1,
+      "apr": 0.2,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.5,
+      "dec": 2.5,
+      "annual": 16.1
     }
   },
   "13737": {
@@ -4757,6 +8747,36 @@
       "nov": 61.1,
       "dec": 52.1,
       "annual": 68.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 11,
+      "apr": 10,
+      "may": 10,
+      "jun": 10,
+      "jul": 11,
+      "aug": 10,
+      "sep": 9,
+      "oct": 8,
+      "nov": 9,
+      "dec": 9,
+      "annual": 116
+    },
+    "snowfall": {
+      "jan": 2.9,
+      "feb": 2.7,
+      "mar": 0.9,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 1.0,
+      "annual": 7.5
     }
   },
   "13740": {
@@ -4792,6 +8812,36 @@
       "nov": 61.4,
       "dec": 50.7,
       "annual": 69.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 11,
+      "apr": 10,
+      "may": 11,
+      "jun": 10,
+      "jul": 11,
+      "aug": 10,
+      "sep": 8,
+      "oct": 8,
+      "nov": 8,
+      "dec": 9,
+      "annual": 114
+    },
+    "snowfall": {
+      "jan": 4.8,
+      "feb": 4.0,
+      "mar": 2.1,
+      "apr": 0.1,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.3,
+      "dec": 1.8,
+      "annual": 13.1
     }
   },
   "94240": {
@@ -4827,6 +8877,36 @@
       "nov": 50.3,
       "dec": 46.0,
       "annual": 56.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 22,
+      "feb": 19,
+      "mar": 22,
+      "apr": 19,
+      "may": 16,
+      "jun": 14,
+      "jul": 10,
+      "aug": 10,
+      "sep": 12,
+      "oct": 18,
+      "nov": 22,
+      "dec": 23,
+      "annual": 207
+    },
+    "snowfall": {
+      "jan": 4.3,
+      "feb": 2.5,
+      "mar": 1.3,
+      "apr": 0.3,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.9,
+      "dec": 2.3,
+      "annual": 11.6
     }
   },
   "24233": {
@@ -4862,6 +8942,36 @@
       "nov": 50.9,
       "dec": 45.7,
       "annual": 60.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 19,
+      "feb": 16,
+      "mar": 17,
+      "apr": 14,
+      "may": 11,
+      "jun": 9,
+      "jul": 5,
+      "aug": 6,
+      "sep": 9,
+      "oct": 13,
+      "nov": 18,
+      "dec": 19,
+      "annual": 156
+    },
+    "snowfall": {
+      "jan": 4.7,
+      "feb": 1.6,
+      "mar": 1.2,
+      "apr": 0.1,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.9,
+      "dec": 2.5,
+      "annual": 11.0
     }
   },
   "24157": {
@@ -4897,6 +9007,36 @@
       "nov": 41.6,
       "dec": 32.2,
       "annual": 57.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 14,
+      "feb": 11,
+      "mar": 11,
+      "apr": 9,
+      "may": 9,
+      "jun": 8,
+      "jul": 4,
+      "aug": 4,
+      "sep": 6,
+      "oct": 8,
+      "nov": 13,
+      "dec": 14,
+      "annual": 112
+    },
+    "snowfall": {
+      "jan": 13.0,
+      "feb": 7.6,
+      "mar": 3.6,
+      "apr": 0.6,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.2,
+      "nov": 5.6,
+      "dec": 11.6,
+      "annual": 42.3
     }
   },
   "14898": {
@@ -4932,6 +9072,36 @@
       "nov": 42.2,
       "dec": 28.5,
       "annual": 53.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 10,
+      "apr": 11,
+      "may": 12,
+      "jun": 11,
+      "jul": 10,
+      "aug": 10,
+      "sep": 10,
+      "oct": 9,
+      "nov": 9,
+      "dec": 10,
+      "annual": 121
+    },
+    "snowfall": {
+      "jan": 12.1,
+      "feb": 10.3,
+      "mar": 8.9,
+      "apr": 2.8,
+      "may": 0.2,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.3,
+      "nov": 4.2,
+      "dec": 10.4,
+      "annual": 49.2
     }
   },
   "14837": {
@@ -4967,6 +9137,36 @@
       "nov": 44.1,
       "dec": 30.2,
       "annual": 56.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 11,
+      "apr": 12,
+      "may": 12,
+      "jun": 11,
+      "jul": 10,
+      "aug": 9,
+      "sep": 9,
+      "oct": 9,
+      "nov": 10,
+      "dec": 10,
+      "annual": 120
+    },
+    "snowfall": {
+      "jan": 11.2,
+      "feb": 8.8,
+      "mar": 7.8,
+      "apr": 2.0,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.2,
+      "nov": 3.4,
+      "dec": 11.0,
+      "annual": 44.5
     }
   },
   "14839": {
@@ -5002,6 +9202,36 @@
       "nov": 46.0,
       "dec": 32.8,
       "annual": 55.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 11,
+      "apr": 12,
+      "may": 12,
+      "jun": 11,
+      "jul": 9,
+      "aug": 9,
+      "sep": 9,
+      "oct": 9,
+      "nov": 10,
+      "dec": 11,
+      "annual": 124
+    },
+    "snowfall": {
+      "jan": 14.0,
+      "feb": 10.7,
+      "mar": 8.2,
+      "apr": 1.7,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.2,
+      "nov": 2.9,
+      "dec": 10.5,
+      "annual": 48.3
     }
   },
   "24018": {
@@ -5037,6 +9267,36 @@
       "nov": 46.5,
       "dec": 38.2,
       "annual": 58.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 6,
+      "feb": 7,
+      "mar": 9,
+      "apr": 10,
+      "may": 12,
+      "jun": 11,
+      "jul": 11,
+      "aug": 10,
+      "sep": 7,
+      "oct": 6,
+      "nov": 6,
+      "dec": 6,
+      "annual": 100
+    },
+    "snowfall": {
+      "jan": 5.8,
+      "feb": 7.3,
+      "mar": 11.1,
+      "apr": 10.3,
+      "may": 3.2,
+      "jun": 0.2,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.8,
+      "oct": 4.2,
+      "nov": 7.2,
+      "dec": 7.1,
+      "annual": 57.2
     }
   },
   "24021": {
@@ -5072,6 +9332,36 @@
       "nov": 42.8,
       "dec": 31.8,
       "annual": 58.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 4,
+      "feb": 5,
+      "mar": 7,
+      "apr": 8,
+      "may": 9,
+      "jun": 6,
+      "jul": 6,
+      "aug": 5,
+      "sep": 6,
+      "oct": 5,
+      "nov": 5,
+      "dec": 5,
+      "annual": 71
+    },
+    "snowfall": {
+      "jan": 8.6,
+      "feb": 11.6,
+      "mar": 16.9,
+      "apr": 19.1,
+      "may": 6.4,
+      "jun": 0.6,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 2.3,
+      "oct": 9.6,
+      "nov": 12.5,
+      "dec": 10.4,
+      "annual": 98.0
     }
   },
   "24029": {
@@ -5107,6 +9397,36 @@
       "nov": 45.9,
       "dec": 35.2,
       "annual": 59.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 8,
+      "mar": 10,
+      "apr": 11,
+      "may": 12,
+      "jun": 11,
+      "jul": 7,
+      "aug": 7,
+      "sep": 7,
+      "oct": 8,
+      "nov": 7,
+      "dec": 8,
+      "annual": 104
+    },
+    "snowfall": {
+      "jan": 11.5,
+      "feb": 10.6,
+      "mar": 12.6,
+      "apr": 10.6,
+      "may": 1.7,
+      "jun": 0.1,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 1.5,
+      "oct": 4.7,
+      "nov": 8.5,
+      "dec": 11.3,
+      "annual": 73.1
     }
   },
   "41415": {
@@ -5142,6 +9462,36 @@
       "nov": 86.5,
       "dec": 85.6,
       "annual": 86.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 20,
+      "feb": 18,
+      "mar": 19,
+      "apr": 19,
+      "may": 20,
+      "jun": 24,
+      "jul": 26,
+      "aug": 26,
+      "sep": 25,
+      "oct": 26,
+      "nov": 25,
+      "dec": 23,
+      "annual": 271
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "40309": {
@@ -5177,6 +9527,36 @@
       "nov": 87.8,
       "dec": 87.2,
       "annual": 86.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 23,
+      "feb": 19,
+      "mar": 20,
+      "apr": 19,
+      "may": 23,
+      "jun": 25,
+      "jul": 24,
+      "aug": 22,
+      "sep": 21,
+      "oct": 22,
+      "nov": 23,
+      "dec": 25,
+      "annual": 266
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "40710": {
@@ -5212,6 +9592,36 @@
       "nov": 86.6,
       "dec": 85.9,
       "annual": 86.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 18,
+      "feb": 16,
+      "mar": 18,
+      "apr": 20,
+      "may": 23,
+      "jun": 24,
+      "jul": 24,
+      "aug": 23,
+      "sep": 23,
+      "oct": 24,
+      "nov": 23,
+      "dec": 22,
+      "annual": 258
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "61705": {
@@ -5247,6 +9657,36 @@
       "nov": 86.6,
       "dec": 87.4,
       "annual": 86.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 24,
+      "feb": 22,
+      "mar": 23,
+      "apr": 22,
+      "may": 21,
+      "jun": 19,
+      "jul": 19,
+      "aug": 18,
+      "sep": 17,
+      "oct": 21,
+      "nov": 21,
+      "dec": 23,
+      "annual": 250
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "40504": {
@@ -5282,6 +9722,36 @@
       "nov": 88.8,
       "dec": 87.5,
       "annual": 88.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 22,
+      "feb": 20,
+      "mar": 23,
+      "apr": 25,
+      "may": 27,
+      "jun": 27,
+      "jul": 27,
+      "aug": 26,
+      "sep": 24,
+      "oct": 25,
+      "nov": 25,
+      "dec": 25,
+      "annual": 295
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "40505": {
@@ -5317,6 +9787,36 @@
       "nov": 86.8,
       "dec": 86.1,
       "annual": 86.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 20,
+      "feb": 17,
+      "mar": 19,
+      "apr": 21,
+      "may": 25,
+      "jun": 25,
+      "jul": 24,
+      "aug": 24,
+      "sep": 22,
+      "oct": 23,
+      "nov": 23,
+      "dec": 23,
+      "annual": 266
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "40308": {
@@ -5352,6 +9852,36 @@
       "nov": 88.0,
       "dec": 87.3,
       "annual": 87.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 21,
+      "feb": 18,
+      "mar": 18,
+      "apr": 18,
+      "may": 21,
+      "jun": 24,
+      "jul": 24,
+      "aug": 24,
+      "sep": 23,
+      "oct": 23,
+      "nov": 23,
+      "dec": 22,
+      "annual": 258
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "11641": {
@@ -5387,6 +9917,36 @@
       "nov": 85.9,
       "dec": 83.9,
       "annual": 86.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 17,
+      "feb": 14,
+      "mar": 12,
+      "apr": 13,
+      "may": 16,
+      "jun": 15,
+      "jul": 19,
+      "aug": 19,
+      "sep": 17,
+      "oct": 17,
+      "nov": 19,
+      "dec": 19,
+      "annual": 200
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "03856": {
@@ -5407,6 +9967,36 @@
       "nov": 63.7,
       "dec": 53.5,
       "annual": 72.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 11,
+      "apr": 10,
+      "may": 10,
+      "jun": 10,
+      "jul": 11,
+      "aug": 9,
+      "sep": 8,
+      "oct": 7,
+      "nov": 9,
+      "dec": 11,
+      "annual": 116
+    },
+    "snowfall": {
+      "jan": 1.5,
+      "feb": 1.1,
+      "mar": 0.4,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.1,
+      "dec": 0.7,
+      "annual": 3.8
     }
   },
   "13894": {
@@ -5427,6 +10017,36 @@
       "nov": 70.6,
       "dec": 62.7,
       "annual": 77.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 10,
+      "apr": 7,
+      "may": 8,
+      "jun": 12,
+      "jul": 15,
+      "aug": 14,
+      "sep": 10,
+      "oct": 6,
+      "nov": 8,
+      "dec": 10,
+      "annual": 119
+    },
+    "snowfall": {
+      "jan": 0.1,
+      "feb": 0.1,
+      "mar": 0.1,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.1,
+      "annual": 0.4
     }
   },
   "25308": {
@@ -5447,6 +10067,36 @@
       "nov": 44.6,
       "dec": 41.5,
       "annual": 51.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 21,
+      "feb": 18,
+      "mar": 21,
+      "apr": 19,
+      "may": 16,
+      "jun": 15,
+      "jul": 15,
+      "aug": 15,
+      "sep": 18,
+      "oct": 24,
+      "nov": 23,
+      "dec": 23,
+      "annual": 227
+    },
+    "snowfall": {
+      "jan": 10.7,
+      "feb": 9.2,
+      "mar": 7.8,
+      "apr": 1.9,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 3.5,
+      "dec": 9.8,
+      "annual": 43.1
     }
   },
   "27502": {
@@ -5467,6 +10117,36 @@
       "nov": 6.2,
       "dec": -1.8,
       "annual": 17.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 4,
+      "feb": 5,
+      "mar": 4,
+      "apr": 4,
+      "may": 5,
+      "jun": 5,
+      "jul": 9,
+      "aug": 11,
+      "sep": 11,
+      "oct": 12,
+      "nov": 7,
+      "dec": 5,
+      "annual": 81
+    },
+    "snowfall": {
+      "jan": 2.6,
+      "feb": 2.7,
+      "mar": 2.2,
+      "apr": 2.8,
+      "may": 2.2,
+      "jun": 0.6,
+      "jul": 0.5,
+      "aug": 0.7,
+      "sep": 3.8,
+      "oct": 7.8,
+      "nov": 4.8,
+      "dec": 3.2,
+      "annual": 33.9
     }
   },
   "26615": {
@@ -5487,6 +10167,36 @@
       "nov": 23.2,
       "dec": 16.8,
       "annual": 37.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 8,
+      "mar": 9,
+      "apr": 9,
+      "may": 10,
+      "jun": 12,
+      "jul": 16,
+      "aug": 19,
+      "sep": 17,
+      "oct": 12,
+      "nov": 12,
+      "dec": 11,
+      "annual": 145
+    },
+    "snowfall": {
+      "jan": 8.0,
+      "feb": 7.3,
+      "mar": 8.6,
+      "apr": 5.1,
+      "may": 1.6,
+      "jun": 0.1,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.4,
+      "oct": 3.8,
+      "nov": 8.9,
+      "dec": 10.1,
+      "annual": 53.9
     }
   },
   "26533": {
@@ -5507,6 +10217,36 @@
       "nov": 6.0,
       "dec": 1.9,
       "annual": 32.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 8,
+      "mar": 7,
+      "apr": 6,
+      "may": 7,
+      "jun": 10,
+      "jul": 12,
+      "aug": 14,
+      "sep": 12,
+      "oct": 11,
+      "nov": 10,
+      "dec": 10,
+      "annual": 116
+    },
+    "snowfall": {
+      "jan": 12.4,
+      "feb": 11.5,
+      "mar": 9.4,
+      "apr": 6.5,
+      "may": 1.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 2.3,
+      "oct": 11.9,
+      "nov": 14.8,
+      "dec": 14.9,
+      "annual": 84.8
     }
   },
   "26415": {
@@ -5527,6 +10267,36 @@
       "nov": 12.9,
       "dec": 8.6,
       "annual": 37.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 6,
+      "feb": 5,
+      "mar": 4,
+      "apr": 4,
+      "may": 7,
+      "jun": 11,
+      "jul": 13,
+      "aug": 12,
+      "sep": 9,
+      "oct": 9,
+      "nov": 8,
+      "dec": 6,
+      "annual": 94
+    },
+    "snowfall": {
+      "jan": 5.6,
+      "feb": 5.2,
+      "mar": 4.2,
+      "apr": 2.8,
+      "may": 0.6,
+      "jun": 0.4,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 1.6,
+      "oct": 9.2,
+      "nov": 8.4,
+      "dec": 5.8,
+      "annual": 43.8
     }
   },
   "25624": {
@@ -5547,6 +10317,36 @@
       "nov": 39.1,
       "dec": 35.6,
       "annual": 43.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 20,
+      "feb": 18,
+      "mar": 19,
+      "apr": 18,
+      "may": 17,
+      "jun": 16,
+      "jul": 18,
+      "aug": 21,
+      "sep": 22,
+      "oct": 24,
+      "nov": 23,
+      "dec": 22,
+      "annual": 236
+    },
+    "snowfall": {
+      "jan": 12.3,
+      "feb": 11.6,
+      "mar": 11.9,
+      "apr": 6.6,
+      "may": 1.6,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 2.8,
+      "nov": 8.1,
+      "dec": 11.6,
+      "annual": 66.5
     }
   },
   "26411": {
@@ -5567,6 +10367,36 @@
       "nov": 10.9,
       "dec": 4.8,
       "annual": 38.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 6,
+      "mar": 6,
+      "apr": 4,
+      "may": 7,
+      "jun": 11,
+      "jul": 13,
+      "aug": 13,
+      "sep": 10,
+      "oct": 11,
+      "nov": 10,
+      "dec": 9,
+      "annual": 107
+    },
+    "snowfall": {
+      "jan": 11.0,
+      "feb": 8.5,
+      "mar": 6.4,
+      "apr": 3.2,
+      "may": 0.7,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0,
+      "sep": 1.4,
+      "oct": 10.0,
+      "nov": 11.9,
+      "dec": 11.4,
+      "annual": 64.5
     }
   },
   "26425": {
@@ -5587,6 +10417,36 @@
       "nov": 13.6,
       "dec": 8.3,
       "annual": 38.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 6,
+      "mar": 4,
+      "apr": 3,
+      "may": 6,
+      "jun": 10,
+      "jul": 12,
+      "aug": 11,
+      "sep": 11,
+      "oct": 8,
+      "nov": 7,
+      "dec": 8,
+      "annual": 95
+    },
+    "snowfall": {
+      "jan": 7.7,
+      "feb": 7.2,
+      "mar": 5.1,
+      "apr": 2.8,
+      "may": 0.6,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.1,
+      "sep": 1.1,
+      "oct": 7.8,
+      "nov": 8.7,
+      "dec": 10.0,
+      "annual": 51.1
     }
   },
   "25507": {
@@ -5607,6 +10467,36 @@
       "nov": 35.5,
       "dec": 33.0,
       "annual": 45.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 13,
+      "feb": 11,
+      "mar": 10,
+      "apr": 10,
+      "may": 9,
+      "jun": 9,
+      "jul": 11,
+      "aug": 14,
+      "sep": 16,
+      "oct": 15,
+      "nov": 13,
+      "dec": 14,
+      "annual": 145
+    },
+    "snowfall": {
+      "jan": 9.5,
+      "feb": 11.3,
+      "mar": 9.2,
+      "apr": 2.8,
+      "may": 0.3,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 2.1,
+      "nov": 7.4,
+      "dec": 12.1,
+      "annual": 54.7
     }
   },
   "25503": {
@@ -5627,6 +10517,36 @@
       "nov": 30.5,
       "dec": 26.4,
       "annual": 43.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 10,
+      "apr": 10,
+      "may": 12,
+      "jun": 14,
+      "jul": 15,
+      "aug": 17,
+      "sep": 17,
+      "oct": 14,
+      "nov": 12,
+      "dec": 12,
+      "annual": 153
+    },
+    "snowfall": {
+      "jan": 8.2,
+      "feb": 6.8,
+      "mar": 7.6,
+      "apr": 4.5,
+      "may": 0.9,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 3.2,
+      "nov": 6.6,
+      "dec": 9.4,
+      "annual": 47.2
     }
   },
   "25501": {
@@ -5647,6 +10567,36 @@
       "nov": 39.1,
       "dec": 36.1,
       "annual": 46.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 18,
+      "feb": 17,
+      "mar": 17,
+      "apr": 16,
+      "may": 17,
+      "jun": 16,
+      "jul": 15,
+      "aug": 15,
+      "sep": 17,
+      "oct": 17,
+      "nov": 17,
+      "dec": 18,
+      "annual": 198
+    },
+    "snowfall": {
+      "jan": 15.5,
+      "feb": 15.8,
+      "mar": 14.7,
+      "apr": 7.4,
+      "may": 0.5,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 1.8,
+      "nov": 6.3,
+      "dec": 13.9,
+      "annual": 75.9
     }
   },
   "26616": {
@@ -5667,6 +10617,36 @@
       "nov": 14.2,
       "dec": 8.7,
       "annual": 28.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 7,
+      "mar": 7,
+      "apr": 7,
+      "may": 6,
+      "jun": 6,
+      "jul": 11,
+      "aug": 13,
+      "sep": 11,
+      "oct": 10,
+      "nov": 9,
+      "dec": 9,
+      "annual": 103
+    },
+    "snowfall": {
+      "jan": 7.6,
+      "feb": 7.7,
+      "mar": 5.8,
+      "apr": 5.2,
+      "may": 1.4,
+      "jun": 0.1,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 1.0,
+      "oct": 6.1,
+      "nov": 8.7,
+      "dec": 8.7,
+      "annual": 52.3
     }
   },
   "26510": {
@@ -5687,6 +10667,36 @@
       "nov": 13.2,
       "dec": 5.4,
       "annual": 36.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 9,
+      "apr": 7,
+      "may": 9,
+      "jun": 12,
+      "jul": 15,
+      "aug": 17,
+      "sep": 14,
+      "oct": 12,
+      "nov": 11,
+      "dec": 12,
+      "annual": 137
+    },
+    "snowfall": {
+      "jan": 14.6,
+      "feb": 12.1,
+      "mar": 11.0,
+      "apr": 6.3,
+      "may": 0.7,
+      "jun": 0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 1.0,
+      "oct": 9.5,
+      "nov": 16.9,
+      "dec": 18.4,
+      "annual": 90.5
     }
   },
   "25713": {
@@ -5707,6 +10717,36 @@
       "nov": 36.9,
       "dec": 33.0,
       "annual": 39.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 18,
+      "feb": 15,
+      "mar": 16,
+      "apr": 14,
+      "may": 14,
+      "jun": 13,
+      "jul": 15,
+      "aug": 18,
+      "sep": 20,
+      "oct": 22,
+      "nov": 22,
+      "dec": 21,
+      "annual": 207
+    },
+    "snowfall": {
+      "jan": 12.5,
+      "feb": 10.6,
+      "mar": 10.1,
+      "apr": 6.1,
+      "may": 1.8,
+      "jun": 0.1,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 2.5,
+      "nov": 7.2,
+      "dec": 10.3,
+      "annual": 61.2
     }
   },
   "26528": {
@@ -5727,6 +10767,36 @@
       "nov": 26.8,
       "dec": 23.7,
       "annual": 44.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 8,
+      "mar": 8,
+      "apr": 7,
+      "may": 10,
+      "jun": 11,
+      "jul": 14,
+      "aug": 16,
+      "sep": 15,
+      "oct": 12,
+      "nov": 10,
+      "dec": 10,
+      "annual": 131
+    },
+    "snowfall": {
+      "jan": 20.0,
+      "feb": 20.1,
+      "mar": 19.5,
+      "apr": 8.6,
+      "may": 0.8,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.6,
+      "oct": 10.7,
+      "nov": 18.2,
+      "dec": 22.4,
+      "annual": 120.9
     }
   },
   "26442": {
@@ -5747,6 +10817,36 @@
       "nov": 32.7,
       "dec": 30.4,
       "annual": 45.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 14,
+      "feb": 13,
+      "mar": 12,
+      "apr": 12,
+      "may": 14,
+      "jun": 13,
+      "jul": 16,
+      "aug": 18,
+      "sep": 19,
+      "oct": 18,
+      "nov": 14,
+      "dec": 15,
+      "annual": 177
+    },
+    "snowfall": {
+      "jan": 59.2,
+      "feb": 53.0,
+      "mar": 42.2,
+      "apr": 17.6,
+      "may": 2.2,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.3,
+      "oct": 8.8,
+      "nov": 35.3,
+      "dec": 60.8,
+      "annual": 279.4
     }
   },
   "25339": {
@@ -5767,6 +10867,36 @@
       "nov": 38.4,
       "dec": 35.0,
       "annual": 46.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 19,
+      "feb": 18,
+      "mar": 18,
+      "apr": 18,
+      "may": 18,
+      "jun": 16,
+      "jul": 18,
+      "aug": 18,
+      "sep": 20,
+      "oct": 23,
+      "nov": 21,
+      "dec": 21,
+      "annual": 228
+    },
+    "snowfall": {
+      "jan": 32.7,
+      "feb": 31.9,
+      "mar": 32.0,
+      "apr": 12.3,
+      "may": 0.9,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 3.9,
+      "nov": 18.8,
+      "dec": 31.5,
+      "annual": 164.0
     }
   },
   "23194": {
@@ -5787,6 +10917,36 @@
       "nov": 60.1,
       "dec": 48.6,
       "annual": 72.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 4,
+      "feb": 4,
+      "mar": 4,
+      "apr": 3,
+      "may": 3,
+      "jun": 2,
+      "jul": 7,
+      "aug": 9,
+      "sep": 5,
+      "oct": 3,
+      "nov": 3,
+      "dec": 4,
+      "annual": 51
+    },
+    "snowfall": {
+      "jan": 2.6,
+      "feb": 1.8,
+      "mar": 1.7,
+      "apr": 0.5,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.2,
+      "nov": 0.9,
+      "dec": 3.5,
+      "annual": 11.2
     }
   },
   "23155": {
@@ -5807,6 +10967,36 @@
       "nov": 65.7,
       "dec": 56.6,
       "annual": 76.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 6,
+      "feb": 6,
+      "mar": 6,
+      "apr": 4,
+      "may": 2,
+      "jun": 0,
+      "jul": 0,
+      "aug": 0,
+      "sep": 1,
+      "oct": 2,
+      "nov": 3,
+      "dec": 5,
+      "annual": 37
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "23157": {
@@ -5827,6 +11017,36 @@
       "nov": 62.6,
       "dec": 53.3,
       "annual": 75.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 4,
+      "feb": 3,
+      "mar": 3,
+      "apr": 2,
+      "may": 2,
+      "jun": 1,
+      "jul": 2,
+      "aug": 1,
+      "sep": 2,
+      "oct": 2,
+      "nov": 2,
+      "dec": 3,
+      "annual": 28
+    },
+    "snowfall": {
+      "jan": 3.8,
+      "feb": 1.3,
+      "mar": 0.5,
+      "apr": 0.3,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.2,
+      "dec": 1.3,
+      "annual": 7.4
     }
   },
   "23225": {
@@ -5847,6 +11067,36 @@
       "nov": 49.7,
       "dec": 43.8,
       "annual": 58.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 12,
+      "feb": 12,
+      "mar": 12,
+      "apr": 10,
+      "may": 7,
+      "jun": 3,
+      "jul": 1,
+      "aug": 1,
+      "sep": 3,
+      "oct": 6,
+      "nov": 10,
+      "dec": 12,
+      "annual": 89
+    },
+    "snowfall": {
+      "jan": 46.7,
+      "feb": 43.5,
+      "mar": 50.6,
+      "apr": 27.0,
+      "may": 7.8,
+      "jun": 0.6,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.4,
+      "oct": 2.7,
+      "nov": 23.6,
+      "dec": 38.8,
+      "annual": 241.7
     }
   },
   "23129": {
@@ -5867,6 +11117,36 @@
       "nov": 72.1,
       "dec": 66.8,
       "annual": 74.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 6,
+      "feb": 6,
+      "mar": 5,
+      "apr": 3,
+      "may": 1,
+      "jun": 1,
+      "jul": 0,
+      "aug": 0,
+      "sep": 1,
+      "oct": 2,
+      "nov": 3,
+      "dec": 5,
+      "annual": 34
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "24257": {
@@ -5887,6 +11167,36 @@
       "nov": 62.5,
       "dec": 54.5,
       "annual": 75.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 12,
+      "feb": 11,
+      "mar": 11,
+      "apr": 8,
+      "may": 6,
+      "jun": 3,
+      "jul": 1,
+      "aug": 1,
+      "sep": 2,
+      "oct": 5,
+      "nov": 9,
+      "dec": 12,
+      "annual": 80
+    },
+    "snowfall": {
+      "jan": 1.2,
+      "feb": 0.2,
+      "mar": 0.2,
+      "apr": 0.0,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 2.0,
+      "annual": 3.7
     }
   },
   "23190": {
@@ -5907,6 +11217,36 @@
       "nov": 68.3,
       "dec": 63.6,
       "annual": 68.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 6,
+      "feb": 6,
+      "mar": 6,
+      "apr": 3,
+      "may": 2,
+      "jun": 1,
+      "jul": 0,
+      "aug": 0,
+      "sep": 1,
+      "oct": 2,
+      "nov": 4,
+      "dec": 5,
+      "annual": 36
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "23273": {
@@ -5927,6 +11267,36 @@
       "nov": 68.5,
       "dec": 63.4,
       "annual": 68.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 8,
+      "mar": 7,
+      "apr": 5,
+      "may": 2,
+      "jun": 1,
+      "jul": 0,
+      "aug": 0,
+      "sep": 1,
+      "oct": 2,
+      "nov": 5,
+      "dec": 7,
+      "annual": 46
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "23237": {
@@ -5947,6 +11317,36 @@
       "nov": 64.1,
       "dec": 53.9,
       "annual": 74.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 9,
+      "mar": 8,
+      "apr": 5,
+      "may": 2,
+      "jun": 1,
+      "jul": 0,
+      "aug": 0,
+      "sep": 1,
+      "oct": 3,
+      "nov": 7,
+      "dec": 9,
+      "annual": 54
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "23061": {
@@ -5967,6 +11367,36 @@
       "nov": 46.9,
       "dec": 35.2,
       "annual": 59.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 4,
+      "feb": 4,
+      "mar": 5,
+      "apr": 5,
+      "may": 6,
+      "jun": 5,
+      "jul": 9,
+      "aug": 10,
+      "sep": 6,
+      "oct": 5,
+      "nov": 4,
+      "dec": 4,
+      "annual": 66
+    },
+    "snowfall": {
+      "jan": 4.2,
+      "feb": 4.3,
+      "mar": 5.3,
+      "apr": 4.0,
+      "may": 1.3,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.1,
+      "oct": 2.6,
+      "nov": 4.1,
+      "dec": 5.2,
+      "annual": 31.1
     }
   },
   "93037": {
@@ -5987,6 +11417,36 @@
       "nov": 51.0,
       "dec": 42.1,
       "annual": 62.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 4,
+      "feb": 5,
+      "mar": 7,
+      "apr": 8,
+      "may": 10,
+      "jun": 10,
+      "jul": 13,
+      "aug": 12,
+      "sep": 7,
+      "oct": 5,
+      "nov": 4,
+      "dec": 4,
+      "annual": 89
+    },
+    "snowfall": {
+      "jan": 5.1,
+      "feb": 4.8,
+      "mar": 8.2,
+      "apr": 5.8,
+      "may": 1.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.8,
+      "oct": 2.8,
+      "nov": 4.8,
+      "dec": 5.3,
+      "annual": 38.7
     }
   },
   "94702": {
@@ -6007,6 +11467,36 @@
       "nov": 53.1,
       "dec": 42.3,
       "annual": 60.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 11,
+      "apr": 11,
+      "may": 12,
+      "jun": 10,
+      "jul": 9,
+      "aug": 9,
+      "sep": 8,
+      "oct": 8,
+      "nov": 10,
+      "dec": 11,
+      "annual": 120
+    },
+    "snowfall": {
+      "jan": 8.3,
+      "feb": 8.9,
+      "mar": 5.4,
+      "apr": 0.6,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 0.7,
+      "dec": 5.4,
+      "annual": 29.4
     }
   },
   "13781": {
@@ -6027,6 +11517,36 @@
       "nov": 55.7,
       "dec": 44.6,
       "annual": 64.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 11,
+      "apr": 11,
+      "may": 11,
+      "jun": 10,
+      "jul": 9,
+      "aug": 9,
+      "sep": 8,
+      "oct": 8,
+      "nov": 9,
+      "dec": 10,
+      "annual": 118
+    },
+    "snowfall": {
+      "jan": 6.6,
+      "feb": 7.3,
+      "mar": 3.1,
+      "apr": 0.2,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.7,
+      "dec": 3.5,
+      "annual": 21.4
     }
   },
   "93738": {
@@ -6047,6 +11567,36 @@
       "nov": 57.5,
       "dec": 46.0,
       "annual": 66.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 10,
+      "apr": 10,
+      "may": 12,
+      "jun": 11,
+      "jul": 11,
+      "aug": 10,
+      "sep": 9,
+      "oct": 8,
+      "nov": 9,
+      "dec": 10,
+      "annual": 118
+    },
+    "snowfall": {
+      "jan": 6.9,
+      "feb": 7.5,
+      "mar": 3.5,
+      "apr": 0.2,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.8,
+      "dec": 3.8,
+      "annual": 22.7
     }
   },
   "12834": {
@@ -6067,6 +11617,36 @@
       "nov": 76.0,
       "dec": 70.4,
       "annual": 80.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 7,
+      "mar": 8,
+      "apr": 6,
+      "may": 8,
+      "jun": 13,
+      "jul": 14,
+      "aug": 14,
+      "sep": 13,
+      "oct": 10,
+      "nov": 7,
+      "dec": 7,
+      "annual": 115
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "12835": {
@@ -6087,6 +11667,36 @@
       "nov": 81.3,
       "dec": 76.6,
       "annual": 84.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 5,
+      "feb": 5,
+      "mar": 5,
+      "apr": 5,
+      "may": 8,
+      "jun": 15,
+      "jul": 18,
+      "aug": 18,
+      "sep": 15,
+      "oct": 8,
+      "nov": 4,
+      "dec": 5,
+      "annual": 112
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "12816": {
@@ -6107,6 +11717,36 @@
       "nov": 74.4,
       "dec": 67.9,
       "annual": 80.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 8,
+      "mar": 8,
+      "apr": 6,
+      "may": 7,
+      "jun": 14,
+      "jul": 16,
+      "aug": 16,
+      "sep": 12,
+      "oct": 7,
+      "nov": 6,
+      "dec": 7,
+      "annual": 115
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "12815": {
@@ -6127,6 +11767,36 @@
       "nov": 78.4,
       "dec": 72.8,
       "annual": 82.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 7,
+      "mar": 7,
+      "apr": 6,
+      "may": 8,
+      "jun": 15,
+      "jul": 17,
+      "aug": 16,
+      "sep": 14,
+      "oct": 8,
+      "nov": 6,
+      "dec": 6,
+      "annual": 117
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "93805": {
@@ -6147,6 +11817,36 @@
       "nov": 73.0,
       "dec": 65.3,
       "annual": 79.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 9,
+      "mar": 9,
+      "apr": 7,
+      "may": 8,
+      "jun": 13,
+      "jul": 17,
+      "aug": 14,
+      "sep": 9,
+      "oct": 5,
+      "nov": 6,
+      "dec": 8,
+      "annual": 115
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.1,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.1
     }
   },
   "12843": {
@@ -6167,6 +11867,36 @@
       "nov": 78.9,
       "dec": 74.2,
       "annual": 81.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 7,
+      "mar": 8,
+      "apr": 6,
+      "may": 9,
+      "jun": 13,
+      "jul": 13,
+      "aug": 14,
+      "sep": 15,
+      "oct": 12,
+      "nov": 9,
+      "dec": 8,
+      "annual": 121
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "12844": {
@@ -6187,6 +11917,36 @@
       "nov": 80.1,
       "dec": 76.2,
       "annual": 83.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 7,
+      "mar": 8,
+      "apr": 7,
+      "may": 11,
+      "jun": 15,
+      "jul": 15,
+      "aug": 16,
+      "sep": 17,
+      "oct": 12,
+      "nov": 9,
+      "dec": 9,
+      "annual": 133
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
     }
   },
   "13873": {
@@ -6207,6 +11967,36 @@
       "nov": 65.2,
       "dec": 55.7,
       "annual": 73.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 10,
+      "apr": 9,
+      "may": 9,
+      "jun": 10,
+      "jul": 11,
+      "aug": 9,
+      "sep": 8,
+      "oct": 7,
+      "nov": 8,
+      "dec": 10,
+      "annual": 111
+    },
+    "snowfall": {
+      "jan": 0.8,
+      "feb": 0.7,
+      "mar": 0.5,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.1,
+      "dec": 0.2,
+      "annual": 2.3
     }
   },
   "03820": {
@@ -6227,6 +12017,36 @@
       "nov": 69.1,
       "dec": 60.0,
       "annual": 76.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 10,
+      "apr": 8,
+      "may": 9,
+      "jun": 10,
+      "jul": 11,
+      "aug": 10,
+      "sep": 8,
+      "oct": 6,
+      "nov": 7,
+      "dec": 9,
+      "annual": 107
+    },
+    "snowfall": {
+      "jan": 0.3,
+      "feb": 0.6,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.1,
+      "annual": 1.0
     }
   },
   "93842": {
@@ -6247,6 +12067,36 @@
       "nov": 68.4,
       "dec": 59.3,
       "annual": 76.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 10,
+      "apr": 8,
+      "may": 8,
+      "jun": 10,
+      "jul": 13,
+      "aug": 10,
+      "sep": 8,
+      "oct": 6,
+      "nov": 8,
+      "dec": 10,
+      "annual": 109
+    },
+    "snowfall": {
+      "jan": 0.1,
+      "feb": 0.3,
+      "mar": 0.1,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.5
     }
   },
   "24149": {
@@ -6267,6 +12117,36 @@
       "nov": 48.2,
       "dec": 39.5,
       "annual": 63.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 9,
+      "mar": 11,
+      "apr": 10,
+      "may": 10,
+      "jun": 8,
+      "jul": 4,
+      "aug": 4,
+      "sep": 5,
+      "oct": 8,
+      "nov": 11,
+      "dec": 11,
+      "annual": 103
+    },
+    "snowfall": {
+      "jan": 5.3,
+      "feb": 2.5,
+      "mar": 1.2,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 1.7,
+      "dec": 3.9,
+      "annual": 14.7
     }
   },
   "94822": {
@@ -6287,6 +12167,36 @@
       "nov": 47.6,
       "dec": 33.2,
       "annual": 59.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 8,
+      "mar": 11,
+      "apr": 12,
+      "may": 12,
+      "jun": 11,
+      "jul": 9,
+      "aug": 9,
+      "sep": 9,
+      "oct": 9,
+      "nov": 9,
+      "dec": 10,
+      "annual": 118
+    },
+    "snowfall": {
+      "jan": 9.4,
+      "feb": 7.8,
+      "mar": 6.1,
+      "apr": 1.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 2.4,
+      "dec": 9.4,
+      "annual": 36.2
     }
   },
   "14848": {
@@ -6307,6 +12217,36 @@
       "nov": 48.2,
       "dec": 35.2,
       "annual": 58.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 14,
+      "feb": 11,
+      "mar": 13,
+      "apr": 13,
+      "may": 12,
+      "jun": 11,
+      "jul": 9,
+      "aug": 9,
+      "sep": 10,
+      "oct": 11,
+      "nov": 12,
+      "dec": 14,
+      "annual": 139
+    },
+    "snowfall": {
+      "jan": 17.6,
+      "feb": 12.7,
+      "mar": 8.1,
+      "apr": 1.9,
+      "may": 0.2,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.9,
+      "nov": 6.6,
+      "dec": 14.7,
+      "annual": 62.7
     }
   },
   "94908": {
@@ -6327,6 +12267,36 @@
       "nov": 44.8,
       "dec": 30.2,
       "annual": 56.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 8,
+      "mar": 10,
+      "apr": 11,
+      "may": 12,
+      "jun": 11,
+      "jul": 10,
+      "aug": 9,
+      "sep": 9,
+      "oct": 9,
+      "nov": 9,
+      "dec": 10,
+      "annual": 117
+    },
+    "snowfall": {
+      "jan": 9.7,
+      "feb": 9.1,
+      "mar": 8.2,
+      "apr": 2.1,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.2,
+      "nov": 3.2,
+      "dec": 10.7,
+      "annual": 43.3
     }
   },
   "94910": {
@@ -6347,6 +12317,36 @@
       "nov": 45.9,
       "dec": 30.8,
       "annual": 58.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 7,
+      "mar": 9,
+      "apr": 10,
+      "may": 12,
+      "jun": 11,
+      "jul": 9,
+      "aug": 9,
+      "sep": 8,
+      "oct": 8,
+      "nov": 7,
+      "dec": 8,
+      "annual": 105
+    },
+    "snowfall": {
+      "jan": 7.9,
+      "feb": 7.2,
+      "mar": 5.2,
+      "apr": 1.4,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.2,
+      "nov": 3.0,
+      "dec": 8.4,
+      "annual": 33.3
     }
   },
   "23065": {
@@ -6367,6 +12367,36 @@
       "nov": 52.4,
       "dec": 42.5,
       "annual": 65.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 4,
+      "feb": 4,
+      "mar": 6,
+      "apr": 8,
+      "may": 10,
+      "jun": 9,
+      "jul": 9,
+      "aug": 8,
+      "sep": 6,
+      "oct": 5,
+      "nov": 4,
+      "dec": 4,
+      "annual": 76
+    },
+    "snowfall": {
+      "jan": 4.7,
+      "feb": 5.3,
+      "mar": 8.0,
+      "apr": 3.7,
+      "may": 0.5,
+      "jun": 0.1,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.2,
+      "oct": 1.7,
+      "nov": 3.9,
+      "dec": 5.3,
+      "annual": 33.4
     }
   },
   "03889": {
@@ -6387,6 +12417,36 @@
       "nov": 57.3,
       "dec": 46.0,
       "annual": 66.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 14,
+      "feb": 13,
+      "mar": 14,
+      "apr": 13,
+      "may": 14,
+      "jun": 12,
+      "jul": 13,
+      "aug": 10,
+      "sep": 9,
+      "oct": 9,
+      "nov": 11,
+      "dec": 14,
+      "annual": 146
+    },
+    "snowfall": {
+      "jan": 7.1,
+      "feb": 7.2,
+      "mar": 3.4,
+      "apr": 0.9,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 0.6,
+      "dec": 4.3,
+      "annual": 23.6
     }
   },
   "93820": {
@@ -6407,6 +12467,36 @@
       "nov": 55.4,
       "dec": 43.9,
       "annual": 65.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 13,
+      "feb": 11,
+      "mar": 13,
+      "apr": 12,
+      "may": 12,
+      "jun": 11,
+      "jul": 11,
+      "aug": 9,
+      "sep": 8,
+      "oct": 8,
+      "nov": 10,
+      "dec": 12,
+      "annual": 133
+    },
+    "snowfall": {
+      "jan": 5.5,
+      "feb": 4.7,
+      "mar": 2.9,
+      "apr": 0.3,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 1.0,
+      "dec": 3.2,
+      "annual": 17.7
     }
   },
   "13970": {
@@ -6427,6 +12517,36 @@
       "nov": 71.9,
       "dec": 64.1,
       "annual": 79.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 9,
+      "mar": 9,
+      "apr": 8,
+      "may": 8,
+      "jun": 10,
+      "jul": 14,
+      "aug": 12,
+      "sep": 9,
+      "oct": 6,
+      "nov": 8,
+      "dec": 10,
+      "annual": 112
+    },
+    "snowfall": {
+      "jan": 0.1,
+      "feb": 0.1,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.2
     }
   },
   "14607": {
@@ -6447,6 +12567,36 @@
       "nov": 38.3,
       "dec": 26.2,
       "annual": 49.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 14,
+      "feb": 12,
+      "mar": 13,
+      "apr": 13,
+      "may": 14,
+      "jun": 14,
+      "jul": 14,
+      "aug": 13,
+      "sep": 12,
+      "oct": 13,
+      "nov": 14,
+      "dec": 14,
+      "annual": 159
+    },
+    "snowfall": {
+      "jan": 24.1,
+      "feb": 22.7,
+      "mar": 19.9,
+      "apr": 8.2,
+      "may": 0.6,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 1.8,
+      "nov": 11.3,
+      "dec": 24.0,
+      "annual": 112.6
     }
   },
   "94746": {
@@ -6467,6 +12617,36 @@
       "nov": 47.6,
       "dec": 36.3,
       "annual": 56.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 12,
+      "feb": 11,
+      "mar": 12,
+      "apr": 12,
+      "may": 13,
+      "jun": 11,
+      "jul": 10,
+      "aug": 10,
+      "sep": 9,
+      "oct": 10,
+      "nov": 11,
+      "dec": 12,
+      "annual": 134
+    },
+    "snowfall": {
+      "jan": 17.2,
+      "feb": 17.7,
+      "mar": 12.6,
+      "apr": 2.8,
+      "may": 0.2,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.6,
+      "nov": 2.9,
+      "dec": 12.5,
+      "annual": 66.5
     }
   },
   "14826": {
@@ -6487,6 +12667,36 @@
       "nov": 46.7,
       "dec": 34.1,
       "annual": 57.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 13,
+      "feb": 11,
+      "mar": 12,
+      "apr": 13,
+      "may": 11,
+      "jun": 10,
+      "jul": 9,
+      "aug": 9,
+      "sep": 10,
+      "oct": 10,
+      "nov": 12,
+      "dec": 14,
+      "annual": 134
+    },
+    "snowfall": {
+      "jan": 13.0,
+      "feb": 11.0,
+      "mar": 7.3,
+      "apr": 2.3,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.3,
+      "nov": 3.8,
+      "dec": 10.6,
+      "annual": 48.3
     }
   },
   "94814": {
@@ -6507,6 +12717,36 @@
       "nov": 42.3,
       "dec": 30.5,
       "annual": 53.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 14,
+      "feb": 11,
+      "mar": 11,
+      "apr": 12,
+      "may": 11,
+      "jun": 11,
+      "jul": 10,
+      "aug": 10,
+      "sep": 11,
+      "oct": 12,
+      "nov": 13,
+      "dec": 14,
+      "annual": 141
+    },
+    "snowfall": {
+      "jan": 18.1,
+      "feb": 13.4,
+      "mar": 10.3,
+      "apr": 4.0,
+      "may": 0.2,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.7,
+      "nov": 8.9,
+      "dec": 15.8,
+      "annual": 71.4
     }
   },
   "14840": {
@@ -6527,6 +12767,36 @@
       "nov": 46.4,
       "dec": 35.1,
       "annual": 56.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 14,
+      "feb": 12,
+      "mar": 11,
+      "apr": 11,
+      "may": 10,
+      "jun": 9,
+      "jul": 8,
+      "aug": 8,
+      "sep": 9,
+      "oct": 10,
+      "nov": 12,
+      "dec": 14,
+      "annual": 126
+    },
+    "snowfall": {
+      "jan": 25.8,
+      "feb": 15.9,
+      "mar": 9.5,
+      "apr": 2.0,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.4,
+      "nov": 6.6,
+      "dec": 19.5,
+      "annual": 79.8
     }
   },
   "14918": {
@@ -6547,6 +12817,36 @@
       "nov": 33.7,
       "dec": 19.0,
       "annual": 48.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 8,
+      "mar": 9,
+      "apr": 9,
+      "may": 11,
+      "jun": 12,
+      "jul": 11,
+      "aug": 11,
+      "sep": 11,
+      "oct": 10,
+      "nov": 10,
+      "dec": 10,
+      "annual": 121
+    },
+    "snowfall": {
+      "jan": 13.5,
+      "feb": 10.1,
+      "mar": 8.9,
+      "apr": 5.9,
+      "may": 0.6,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.1,
+      "oct": 1.9,
+      "nov": 11.0,
+      "dec": 12.7,
+      "annual": 64.7
     }
   },
   "14925": {
@@ -6567,6 +12867,36 @@
       "nov": 41.6,
       "dec": 27.1,
       "annual": 54.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 7,
+      "mar": 9,
+      "apr": 10,
+      "may": 12,
+      "jun": 11,
+      "jul": 9,
+      "aug": 9,
+      "sep": 9,
+      "oct": 8,
+      "nov": 8,
+      "dec": 8,
+      "annual": 109
+    },
+    "snowfall": {
+      "jan": 9.8,
+      "feb": 8.0,
+      "mar": 9.1,
+      "apr": 2.8,
+      "may": 0.2,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.5,
+      "nov": 4.8,
+      "dec": 9.6,
+      "annual": 44.8
     }
   },
   "14926": {
@@ -6587,6 +12917,36 @@
       "nov": 39.0,
       "dec": 24.7,
       "annual": 53.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 7,
+      "mar": 9,
+      "apr": 9,
+      "may": 11,
+      "jun": 12,
+      "jul": 10,
+      "aug": 10,
+      "sep": 9,
+      "oct": 8,
+      "nov": 7,
+      "dec": 8,
+      "annual": 108
+    },
+    "snowfall": {
+      "jan": 9.0,
+      "feb": 7.6,
+      "mar": 9.2,
+      "apr": 3.0,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.6,
+      "nov": 6.9,
+      "dec": 8.3,
+      "annual": 44.7
     }
   },
   "13865": {
@@ -6607,6 +12967,36 @@
       "nov": 67.7,
       "dec": 58.8,
       "annual": 75.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 10,
+      "apr": 9,
+      "may": 9,
+      "jun": 9,
+      "jul": 12,
+      "aug": 9,
+      "sep": 8,
+      "oct": 6,
+      "nov": 8,
+      "dec": 10,
+      "annual": 108
+    },
+    "snowfall": {
+      "jan": 0.4,
+      "feb": 0.1,
+      "mar": 0.1,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.3,
+      "annual": 0.9
     }
   },
   "93862": {
@@ -6627,6 +13017,36 @@
       "nov": 64.1,
       "dec": 53.8,
       "annual": 73.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 10,
+      "mar": 11,
+      "apr": 9,
+      "may": 10,
+      "jun": 9,
+      "jul": 10,
+      "aug": 8,
+      "sep": 7,
+      "oct": 7,
+      "nov": 9,
+      "dec": 11,
+      "annual": 111
+    },
+    "snowfall": {
+      "jan": 0.9,
+      "feb": 0.6,
+      "mar": 0.4,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.3,
+      "annual": 2.2
     }
   },
   "94008": {
@@ -6647,6 +13067,36 @@
       "nov": 39.7,
       "dec": 26.0,
       "annual": 55.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 6,
+      "mar": 7,
+      "apr": 7,
+      "may": 10,
+      "jun": 11,
+      "jul": 8,
+      "aug": 7,
+      "sep": 6,
+      "oct": 5,
+      "nov": 6,
+      "dec": 8,
+      "annual": 92
+    },
+    "snowfall": {
+      "jan": 8.3,
+      "feb": 4.9,
+      "mar": 4.7,
+      "apr": 3.0,
+      "may": 0.8,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.2,
+      "oct": 1.3,
+      "nov": 4.2,
+      "dec": 6.7,
+      "annual": 34.1
     }
   },
   "44558": {
@@ -6687,6 +13137,36 @@
       "nov": 49.4,
       "dec": 36.9,
       "annual": 62.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 5,
+      "feb": 6,
+      "mar": 7,
+      "apr": 9,
+      "may": 11,
+      "jun": 10,
+      "jul": 9,
+      "aug": 8,
+      "sep": 7,
+      "oct": 5,
+      "nov": 5,
+      "dec": 5,
+      "annual": 87
+    },
+    "snowfall": {
+      "jan": 6.1,
+      "feb": 6.3,
+      "mar": 5.6,
+      "apr": 1.7,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.1,
+      "oct": 0.5,
+      "nov": 3.0,
+      "dec": 5.8,
+      "annual": 29.2
     }
   },
   "14941": {
@@ -6707,6 +13187,36 @@
       "nov": 47.1,
       "dec": 34.1,
       "annual": 60.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 6,
+      "feb": 6,
+      "mar": 8,
+      "apr": 9,
+      "may": 11,
+      "jun": 10,
+      "jul": 9,
+      "aug": 9,
+      "sep": 8,
+      "oct": 6,
+      "nov": 5,
+      "dec": 6,
+      "annual": 92
+    },
+    "snowfall": {
+      "jan": 6.1,
+      "feb": 5.7,
+      "mar": 5.8,
+      "apr": 2.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.5,
+      "nov": 3.5,
+      "dec": 6.2,
+      "annual": 29.8
     }
   },
   "24028": {
@@ -6727,6 +13237,36 @@
       "nov": 50.2,
       "dec": 39.6,
       "annual": 63.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 4,
+      "feb": 5,
+      "mar": 7,
+      "apr": 8,
+      "may": 11,
+      "jun": 10,
+      "jul": 8,
+      "aug": 7,
+      "sep": 6,
+      "oct": 5,
+      "nov": 4,
+      "dec": 5,
+      "annual": 80
+    },
+    "snowfall": {
+      "jan": 5.2,
+      "feb": 5.8,
+      "mar": 7.5,
+      "apr": 5.0,
+      "may": 1.0,
+      "jun": 0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.3,
+      "oct": 2.5,
+      "nov": 4.8,
+      "dec": 6.3,
+      "annual": 38.4
     }
   },
   "24121": {
@@ -6747,6 +13287,36 @@
       "nov": 48.2,
       "dec": 37.2,
       "annual": 62.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 7,
+      "mar": 8,
+      "apr": 6,
+      "may": 7,
+      "jun": 4,
+      "jul": 3,
+      "aug": 3,
+      "sep": 3,
+      "oct": 4,
+      "nov": 6,
+      "dec": 7,
+      "annual": 67
+    },
+    "snowfall": {
+      "jan": 10.1,
+      "feb": 6.6,
+      "mar": 5.6,
+      "apr": 2.4,
+      "may": 0.6,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.7,
+      "nov": 3.9,
+      "dec": 8.8,
+      "annual": 38.7
     }
   },
   "14734": {
@@ -6767,6 +13337,36 @@
       "nov": 54.6,
       "dec": 43.5,
       "annual": 63.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 9,
+      "mar": 11,
+      "apr": 11,
+      "may": 12,
+      "jun": 11,
+      "jul": 10,
+      "aug": 10,
+      "sep": 8,
+      "oct": 8,
+      "nov": 10,
+      "dec": 11,
+      "annual": 122
+    },
+    "snowfall": {
+      "jan": 8.3,
+      "feb": 9.2,
+      "mar": 5.1,
+      "apr": 0.7,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 1.0,
+      "dec": 5.6,
+      "annual": 30.0
     }
   },
   "23051": {
@@ -6787,6 +13387,36 @@
       "nov": 57.2,
       "dec": 47.7,
       "annual": 67.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 3,
+      "feb": 3,
+      "mar": 4,
+      "apr": 5,
+      "may": 7,
+      "jun": 7,
+      "jul": 9,
+      "aug": 8,
+      "sep": 6,
+      "oct": 4,
+      "nov": 3,
+      "dec": 3,
+      "annual": 62
+    },
+    "snowfall": {
+      "jan": 3.2,
+      "feb": 3.8,
+      "mar": 4.6,
+      "apr": 2.0,
+      "may": 0.4,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.1,
+      "oct": 0.5,
+      "nov": 3.0,
+      "dec": 4.9,
+      "annual": 22.5
     }
   },
   "04781": {
@@ -6807,6 +13437,36 @@
       "nov": 53.2,
       "dec": 43.0,
       "annual": 60.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 9,
+      "mar": 11,
+      "apr": 11,
+      "may": 11,
+      "jun": 10,
+      "jul": 9,
+      "aug": 8,
+      "sep": 8,
+      "oct": 9,
+      "nov": 10,
+      "dec": 11,
+      "annual": 120
+    },
+    "snowfall": {
+      "jan": 9.2,
+      "feb": 8.8,
+      "mar": 5.4,
+      "apr": 0.5,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.6,
+      "dec": 4.9,
+      "annual": 29.4
     }
   },
   "14916": {
@@ -6827,6 +13487,36 @@
       "nov": 35.1,
       "dec": 20.3,
       "annual": 51.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 7,
+      "mar": 8,
+      "apr": 7,
+      "may": 10,
+      "jun": 11,
+      "jul": 10,
+      "aug": 9,
+      "sep": 8,
+      "oct": 7,
+      "nov": 7,
+      "dec": 9,
+      "annual": 101
+    },
+    "snowfall": {
+      "jan": 9.7,
+      "feb": 5.8,
+      "mar": 7.3,
+      "apr": 2.8,
+      "may": 0.2,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 1.0,
+      "nov": 6.1,
+      "dec": 8.7,
+      "annual": 41.6
     }
   },
   "14895": {
@@ -6847,6 +13537,36 @@
       "nov": 49.2,
       "dec": 37.0,
       "annual": 58.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 17,
+      "feb": 14,
+      "mar": 15,
+      "apr": 14,
+      "may": 13,
+      "jun": 12,
+      "jul": 11,
+      "aug": 10,
+      "sep": 10,
+      "oct": 11,
+      "nov": 13,
+      "dec": 16,
+      "annual": 156
+    },
+    "snowfall": {
+      "jan": 12.3,
+      "feb": 10.5,
+      "mar": 8.5,
+      "apr": 2.2,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.4,
+      "nov": 4.1,
+      "dec": 9.8,
+      "annual": 47.9
     }
   },
   "93814": {
@@ -6867,6 +13587,36 @@
       "nov": 54.0,
       "dec": 41.6,
       "annual": 63.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 13,
+      "feb": 11,
+      "mar": 13,
+      "apr": 13,
+      "may": 12,
+      "jun": 11,
+      "jul": 10,
+      "aug": 9,
+      "sep": 8,
+      "oct": 8,
+      "nov": 11,
+      "dec": 12,
+      "annual": 131
+    },
+    "snowfall": {
+      "jan": 7.3,
+      "feb": 6.1,
+      "mar": 4.0,
+      "apr": 0.5,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.2,
+      "nov": 1.6,
+      "dec": 4.2,
+      "annual": 23.9
     }
   },
   "14891": {
@@ -6887,6 +13637,36 @@
       "nov": 49.4,
       "dec": 36.5,
       "annual": 58.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 15,
+      "feb": 13,
+      "mar": 14,
+      "apr": 14,
+      "may": 13,
+      "jun": 12,
+      "jul": 10,
+      "aug": 10,
+      "sep": 9,
+      "oct": 10,
+      "nov": 13,
+      "dec": 14,
+      "annual": 147
+    },
+    "snowfall": {
+      "jan": 12.4,
+      "feb": 11.0,
+      "mar": 7.3,
+      "apr": 1.8,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.3,
+      "nov": 2.5,
+      "dec": 9.0,
+      "annual": 44.3
     }
   },
   "14852": {
@@ -6907,6 +13687,36 @@
       "nov": 48.9,
       "dec": 36.5,
       "annual": 58.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 17,
+      "feb": 15,
+      "mar": 15,
+      "apr": 14,
+      "may": 13,
+      "jun": 12,
+      "jul": 11,
+      "aug": 10,
+      "sep": 10,
+      "oct": 11,
+      "nov": 14,
+      "dec": 17,
+      "annual": 158
+    },
+    "snowfall": {
+      "jan": 14.5,
+      "feb": 12.1,
+      "mar": 9.9,
+      "apr": 2.4,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.6,
+      "nov": 5.0,
+      "dec": 12.6,
+      "annual": 57.2
     }
   },
   "94224": {
@@ -6927,6 +13737,36 @@
       "nov": 53.5,
       "dec": 48.7,
       "annual": 58.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 22,
+      "feb": 19,
+      "mar": 21,
+      "apr": 18,
+      "may": 16,
+      "jun": 13,
+      "jul": 8,
+      "aug": 8,
+      "sep": 10,
+      "oct": 16,
+      "nov": 21,
+      "dec": 22,
+      "annual": 194
+    },
+    "snowfall": {
+      "jan": 2.0,
+      "feb": 0.4,
+      "mar": 0.5,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.2,
+      "dec": 1.1,
+      "annual": 4.2
     }
   },
   "94185": {
@@ -6947,6 +13787,36 @@
       "nov": 45.1,
       "dec": 34.3,
       "annual": 59.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 10,
+      "mar": 11,
+      "apr": 9,
+      "may": 9,
+      "jun": 6,
+      "jul": 3,
+      "aug": 3,
+      "sep": 4,
+      "oct": 6,
+      "nov": 11,
+      "dec": 11,
+      "annual": 92
+    },
+    "snowfall": {
+      "jan": 7.0,
+      "feb": 6.7,
+      "mar": 3.8,
+      "apr": 0.7,
+      "may": 0.2,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.7,
+      "nov": 6.0,
+      "dec": 10.2,
+      "annual": 35.3
     }
   },
   "24221": {
@@ -6967,6 +13837,36 @@
       "nov": 52.2,
       "dec": 45.6,
       "annual": 63.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 18,
+      "feb": 15,
+      "mar": 17,
+      "apr": 14,
+      "may": 11,
+      "jun": 7,
+      "jul": 3,
+      "aug": 4,
+      "sep": 6,
+      "oct": 11,
+      "nov": 17,
+      "dec": 18,
+      "annual": 140
+    },
+    "snowfall": {
+      "jan": 3.3,
+      "feb": 1.0,
+      "mar": 0.5,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.2,
+      "dec": 1.2,
+      "annual": 6.2
     }
   },
   "24225": {
@@ -6987,6 +13887,36 @@
       "nov": 53.0,
       "dec": 45.9,
       "annual": 68.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 13,
+      "feb": 11,
+      "mar": 12,
+      "apr": 10,
+      "may": 8,
+      "jun": 5,
+      "jul": 2,
+      "aug": 2,
+      "sep": 4,
+      "oct": 8,
+      "nov": 13,
+      "dec": 14,
+      "annual": 101
+    },
+    "snowfall": {
+      "jan": 2.7,
+      "feb": 1.1,
+      "mar": 0.7,
+      "apr": 0.2,
+      "may": 0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.4,
+      "dec": 1.3,
+      "annual": 6.4
     }
   },
   "24155": {
@@ -7007,6 +13937,36 @@
       "nov": 49.2,
       "dec": 39.5,
       "annual": 63.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 12,
+      "feb": 10,
+      "mar": 11,
+      "apr": 9,
+      "may": 8,
+      "jun": 6,
+      "jul": 3,
+      "aug": 3,
+      "sep": 4,
+      "oct": 7,
+      "nov": 11,
+      "dec": 12,
+      "annual": 97
+    },
+    "snowfall": {
+      "jan": 6.2,
+      "feb": 3.4,
+      "mar": 0.8,
+      "apr": 0.1,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 1.6,
+      "dec": 4.2,
+      "annual": 16.4
     }
   },
   "24232": {
@@ -7027,6 +13987,36 @@
       "nov": 52.6,
       "dec": 46.2,
       "annual": 63.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 18,
+      "feb": 16,
+      "mar": 17,
+      "apr": 14,
+      "may": 11,
+      "jun": 8,
+      "jul": 3,
+      "aug": 3,
+      "sep": 7,
+      "oct": 12,
+      "nov": 17,
+      "dec": 19,
+      "annual": 144
+    },
+    "snowfall": {
+      "jan": 3.0,
+      "feb": 1.6,
+      "mar": 0.4,
+      "apr": 0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 0.2,
+      "dec": 1.7,
+      "annual": 7.0
     }
   },
   "24235": {
@@ -7047,6 +14037,36 @@
       "nov": 45.8,
       "dec": 41.4,
       "annual": 56.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 16,
+      "feb": 15,
+      "mar": 17,
+      "apr": 13,
+      "may": 10,
+      "jun": 6,
+      "jul": 2,
+      "aug": 3,
+      "sep": 5,
+      "oct": 9,
+      "nov": 15,
+      "dec": 16,
+      "annual": 126
+    },
+    "snowfall": {
+      "jan": 21.4,
+      "feb": 16.4,
+      "mar": 18.9,
+      "apr": 9.7,
+      "may": 2.3,
+      "jun": 0.1,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.1,
+      "oct": 1.5,
+      "nov": 8.8,
+      "dec": 20.2,
+      "annual": 99.4
     }
   },
   "14737": {
@@ -7067,6 +14087,36 @@
       "nov": 52.5,
       "dec": 40.5,
       "annual": 61.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 11,
+      "apr": 12,
+      "may": 12,
+      "jun": 11,
+      "jul": 10,
+      "aug": 10,
+      "sep": 9,
+      "oct": 9,
+      "nov": 10,
+      "dec": 11,
+      "annual": 125
+    },
+    "snowfall": {
+      "jan": 9.2,
+      "feb": 10.4,
+      "mar": 5.8,
+      "apr": 0.6,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 1.2,
+      "dec": 6.0,
+      "annual": 33.3
     }
   },
   "14860": {
@@ -7087,6 +14137,36 @@
       "nov": 49.9,
       "dec": 38.1,
       "annual": 57.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 18,
+      "feb": 15,
+      "mar": 15,
+      "apr": 14,
+      "may": 13,
+      "jun": 11,
+      "jul": 10,
+      "aug": 10,
+      "sep": 11,
+      "oct": 13,
+      "nov": 16,
+      "dec": 18,
+      "annual": 162
+    },
+    "snowfall": {
+      "jan": 21.2,
+      "feb": 15.0,
+      "mar": 11.2,
+      "apr": 2.5,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.4,
+      "nov": 9.4,
+      "dec": 20.1,
+      "annual": 79.8
     }
   },
   "14711": {
@@ -7107,6 +14187,36 @@
       "nov": 53.1,
       "dec": 41.3,
       "annual": 62.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 11,
+      "apr": 11,
+      "may": 12,
+      "jun": 11,
+      "jul": 10,
+      "aug": 9,
+      "sep": 8,
+      "oct": 8,
+      "nov": 9,
+      "dec": 10,
+      "annual": 121
+    },
+    "snowfall": {
+      "jan": 9.0,
+      "feb": 9.5,
+      "mar": 6.2,
+      "apr": 0.3,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 1.0,
+      "dec": 5.8,
+      "annual": 31.9
     }
   },
   "14778": {
@@ -7127,6 +14237,36 @@
       "nov": 49.9,
       "dec": 38.1,
       "annual": 60.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 12,
+      "feb": 11,
+      "mar": 12,
+      "apr": 12,
+      "may": 13,
+      "jun": 12,
+      "jul": 11,
+      "aug": 11,
+      "sep": 10,
+      "oct": 10,
+      "nov": 12,
+      "dec": 12,
+      "annual": 139
+    },
+    "snowfall": {
+      "jan": 10.7,
+      "feb": 10.2,
+      "mar": 7.8,
+      "apr": 1.1,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 2.7,
+      "dec": 8.0,
+      "annual": 40.6
     }
   },
   "13782": {
@@ -7147,6 +14287,36 @@
       "nov": 67.3,
       "dec": 59.5,
       "annual": 72.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 9,
+      "mar": 9,
+      "apr": 7,
+      "may": 8,
+      "jun": 11,
+      "jul": 13,
+      "aug": 12,
+      "sep": 9,
+      "oct": 6,
+      "nov": 7,
+      "dec": 9,
+      "annual": 107
+    },
+    "snowfall": {
+      "jan": 0.1,
+      "feb": 0.1,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.1,
+      "annual": 0.3
     }
   },
   "14929": {
@@ -7167,6 +14337,36 @@
       "nov": 39.6,
       "dec": 25.5,
       "annual": 54.6
+    },
+    "daysWithPrecipitation": {
+      "jan": 6,
+      "feb": 6,
+      "mar": 7,
+      "apr": 8,
+      "may": 10,
+      "jun": 10,
+      "jul": 8,
+      "aug": 8,
+      "sep": 6,
+      "oct": 5,
+      "nov": 5,
+      "dec": 6,
+      "annual": 85
+    },
+    "snowfall": {
+      "jan": 7.1,
+      "feb": 7.4,
+      "mar": 7.6,
+      "apr": 4.2,
+      "may": 0.2,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 1.0,
+      "nov": 5.1,
+      "dec": 6.2,
+      "annual": 38.8
     }
   },
   "13877": {
@@ -7187,6 +14387,36 @@
       "nov": 58.7,
       "dec": 48.0,
       "annual": 67.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 13,
+      "feb": 12,
+      "mar": 13,
+      "apr": 11,
+      "may": 12,
+      "jun": 12,
+      "jul": 13,
+      "aug": 11,
+      "sep": 8,
+      "oct": 8,
+      "nov": 10,
+      "dec": 12,
+      "annual": 134
+    },
+    "snowfall": {
+      "jan": 4.9,
+      "feb": 4.2,
+      "mar": 2.0,
+      "apr": 0.4,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.8,
+      "dec": 2.5,
+      "annual": 14.8
     }
   },
   "03841": {
@@ -7207,6 +14437,36 @@
       "nov": 60.2,
       "dec": 49.1,
       "annual": 69.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 12,
+      "feb": 11,
+      "mar": 12,
+      "apr": 11,
+      "may": 11,
+      "jun": 11,
+      "jul": 12,
+      "aug": 10,
+      "sep": 8,
+      "oct": 8,
+      "nov": 10,
+      "dec": 11,
+      "annual": 128
+    },
+    "snowfall": {
+      "jan": 2.9,
+      "feb": 2.7,
+      "mar": 1.1,
+      "apr": 0.1,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.2,
+      "dec": 1.4,
+      "annual": 8.4
     }
   },
   "22010": {
@@ -7227,6 +14487,36 @@
       "nov": 72.0,
       "dec": 64.0,
       "annual": 81.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 5,
+      "feb": 4,
+      "mar": 5,
+      "apr": 5,
+      "may": 7,
+      "jun": 5,
+      "jul": 4,
+      "aug": 4,
+      "sep": 6,
+      "oct": 5,
+      "nov": 4,
+      "dec": 5,
+      "annual": 58
+    },
+    "snowfall": {
+      "jan": 0.4,
+      "feb": 0.1,
+      "mar": 0.1,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.6
     }
   },
   "12923": {
@@ -7247,6 +14537,36 @@
       "nov": 71.6,
       "dec": 63.9,
       "annual": 77.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 9,
+      "mar": 8,
+      "apr": 7,
+      "may": 5,
+      "jun": 7,
+      "jul": 8,
+      "aug": 8,
+      "sep": 9,
+      "oct": 7,
+      "nov": 8,
+      "dec": 10,
+      "annual": 96
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.1,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.1
     }
   },
   "23034": {
@@ -7267,6 +14587,36 @@
       "nov": 68.3,
       "dec": 59.9,
       "annual": 78.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 5,
+      "feb": 4,
+      "mar": 4,
+      "apr": 5,
+      "may": 7,
+      "jun": 5,
+      "jul": 5,
+      "aug": 5,
+      "sep": 6,
+      "oct": 5,
+      "nov": 4,
+      "dec": 4,
+      "annual": 59
+    },
+    "snowfall": {
+      "jan": 1.3,
+      "feb": 0.5,
+      "mar": 0.1,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.4,
+      "dec": 0.2,
+      "annual": 2.5
     }
   },
   "12912": {
@@ -7287,6 +14637,36 @@
       "nov": 74.2,
       "dec": 66.1,
       "annual": 80.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 8,
+      "feb": 7,
+      "mar": 7,
+      "apr": 6,
+      "may": 7,
+      "jun": 8,
+      "jul": 7,
+      "aug": 8,
+      "sep": 10,
+      "oct": 7,
+      "nov": 7,
+      "dec": 8,
+      "annual": 90
+    },
+    "snowfall": {
+      "jan": 0.1,
+      "feb": 0.1,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.2
     }
   },
   "13959": {
@@ -7307,6 +14687,36 @@
       "nov": 68.5,
       "dec": 59.0,
       "annual": 77.9
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 7,
+      "mar": 8,
+      "apr": 7,
+      "may": 9,
+      "jun": 6,
+      "jul": 5,
+      "aug": 5,
+      "sep": 6,
+      "oct": 6,
+      "nov": 7,
+      "dec": 7,
+      "annual": 79
+    },
+    "snowfall": {
+      "jan": 0.5,
+      "feb": 0.4,
+      "mar": 0.1,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.1,
+      "dec": 0.3,
+      "annual": 1.4
     }
   },
   "13966": {
@@ -7327,6 +14737,36 @@
       "nov": 65.1,
       "dec": 54.7,
       "annual": 75.8
+    },
+    "daysWithPrecipitation": {
+      "jan": 4,
+      "feb": 5,
+      "mar": 6,
+      "apr": 6,
+      "may": 8,
+      "jun": 6,
+      "jul": 5,
+      "aug": 5,
+      "sep": 6,
+      "oct": 5,
+      "nov": 5,
+      "dec": 5,
+      "annual": 66
+    },
+    "snowfall": {
+      "jan": 1.6,
+      "feb": 1.4,
+      "mar": 0.6,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.3,
+      "dec": 0.9,
+      "annual": 4.8
     }
   },
   "13741": {
@@ -7347,6 +14787,36 @@
       "nov": 58.6,
       "dec": 47.9,
       "annual": 67.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 10,
+      "feb": 9,
+      "mar": 11,
+      "apr": 10,
+      "may": 12,
+      "jun": 11,
+      "jul": 12,
+      "aug": 10,
+      "sep": 9,
+      "oct": 8,
+      "nov": 8,
+      "dec": 9,
+      "annual": 119
+    },
+    "snowfall": {
+      "jan": 5.7,
+      "feb": 6.4,
+      "mar": 3.1,
+      "apr": 0.3,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 1.0,
+      "dec": 3.7,
+      "annual": 20.2
     }
   },
   "93739": {
@@ -7367,6 +14837,36 @@
       "nov": 58.6,
       "dec": 49.0,
       "annual": 65.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 11,
+      "feb": 10,
+      "mar": 11,
+      "apr": 10,
+      "may": 10,
+      "jun": 9,
+      "jul": 11,
+      "aug": 9,
+      "sep": 8,
+      "oct": 8,
+      "nov": 9,
+      "dec": 10,
+      "annual": 115
+    },
+    "snowfall": {
+      "jan": 3.1,
+      "feb": 3.4,
+      "mar": 1.1,
+      "apr": 0.2,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.1,
+      "dec": 1.7,
+      "annual": 9.6
     }
   },
   "24227": {
@@ -7387,6 +14887,36 @@
       "nov": 50.2,
       "dec": 44.2,
       "annual": 60.5
+    },
+    "daysWithPrecipitation": {
+      "jan": 20,
+      "feb": 17,
+      "mar": 18,
+      "apr": 15,
+      "may": 12,
+      "jun": 9,
+      "jul": 5,
+      "aug": 6,
+      "sep": 8,
+      "oct": 14,
+      "nov": 19,
+      "dec": 21,
+      "annual": 164
+    },
+    "snowfall": {
+      "jan": 7.0,
+      "feb": 3.4,
+      "mar": 1.7,
+      "apr": 0.1,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 1.1,
+      "dec": 3.5,
+      "annual": 16.8
     }
   },
   "24160": {
@@ -7407,6 +14937,36 @@
       "nov": 48.5,
       "dec": 38.5,
       "annual": 63.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 14,
+      "feb": 11,
+      "mar": 12,
+      "apr": 10,
+      "may": 9,
+      "jun": 7,
+      "jul": 3,
+      "aug": 3,
+      "sep": 4,
+      "oct": 8,
+      "nov": 13,
+      "dec": 14,
+      "annual": 107
+    },
+    "snowfall": {
+      "jan": 5.4,
+      "feb": 2.8,
+      "mar": 0.9,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 1.6,
+      "dec": 4.3,
+      "annual": 15.1
     }
   },
   "24243": {
@@ -7427,6 +14987,36 @@
       "nov": 47.9,
       "dec": 35.8,
       "annual": 63.2
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 7,
+      "mar": 6,
+      "apr": 5,
+      "may": 5,
+      "jun": 5,
+      "jul": 2,
+      "aug": 3,
+      "sep": 3,
+      "oct": 5,
+      "nov": 8,
+      "dec": 10,
+      "annual": 69
+    },
+    "snowfall": {
+      "jan": 7.6,
+      "feb": 3.1,
+      "mar": 1.2,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 2.7,
+      "dec": 8.1,
+      "annual": 22.8
     }
   },
   "03872": {
@@ -7447,6 +15037,36 @@
       "nov": 53.0,
       "dec": 42.3,
       "annual": 61.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 16,
+      "feb": 14,
+      "mar": 15,
+      "apr": 14,
+      "may": 14,
+      "jun": 13,
+      "jul": 14,
+      "aug": 11,
+      "sep": 10,
+      "oct": 10,
+      "nov": 12,
+      "dec": 15,
+      "annual": 159
+    },
+    "snowfall": {
+      "jan": 17.2,
+      "feb": 16.8,
+      "mar": 8.5,
+      "apr": 2.1,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.9,
+      "nov": 3.4,
+      "dec": 11.5,
+      "annual": 60.4
     }
   },
   "13866": {
@@ -7467,6 +15087,36 @@
       "nov": 57.0,
       "dec": 45.6,
       "annual": 65.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 15,
+      "feb": 14,
+      "mar": 15,
+      "apr": 14,
+      "may": 13,
+      "jun": 12,
+      "jul": 13,
+      "aug": 11,
+      "sep": 9,
+      "oct": 10,
+      "nov": 12,
+      "dec": 14,
+      "annual": 151
+    },
+    "snowfall": {
+      "jan": 10.5,
+      "feb": 9.0,
+      "mar": 5.4,
+      "apr": 0.7,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.3,
+      "nov": 2.0,
+      "dec": 5.3,
+      "annual": 33.2
     }
   },
   "13729": {
@@ -7487,6 +15137,36 @@
       "nov": 53.3,
       "dec": 42.3,
       "annual": 61.7
+    },
+    "daysWithPrecipitation": {
+      "jan": 18,
+      "feb": 16,
+      "mar": 17,
+      "apr": 15,
+      "may": 15,
+      "jun": 14,
+      "jul": 14,
+      "aug": 12,
+      "sep": 11,
+      "oct": 11,
+      "nov": 13,
+      "dec": 17,
+      "annual": 172
+    },
+    "snowfall": {
+      "jan": 16.3,
+      "feb": 14.8,
+      "mar": 10.8,
+      "apr": 3.4,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.6,
+      "nov": 5.4,
+      "dec": 12.2,
+      "annual": 63.5
     }
   },
   "03860": {
@@ -7507,6 +15187,36 @@
       "nov": 56.8,
       "dec": 45.4,
       "annual": 66.1
+    },
+    "daysWithPrecipitation": {
+      "jan": 13,
+      "feb": 12,
+      "mar": 14,
+      "apr": 13,
+      "may": 13,
+      "jun": 12,
+      "jul": 12,
+      "aug": 10,
+      "sep": 8,
+      "oct": 10,
+      "nov": 11,
+      "dec": 13,
+      "annual": 140
+    },
+    "snowfall": {
+      "jan": 7.9,
+      "feb": 7.1,
+      "mar": 4.1,
+      "apr": 0.5,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 1.0,
+      "dec": 3.5,
+      "annual": 24.2
     }
   },
   "14920": {
@@ -7527,6 +15237,36 @@
       "nov": 43.8,
       "dec": 29.1,
       "annual": 57.0
+    },
+    "daysWithPrecipitation": {
+      "jan": 9,
+      "feb": 8,
+      "mar": 10,
+      "apr": 11,
+      "may": 12,
+      "jun": 11,
+      "jul": 10,
+      "aug": 10,
+      "sep": 9,
+      "oct": 8,
+      "nov": 8,
+      "dec": 9,
+      "annual": 114
+    },
+    "snowfall": {
+      "jan": 10.4,
+      "feb": 8.3,
+      "mar": 8.3,
+      "apr": 1.8,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.1,
+      "nov": 3.7,
+      "dec": 9.8,
+      "annual": 42.4
     }
   },
   "24089": {
@@ -7547,6 +15287,36 @@
       "nov": 44.7,
       "dec": 34.2,
       "annual": 59.3
+    },
+    "daysWithPrecipitation": {
+      "jan": 7,
+      "feb": 7,
+      "mar": 9,
+      "apr": 10,
+      "may": 11,
+      "jun": 9,
+      "jul": 8,
+      "aug": 6,
+      "sep": 7,
+      "oct": 7,
+      "nov": 7,
+      "dec": 7,
+      "annual": 93
+    },
+    "snowfall": {
+      "jan": 10.0,
+      "feb": 10.1,
+      "mar": 12.7,
+      "apr": 12.1,
+      "may": 3.8,
+      "jun": 0.1,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 1.3,
+      "oct": 6.2,
+      "nov": 9.9,
+      "dec": 10.7,
+      "annual": 76.9
     }
   },
   "40604": {
@@ -7567,6 +15337,141 @@
       "nov": 86.4,
       "dec": 85.7,
       "annual": 86.4
+    },
+    "daysWithPrecipitation": {
+      "jan": 16,
+      "feb": 13,
+      "mar": 16,
+      "apr": 17,
+      "may": 21,
+      "jun": 22,
+      "jul": 23,
+      "aug": 23,
+      "sep": 22,
+      "oct": 24,
+      "nov": 23,
+      "dec": 19,
+      "annual": 241
+    },
+    "snowfall": {
+      "jan": 0.0,
+      "feb": 0.0,
+      "mar": 0.0,
+      "apr": 0.0,
+      "may": 0.0,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.0,
+      "nov": 0.0,
+      "dec": 0.0,
+      "annual": 0.0
+    }
+  },
+  "23062": {
+    "id": "23062",
+    "city": "DENVER",
+    "state": "CO",
+    "daysWithPrecipitation": {
+      "jan": 6,
+      "feb": 6,
+      "mar": 8,
+      "apr": 8,
+      "may": 11,
+      "jun": 9,
+      "jul": 9,
+      "aug": 9,
+      "sep": 6,
+      "oct": 5,
+      "nov": 6,
+      "dec": 5,
+      "annual": 87
+    },
+    "snowfall": {
+      "jan": 7.5,
+      "feb": 7.6,
+      "mar": 11.9,
+      "apr": 8.0,
+      "may": 1.7,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 1.3,
+      "oct": 4.0,
+      "nov": 8.3,
+      "dec": 7.8,
+      "annual": 58.1
+    }
+  },
+  "14753": {
+    "id": "14753",
+    "city": "BLUE HILL",
+    "state": "MA",
+    "daysWithPrecipitation": {
+      "jan": 12,
+      "feb": 11,
+      "mar": 12,
+      "apr": 12,
+      "may": 12,
+      "jun": 12,
+      "jul": 11,
+      "aug": 10,
+      "sep": 9,
+      "oct": 10,
+      "nov": 11,
+      "dec": 12,
+      "annual": 135
+    },
+    "snowfall": {
+      "jan": 16.4,
+      "feb": 16.6,
+      "mar": 11.9,
+      "apr": 3.0,
+      "may": 0.1,
+      "jun": 0.0,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.0,
+      "oct": 0.4,
+      "nov": 2.7,
+      "dec": 11.2,
+      "annual": 62.3
+    }
+  },
+  "24146": {
+    "id": "24146",
+    "city": "KALISPELL",
+    "state": "MT",
+    "daysWithPrecipitation": {
+      "jan": 14,
+      "feb": 11,
+      "mar": 11,
+      "apr": 9,
+      "may": 11,
+      "jun": 12,
+      "jul": 7,
+      "aug": 7,
+      "sep": 8,
+      "oct": 9,
+      "nov": 12,
+      "dec": 14,
+      "annual": 126
+    },
+    "snowfall": {
+      "jan": 15.4,
+      "feb": 10.0,
+      "mar": 6.7,
+      "apr": 2.1,
+      "may": 0.6,
+      "jun": 0.1,
+      "jul": 0.0,
+      "aug": 0.0,
+      "sep": 0.1,
+      "oct": 1.4,
+      "nov": 9.0,
+      "dec": 15.2,
+      "annual": 60.6
     }
   }
 }

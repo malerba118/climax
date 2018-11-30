@@ -32,6 +32,10 @@
   margin-bottom: 36px;
 }
 
+.slider {
+  padding-bottom: 12px;
+}
+
 .sliderLabel {
   display: flex;
   justify-content: space-between;
