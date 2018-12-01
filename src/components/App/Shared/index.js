@@ -3,6 +3,7 @@ import Image from './Image'
 import FlatButton from './FlatButton'
 import Notifications from './Notifications'
 import CustomRadioGroup from './CustomRadioGroup/CustomRadioGroup'
+import ResultCard from './ResultCard'
 
 export {
   PromiseButton,
@@ -10,4 +11,5 @@ export {
   FlatButton,
   Notifications,
   CustomRadioGroup,
+  ResultCard,
 }

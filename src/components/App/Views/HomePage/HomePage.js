@@ -12,6 +12,7 @@ import Tab from '@material-ui/core/Tab'
 import USAMap from "react-usa-map"
 import ContainerDimensions from 'react-container-dimensions'
 import { colorBurn } from 'color-blend/unit'
+import {StateDetailView} from './Views'
 
 import styles from './HomePage.module.css'
 
@@ -67,6 +68,7 @@ class HomePage extends Component {
 
   state = {
     selectedTab: 0,
+    selectedState: null,
     averageHighSpringTarget: 70,
     chanceOfSunshineSpringTarget: 'A lot',
     precipitationSpringTarget: 'None',
@@ -90,6 +92,18 @@ class HomePage extends Component {
   onTabChange = (e, value) => {
     this.setState({
       selectedTab: value
+    })
+  }
+
+  onMapClick = (e) => {
+    this.setState({
+      selectedState: e.target.dataset.name
+    })
+  }
+
+  closeStateDetailOverlay = () => {
+    this.setState({
+      selectedState: null
     })
   }
 
@@ -178,7 +192,6 @@ class HomePage extends Component {
     ]
     let searchResults = climateDataClient.search(searchCriteria)
     let stateColors = getStateColors(searchResults)
-    console.log(stateColors)
     return (
       <FadeIn>
         <div className={styles.root}>
@@ -364,10 +377,15 @@ class HomePage extends Component {
             <div className={styles.mapContainer}>
               <ContainerDimensions>
                 { ({ width }) =>
-                  <USAMap customize={stateColors} width={Math.max(width)} onClick={(e) => console.log(e.target)} />
+                  <USAMap customize={stateColors} width={Math.max(width)} onClick={this.onMapClick} />
                 }
               </ContainerDimensions>
             </div>
+            <StateDetailView
+              open={this.state.selectedState}
+              onClose={this.closeStateDetailOverlay}
+              resultSet={searchResults.filter(r => r.city.state === this.state.selectedState)}
+            />
           </div>
         </div>
       </FadeIn>
