@@ -1,6 +1,6 @@
 
 export function inRange(value, low, high) {
-  return low <= value && value <= high
+  return low <= value && value < high
 }
 
 export function mean(arr) {

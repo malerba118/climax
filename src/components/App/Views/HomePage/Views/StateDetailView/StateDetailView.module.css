@@ -18,11 +18,23 @@
 
 .topbar {
   height: 48px;
-  padding: 12px;
+  padding: 8px;
+  composes: children-center from global;
+  position: relative;
+  composes: border-bottom from global;
 }
 
 .content {
   flex: 1;
   overflow-y: auto;
   padding: 24px;
+}
+
+.title {
+  composes: text-xl from global;
+}
+
+.closeButton {
+  position: absolute;
+  left: 8px;
 }

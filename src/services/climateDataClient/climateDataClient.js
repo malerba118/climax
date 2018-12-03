@@ -25,7 +25,7 @@ class ClimateDataClient {
   }
 
   getStateMap() {
-    return stateMap
+    return {...stateMap}
   }
 
 }

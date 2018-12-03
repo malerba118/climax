@@ -384,6 +384,7 @@ class HomePage extends Component {
             <StateDetailView
               open={this.state.selectedState}
               onClose={this.closeStateDetailOverlay}
+              stateCode={this.state.selectedState}
               resultSet={searchResults.filter(r => r.city.state === this.state.selectedState)}
             />
           </div>
