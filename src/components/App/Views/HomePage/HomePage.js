@@ -11,7 +11,7 @@ import Tabs from '@material-ui/core/Tabs'
 import Tab from '@material-ui/core/Tab'
 import USAMap from "react-usa-map"
 import ContainerDimensions from 'react-container-dimensions'
-import { colorBurn } from 'color-blend/unit'
+import { colorBurn, multiply } from 'color-blend/unit'
 import {StateDetailView} from './Views'
 
 import styles from './HomePage.module.css'
@@ -21,10 +21,10 @@ const tabs = ['Spring', 'Summer', 'Fall', 'Winter']
 const percentagePartitions = {
   'None': {
     min: 0,
-    max: 40
+    max: 50
   },
   'Some': {
-    min: 40,
+    min: 50,
     max: 70
   },
   'A lot': {
@@ -40,10 +40,10 @@ const precipitationPartitions = {
   },
   'Some': {
     min: 20,
-    max: 50
+    max: 40
   },
   'A lot': {
-    min: 50,
+    min: 40,
     max: 100
   },
 }
@@ -51,14 +51,14 @@ const precipitationPartitions = {
 const snowfallPartitions = {
   'None': {
     min: 0,
-    max: 20
+    max: 10
   },
   'Some': {
-    min: 20,
-    max: 50
+    min: 10,
+    max: 35
   },
   'A lot': {
-    min: 50,
+    min: 35,
     max: 200
   },
 }
@@ -394,6 +394,10 @@ class HomePage extends Component {
 }
 
 function getStateColors(searchResults) {
+  let defaultStateColors = climateDataClient.getStateMap()
+  Object.keys(defaultStateColors).forEach(stateCode => {
+    defaultStateColors[stateCode] = {fill: 'white'}
+  })
   let sums = searchResults.reduce(
     (sumMap, result) => {
       let sumArr
@@ -412,14 +416,14 @@ function getStateColors(searchResults) {
   )
   Object.keys(sums).forEach((state) => {
     let blended = colorBurn(
-      {r: 240/255, g: 130/255/2, b: 80/255, a: mean(sums[state])},
+      {r: 170/255, g: 5/255, b: 10/255, a: mean(sums[state])},
       {r: 255/255, g: 255/255, b: 255/255, a: 1},
     )
-    sums[state] = {
+    defaultStateColors[state] = {
       fill: `rgba(${blended.r*255},${blended.g*255},${blended.b*255},${blended.a})`
     }
   })
-  return sums
+  return defaultStateColors
 }
 
 

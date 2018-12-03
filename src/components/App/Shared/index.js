@@ -4,6 +4,7 @@ import FlatButton from './FlatButton'
 import Notifications from './Notifications'
 import CustomRadioGroup from './CustomRadioGroup/CustomRadioGroup'
 import ResultCard from './ResultCard'
+import { BarChart } from './Charts'
 
 export {
   PromiseButton,
@@ -12,4 +13,5 @@ export {
   Notifications,
   CustomRadioGroup,
   ResultCard,
+  BarChart,
 }

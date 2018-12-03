@@ -9,6 +9,7 @@ import { ResultCard } from 'components/App/Shared'
 class StateDetailView extends Component {
 
   render() {
+    let resultSet = [...this.props.resultSet].sort((r1, r2) => r1.city.city.localeCompare(r2.city.city))
     return (
       <div
         className={classNames(
@@ -23,8 +24,8 @@ class StateDetailView extends Component {
         </div>
         <div className={styles.content}>
           <Grid container spacing={24}>
-            {this.props.resultSet.map(result => (
-              <Grid item xs={4}>
+            {resultSet.map(result => (
+              <Grid item xs={12} md={6}>
                 <ResultCard result={result} key={result.city.city}/>
               </Grid>
             ))}

@@ -1,0 +1,19 @@
+.chart {
+  background-color: #020122;
+  padding: 16px;
+}
+
+.chart text {
+  stroke: rgba(255,255,255,1);
+  stroke-width: .5px;
+}
+
+.chart line {
+  stroke: rgba(255,255,255,1);
+  stroke-width: .5px;
+}
+
+.title {
+  color: white;
+  composes: text-md from global;
+}

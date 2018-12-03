@@ -1,4 +1,6 @@
 import climateData from './data.json'
+import stateMap from './states.json'
+
 import Climate from 'services/models/Climate'
 
 class ClimateDataClient {
@@ -18,8 +20,12 @@ class ClimateDataClient {
       }
     })
     results.sort((a, b) => a.criteriaMet.length < b.criteriaMet.length ? 1 : -1)
-    // results = results.filter(result => !!result.city.averageHighs || !!result.city.sunshineProbability || !!result.city.snowfall || !!result.city.numDaysPrecipitation)
+    results = results.filter(result => !!result.city.averageHighs && !!result.city.sunshineProbability && !!result.city.daysWithPrecipitation && !!result.city.snowfall)
     return results
+  }
+
+  getStateMap() {
+    return stateMap
   }
 
 }
