@@ -12,7 +12,7 @@
   background-color: white;
   display: flex;
   flex-direction: column;
-  box-shadow: 2px 0px 8px -2px rgba(0,0,0,0.1);
+  box-shadow: 4px 0px 16px -2px rgba(0,0,0,0.15);
   z-index: 1;
 }
 
@@ -25,7 +25,7 @@
   padding: 24px;
   overflow: auto;
   color: white;
-  background: #020122;
+  background: #0a0a1c;
 }
 
 .field {
@@ -74,7 +74,21 @@
 .appTitle {
   composes: children-center from global;
   padding-top: 24px;
+  flex: 2;
+  composes: text-grey-7 from global;
+  font-size: 24px;
+}
+
+.appTitle img {
+  padding: 12px;
+  padding-top: 0px;
+  padding-bottom: 2px;
+}
+
+.appSubtitle {
   flex: 1;
+  composes: text-md from global;
+  composes: text-grey-6 from global;
 }
 
 .controlsBody {

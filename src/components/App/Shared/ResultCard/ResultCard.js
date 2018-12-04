@@ -54,8 +54,12 @@ class ResultCard extends Component {
 
   render() {
     const {result} = this.props
+    let criteriaClasses = {}
+    result.criteriaMet.forEach((criteria) => {
+      criteriaClasses[criteria.name] = styles.active
+    })
     return (
-      <Card elevation={0} square>
+      <Card elevation={4} square>
         <Carousel showThumbs={false} showIndicators={false} showStatus={false}>
           <BarChart
             key={result.city.city + '1'}
@@ -118,23 +122,51 @@ class ResultCard extends Component {
            }}
           />
         </Carousel>
-        <CardContent>
+        <CardContent classes={{root: styles.cardContent}}>
           <Grid container>
             <Grid item xs={12}>
               <div className={styles.cardTitle}>
                 {result.city.city}, {result.city.state}
               </div>
             </Grid>
+            <Grid item xs={12}>
+              <div className={styles.seasons}>
+                <div className={styles.season}>
+                  <div className={styles.seasonText}>Spring</div>
+                  <div className={styles.seasonSvgs}>
+                    <img className={criteriaClasses['averageHighSpring']} src="/svg/thermometer.svg" height="20"/>
+                    <img className={criteriaClasses['chanceOfSunshineSpring']} src="/svg/sun.svg" height="20"/>
+                    <img className={criteriaClasses['precipitationSpring']} src="/svg/rain.svg" height="20"/>
+                  </div>
+                </div>
+                <div className={styles.season}>
+                  <div className={styles.seasonText}>Summer</div>
+                  <div className={styles.seasonSvgs}>
+                    <img className={criteriaClasses['averageHighSummer']} src="/svg/thermometer.svg" height="20"/>
+                    <img className={criteriaClasses['chanceOfSunshineSummer']} src="/svg/sun.svg" height="20"/>
+                    <img className={criteriaClasses['precipitationSummer']} src="/svg/rain.svg" height="20"/>
+                  </div>
+                </div>
+                <div className={styles.season}>
+                  <div className={styles.seasonText}>Fall</div>
+                  <div className={styles.seasonSvgs}>
+                    <img className={criteriaClasses['averageHighFall']} src="/svg/thermometer.svg" height="20"/>
+                    <img className={criteriaClasses['chanceOfSunshineFall']} src="/svg/sun.svg" height="20"/>
+                    <img className={criteriaClasses['precipitationFall']} src="/svg/rain.svg" height="20"/>
+                  </div>
+                </div>
+                <div className={styles.season}>
+                  <div className={styles.seasonText}>Winter</div>
+                  <div className={styles.seasonSvgs}>
+                    <img className={criteriaClasses['averageHighWinter']} src="/svg/thermometer.svg" height="20"/>
+                    <img className={criteriaClasses['chanceOfSunshineWinter']} src="/svg/sun.svg" height="20"/>
+                    <img className={criteriaClasses['snowfallWinter']} src="/svg/snowflake.svg" height="20"/>
+                  </div>
+                </div>
+              </div>
+            </Grid>
           </Grid>
         </CardContent>
-        {/*<CardActions>
-          <Button size="small" color="primary">
-            Share
-          </Button>
-          <Button size="small" color="primary">
-            Learn More
-          </Button>
-        </CardActions>*/}
       </Card>
     )
   }

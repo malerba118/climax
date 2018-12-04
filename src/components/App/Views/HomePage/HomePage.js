@@ -198,7 +198,11 @@ class HomePage extends Component {
           <div className={styles.controls}>
             <div className={styles.controlsHeader}>
               <div className={styles.appTitle}>
-                <h2>City Matcher</h2>
+                <img height="36" src='/svg/logo.svg'/>
+                <span>Climax</span>
+              </div>
+              <div className={styles.appSubtitle} style={{height: 30, textAlign: 'center'}}>
+                For each season select your ideal climate.
               </div>
               <Tabs
                 className={styles.tabs}

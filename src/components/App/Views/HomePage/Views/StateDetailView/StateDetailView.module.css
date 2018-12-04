@@ -2,6 +2,7 @@
   position: fixed;
   left: 140vw;
   width: calc(100vw - 375px);
+  min-width: 500px;
   top: 0;
   bottom: 0;
   transition: left .5s;
@@ -9,7 +10,7 @@
   display: flex;
   flex-direction: column;
   composes: text-grey-5 from global;
-  background-color: #eaeced;
+  background-color: #edf1f0;
 }
 
 .open {
@@ -22,7 +23,11 @@
   composes: children-center from global;
   position: relative;
   composes: border-bottom from global;
+  box-shadow: 0px 3px 5px -1px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 6px 10px 0px rgba(0, 0, 0, 0.14);
+  box-shadow: 0px 1px 18px 0px rgba(0, 0, 0, 0.12);
 }
+
 
 .content {
   flex: 1;

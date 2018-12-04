@@ -31,7 +31,7 @@ class StateDetailView extends Component {
         <div className={styles.content}>
           <Grid container spacing={24}>
             {resultSet.map(result => (
-              <Grid item xs={12} md={6}>
+              <Grid item xs={12} lg={6}>
                 <ResultCard result={result} key={result.city.city}/>
               </Grid>
             ))}

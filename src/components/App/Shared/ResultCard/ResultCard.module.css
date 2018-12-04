@@ -1,7 +1,6 @@
 .cardTitle {
   composes: text-truncate from global;
   composes: text-md from global;
-  text-transform: capitalize;
 }
 
 .cardImage {
@@ -21,26 +20,48 @@
   text-align: end;
 }
 
+.cardContent {
+  padding: 18px !important;
+  composes: text-grey-7 from global;
+  font-weight: 400;
+}
+
 .cardContentDivider {
   composes: border-bottom from global;
   margin: 0 24px;
 }
 
-.heartIcon {
-  composes: text-primary from global;
+.seasons {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 18px;
+  overflow: auto;
 }
 
-.chart {
-  background-color: #020122;
-  padding: 16px;
+.seasonContainer {
 }
 
-.chart text {
-  stroke: rgba(255,255,255,1);
-  stroke-width: .5px;
+.season {
+  display: inline-block;
 }
 
-.chart line {
-  stroke: rgba(255,255,255,1);
-  stroke-width: .5px;
+.seasonText {
+  text-align: center;
+  padding: 8px;
+}
+
+.seasonSvgs {
+  display: flex;
+  justify-content: center;
+  background: #a9bdbec2;
+  border-radius: 20px;
+}
+
+.seasonSvgs img {
+  padding: 6px;
+  opacity: .2;
+}
+
+.active {
+  opacity: 1 !important;
 }
