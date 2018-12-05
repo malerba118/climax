@@ -11,7 +11,7 @@ import Tabs from '@material-ui/core/Tabs'
 import Tab from '@material-ui/core/Tab'
 import USAMap from "react-usa-map"
 import ContainerDimensions from 'react-container-dimensions'
-import { colorBurn, multiply } from 'color-blend/unit'
+import { colorBurn } from 'color-blend/unit'
 import {StateDetailView} from './Views'
 
 import styles from './HomePage.module.css'
@@ -401,7 +401,7 @@ class HomePage extends Component {
 function getStateColors(searchResults) {
   let defaultStateColors = climateDataClient.getStateMap()
   Object.keys(defaultStateColors).forEach(stateCode => {
-    defaultStateColors[stateCode] = {fill: 'white'}
+    defaultStateColors[stateCode] = {fill: '#ffffff'}
   })
   let sums = searchResults.reduce(
     (sumMap, result) => {
@@ -425,9 +425,10 @@ function getStateColors(searchResults) {
       {r: 255/255, g: 255/255, b: 255/255, a: 1},
     )
     defaultStateColors[state] = {
-      fill: `rgba(${blended.r*255},${blended.g*255},${blended.b*255},${blended.a})`
+      fill: `rgba(${Math.floor(blended.r*255)},${Math.floor(blended.g*255)},${Math.floor(blended.b*255)},${blended.a})`
     }
   })
+  console.log()
   return defaultStateColors
 }
 

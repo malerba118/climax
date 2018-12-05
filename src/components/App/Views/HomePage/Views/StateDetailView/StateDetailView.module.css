@@ -1,8 +1,8 @@
 .root {
-  position: fixed;
-  left: 140vw;
-  width: calc(100vw - 375px);
-  min-width: 500px;
+  position: absolute;
+  left: 130%;
+  width: 100%;
+  min-width: 320px;
   top: 0;
   bottom: 0;
   transition: left .5s;
@@ -14,7 +14,7 @@
 }
 
 .open {
-  left: 375px;
+  left: 0px;
 }
 
 .topbar {
@@ -32,6 +32,7 @@
 .content {
   flex: 1;
   overflow-y: auto;
+  -webkit-overflow-scrolling: touch;
   padding: 24px;
 }
 

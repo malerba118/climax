@@ -1,31 +1,59 @@
-
+/* For desktop: */
 .root {
-
+  display: flex;
 }
 
 .controls {
-  position: fixed;
-  left: 0;
-  top: 0;
-  bottom: 0;
+  height: 100vh;
   width: 375px;
   background-color: white;
   display: flex;
   flex-direction: column;
   box-shadow: 4px 0px 16px -2px rgba(0,0,0,0.15);
   z-index: 1;
+  box-sizing: border-box;
 }
 
 .content {
-  position: fixed;
-  left: 375px;
-  top: 0;
-  bottom: 0;
-  right: 0;
+  position: relative;
+  height: 100vh;
+  flex: 1;
   padding: 24px;
-  overflow: auto;
+  overflow-y: auto;
+  overflow-x: hidden;
   color: white;
   background: #0a0a1c;
+  box-sizing: border-box;
+}
+
+@media only screen and (max-width: 720px) {
+  /* For mobile: */
+  .root {
+    display: flex;
+    flex-direction: column;
+  }
+  .controls {
+    height: 100vh;
+    width: auto;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 4px 0px 16px -2px rgba(0,0,0,0.15);
+    z-index: 1;
+    box-sizing: border-box;
+  }
+
+  .content {
+    position: relative;
+    height: 100vh;
+    width: 100%;
+    padding: 24px;
+    overflow-y: auto;
+    overflow-x: hidden;
+    color: white;
+    background: #0a0a1c;
+    box-sizing: border-box;
+  }
 }
 
 .field {
@@ -94,6 +122,7 @@
 .controlsBody {
   flex: 1;
   padding: 48px;
+  overflow-x: hidden;
 }
 
 .controlsFooter {
