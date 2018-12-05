@@ -202,7 +202,7 @@ class HomePage extends Component {
                 <span>Climax</span>
               </div>
               <div className={styles.appSubtitle} style={{height: 30, textAlign: 'center'}}>
-                For each season select your ideal climate.
+                For each season, select your ideal climate.
               </div>
               <Tabs
                 className={styles.tabs}

@@ -5,20 +5,6 @@ import isEqual from 'lodash/isEqual'
 
 class BarChart extends React.Component {
 
-  // state = {
-  //   data: []
-  // }
-  //
-  // static getDerivedStateFromProps(nextProps, prevState) {
-  //   if (JSON.stringify(nextProps.data) === JSON.stringify(prevState.data)) {
-  //     return
-  //   }
-  //   console.log(nextProps.data)
-  //   return {
-  //     data: nextProps.data
-  //   }
-  // }
-
   shouldComponentUpdate(nextProps, nextState) {
     //to prevent charts from thinking they need to update even though data is the same
     // if (!isEqual(nextProps.data, this.props.data)) {
