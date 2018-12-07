@@ -2,7 +2,7 @@
   "name": "react-redux-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://malerba118.github.io/react-redux-template",
+  "homepage": "http://malerba118.github.io/climax",
   "dependencies": {
     "@material-ui/core": "^3.2.2",
     "@material-ui/icons": "^3.0.1",

@@ -10,7 +10,7 @@
   display: flex;
   flex-direction: column;
   composes: text-grey-5 from global;
-  background-color: #edf1f0;
+  background-color: #ecf0f5;
 }
 
 .open {

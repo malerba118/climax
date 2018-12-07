@@ -22,7 +22,7 @@
   overflow-y: auto;
   overflow-x: hidden;
   color: white;
-  background: #0a0a1c;
+  background: #3b4458;
   box-sizing: border-box;
 }
 
@@ -51,7 +51,7 @@
     overflow-y: auto;
     overflow-x: hidden;
     color: white;
-    background: #0a0a1c;
+    background: #3b4458;
     box-sizing: border-box;
   }
 }

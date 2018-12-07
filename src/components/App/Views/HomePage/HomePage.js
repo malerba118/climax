@@ -421,7 +421,7 @@ function getStateColors(searchResults) {
   )
   Object.keys(sums).forEach((state) => {
     let blended = colorBurn(
-      {r: 170/255, g: 5/255, b: 10/255, a: mean(sums[state])},
+      {r: 190/255, g: 60/255, b: 60/255, a: mean(sums[state])},
       {r: 255/255, g: 255/255, b: 255/255, a: 1},
     )
     defaultStateColors[state] = {

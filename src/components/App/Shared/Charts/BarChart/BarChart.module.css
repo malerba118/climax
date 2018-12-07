@@ -1,11 +1,12 @@
 .chart {
-  background-color: #0a0a1c;
+  background-color: #3b4458;
   padding: 16px;
 }
 
 .chart text {
   stroke: rgba(255,255,255,1);
-  stroke-width: .5px;
+  stroke-width: 0px;
+  fill: rgba(255,255,255,1) !important;
 }
 
 .chart line {
@@ -14,8 +15,8 @@
 }
 
 .chart rect {
-  fill: #b2c7c7 !important;
-  opacity: .95;
+  fill: #d8f2f5db !important;
+  opacity: .89;
 }
 
 .title {

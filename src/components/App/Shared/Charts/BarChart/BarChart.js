@@ -19,6 +19,7 @@ class BarChart extends React.Component {
         <div className={styles.title}>{this.props.title}</div>
         <D3BarChart
           noDataMessage="No Data Available"
+          title=""
           height={250}
           data={this.props.data}
           axisConfig={this.props.axisConfig}
