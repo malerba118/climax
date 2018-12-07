@@ -5,6 +5,7 @@ import Notifications from './Notifications'
 import CustomRadioGroup from './CustomRadioGroup/CustomRadioGroup'
 import ResultCard from './ResultCard'
 import { BarChart } from './Charts'
+import ShareableLinkDialog from './ShareableLinkDialog'
 
 export {
   PromiseButton,
@@ -14,4 +15,5 @@ export {
   CustomRadioGroup,
   ResultCard,
   BarChart,
+  ShareableLinkDialog,
 }

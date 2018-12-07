@@ -56,6 +56,16 @@
   }
 }
 
+.shareableLink {
+  position: absolute;
+  top: 10px;
+  right: 14px;
+}
+
+.shareableLink Button {
+  color: rgba(255,255,255,.85) !important;
+}
+
 .field {
   margin-bottom: 36px;
 }

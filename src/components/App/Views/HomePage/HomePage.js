@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { TextField } from '@material-ui/core'
-import { PromiseButton, CustomRadioGroup } from 'components/App/Shared'
+import { PromiseButton, CustomRadioGroup, ShareableLinkDialog } from 'components/App/Shared'
 import { FadeIn } from 'components/Universal/Transitions'
 import { actions as notificationActions } from 'store/other/notifications'
 import climateDataClient from 'services/climateDataClient'
@@ -9,10 +9,15 @@ import Typography from '@material-ui/core/Typography';
 import Slider from '@material-ui/lab/Slider';
 import Tabs from '@material-ui/core/Tabs'
 import Tab from '@material-ui/core/Tab'
+import IconButton from '@material-ui/core/IconButton'
+import LinkIcon from '@material-ui/icons/Link';
 import USAMap from "react-usa-map"
 import ContainerDimensions from 'react-container-dimensions'
 import { colorBurn } from 'color-blend/unit'
 import {StateDetailView} from './Views'
+import pick from 'lodash/pick'
+import isEqual from 'lodash/isEqual'
+import queryString from 'query-string'
 
 import styles from './HomePage.module.css'
 
@@ -63,6 +68,21 @@ const snowfallPartitions = {
   },
 }
 
+const queryParamFields = [
+  'averageHighSpringTarget',
+  'chanceOfSunshineSpringTarget',
+  'precipitationSpringTarget',
+  'averageHighSummerTarget',
+  'chanceOfSunshineSummerTarget',
+  'precipitationSummerTarget',
+  'averageHighFallTarget',
+  'chanceOfSunshineFallTarget',
+  'precipitationFallTarget',
+  'averageHighWinterTarget',
+  'chanceOfSunshineWinterTarget',
+  'snowfallWinterTarget',
+]
+
 
 class HomePage extends Component {
 
@@ -81,6 +101,41 @@ class HomePage extends Component {
     averageHighWinterTarget: 50,
     chanceOfSunshineWinterTarget: 'A lot',
     snowfallWinterTarget: 'None',
+    linkDialogOpen: false,
+  }
+
+  // static getDerivedStateFromProps(nextProps, prevState) {
+  //   let subset = pick(prevState, queryParamFields)
+  //   let queryParamsObj = getQueryParams(nextProps)
+  //   if (!isEqual(subset, queryParamsObj)) {
+  //     return {...prevState, ...queryParamsObj}
+  //   }
+  //   return prevState
+  // }
+
+  componentDidMount() {
+    let queryParamsObj = getQueryParams(this.props)
+    this.setState(queryParamsObj)
+    this.props.history.push({
+      pathname: this.props.location.pathname,
+      search: '',
+    })
+  }
+
+  componentDidUpdate(prevProps) {
+    let oldQueryParamsObj = getQueryParams(prevProps)
+    let queryParamsObj = getQueryParams(this.props)
+    if (!isEqual(oldQueryParamsObj, queryParamsObj)) {
+      this.setState(queryParamsObj)
+      this.props.history.push({
+        pathname: this.props.location.pathname,
+        search: '',
+      })
+    }
+  }
+
+  getShareableLink = () => {
+    return `${window.location.href}?${queryString.stringify(pick(this.state, queryParamFields))}`
   }
 
   onFieldChange = (key) => (e, value) => {
@@ -105,6 +160,14 @@ class HomePage extends Component {
     this.setState({
       selectedState: null
     })
+  }
+
+  openLinkDialog = () => {
+    this.setState({linkDialogOpen: true})
+  }
+
+  closeLinkDialog = () => {
+    this.setState({linkDialogOpen: false})
   }
 
   render() {
@@ -378,12 +441,18 @@ class HomePage extends Component {
             </div>
           </div>
           <div className={styles.content}>
+            <div className={styles.shareableLink}>
+              <IconButton onClick={this.openLinkDialog} size="small">
+                <LinkIcon/>
+              </IconButton>
+            </div>
             <div className={styles.mapContainer}>
               <ContainerDimensions>
                 { ({ width }) =>
                   <USAMap customize={stateColors} width={Math.max(width)} onClick={this.onMapClick} />
                 }
               </ContainerDimensions>
+              <ShareableLinkDialog onClose={this.closeLinkDialog} link={this.getShareableLink()} open={this.state.linkDialogOpen}/>
             </div>
             <StateDetailView
               open={this.state.selectedState}
@@ -430,6 +499,40 @@ function getStateColors(searchResults) {
   })
   console.log()
   return defaultStateColors
+}
+
+function getQueryParams(props) {
+  let stringOptions = ['None', 'Some', 'A lot']
+  let {
+    averageHighSpringTarget,
+    chanceOfSunshineSpringTarget,
+    precipitationSpringTarget,
+    averageHighSummerTarget,
+    chanceOfSunshineSummerTarget,
+    precipitationSummerTarget,
+    averageHighFallTarget,
+    chanceOfSunshineFallTarget,
+    precipitationFallTarget,
+    averageHighWinterTarget,
+    chanceOfSunshineWinterTarget,
+    snowfallWinterTarget,
+  } = queryString.parse(props.location.search)
+  let queryParamsObj = {
+    averageHighSpringTarget: Number(averageHighSpringTarget) || undefined,
+    chanceOfSunshineSpringTarget: stringOptions.includes(chanceOfSunshineSpringTarget) ? chanceOfSunshineSpringTarget : undefined,
+    precipitationSpringTarget: stringOptions.includes(precipitationSpringTarget) ? precipitationSpringTarget : undefined,
+    averageHighSummerTarget: Number(averageHighSpringTarget) || undefined,
+    chanceOfSunshineSummerTarget: stringOptions.includes(chanceOfSunshineSummerTarget) ? chanceOfSunshineSummerTarget : undefined,
+    precipitationSummerTarget:  stringOptions.includes(precipitationSummerTarget) ? precipitationSummerTarget : undefined,
+    averageHighFallTarget:  Number(averageHighFallTarget) || undefined,
+    chanceOfSunshineFallTarget: stringOptions.includes(chanceOfSunshineFallTarget) ? chanceOfSunshineFallTarget : undefined,
+    precipitationFallTarget: stringOptions.includes(precipitationFallTarget) ? precipitationFallTarget : undefined,
+    averageHighWinterTarget: Number(averageHighWinterTarget) || undefined,
+    chanceOfSunshineWinterTarget: stringOptions.includes(chanceOfSunshineWinterTarget) ? chanceOfSunshineWinterTarget : undefined,
+    snowfallWinterTarget: stringOptions.includes(snowfallWinterTarget) ? snowfallWinterTarget : undefined,
+  }
+  Object.keys(queryParamsObj).forEach((key) => (queryParamsObj[key] == null) && delete queryParamsObj[key])
+  return queryParamsObj
 }
 
 
