@@ -20,7 +20,7 @@
   height: 100vh;
   flex: 1;
   padding: 24px;
-  overflow-y: auto;
+  overflow-y: hidden;
   overflow-x: hidden;
   color: white;
   background: #3b4458;
@@ -68,7 +68,7 @@
     height: 100vh;
     width: 100%;
     padding: 24px;
-    overflow-y: auto;
+    overflow-y: hidden;
     overflow-x: hidden;
     color: white;
     background: #3b4458;
@@ -177,6 +177,13 @@
   height: 48px;
   background: white;
   box-shadow: 0 -4px 2px -2px rgba(0,0,0,0.1);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px;
+  box-sizing: border-box;
+  composes: text-md from global;
+  composes: text-grey-6 from global;
 }
 
 .mapContainer {
@@ -219,4 +226,12 @@
 .lightTooltip {
   background: rgba(255, 255, 255, 0.9) !important;
   color: #3b4458 !important;
+}
+
+.aboutLink {
+  composes: link from global;
+}
+
+.madeWithLoveTag {
+  margin-bottom: 4px;
 }

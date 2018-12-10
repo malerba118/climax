@@ -6,6 +6,7 @@ import CustomRadioGroup from './CustomRadioGroup/CustomRadioGroup'
 import ResultCard from './ResultCard'
 import { BarChart } from './Charts'
 import ShareableLinkDialog from './ShareableLinkDialog'
+import AboutDialog from './AboutDialog'
 import MapKey from './MapKey'
 
 export {
@@ -18,4 +19,5 @@ export {
   BarChart,
   ShareableLinkDialog,
   MapKey,
+  AboutDialog,
 }

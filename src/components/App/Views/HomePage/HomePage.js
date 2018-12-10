@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { TextField } from '@material-ui/core'
-import { PromiseButton, CustomRadioGroup, ShareableLinkDialog, MapKey } from 'components/App/Shared'
+import { PromiseButton, CustomRadioGroup, ShareableLinkDialog, MapKey, AboutDialog } from 'components/App/Shared'
 import { FadeIn } from 'components/Universal/Transitions'
 import { actions as notificationActions } from 'store/other/notifications'
 import climateDataClient from 'services/climateDataClient'
@@ -105,6 +105,8 @@ class HomePage extends Component {
     chanceOfSunshineWinterTarget: 'High',
     snowfallWinterTarget: 'Low',
     linkDialogOpen: false,
+    aboutDialogOpen: false,
+    mapKeyOpen: false,
   }
 
   // static getDerivedStateFromProps(nextProps, prevState) {
@@ -175,6 +177,14 @@ class HomePage extends Component {
 
   toggleMapKey = () => {
     this.setState(prevState => ({mapKeyOpen: !prevState.mapKeyOpen}))
+  }
+
+  openAboutDialog = () => {
+    this.setState({aboutDialogOpen: true})
+  }
+
+  closeAboutDialog = () => {
+    this.setState({aboutDialogOpen: false})
   }
 
   render() {
@@ -445,6 +455,9 @@ class HomePage extends Component {
               )}
             </div>
             <div className={styles.controlsFooter}>
+              <span className={styles.aboutLink} onClick={this.openAboutDialog}>About</span>
+              <span className={styles.madeWithLoveTag}>Made with ❤️ by <a href="https://github.com/malerba118" target="_blank" rel="noopener noreferrer">malerba118</a></span>
+              <AboutDialog open={this.state.aboutDialogOpen} onClose={this.closeAboutDialog}/>
             </div>
           </div>
           <div className={styles.content}>

@@ -17,8 +17,10 @@ export default class ShareableLinkDialog extends React.Component {
         onClose={this.props.onClose}
         aria-labelledby="form-dialog-title"
       >
-        <DialogTitle style={{paddingBottom: 8}}>Shareable Link</DialogTitle>
         <DialogContent>
+          <h2>
+            Shareable Link
+          </h2>
           <DialogContentText>
             Share this link with others to show them your search options.
           </DialogContentText>

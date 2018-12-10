@@ -140,4 +140,13 @@ code {
     font-size: 24px;
   }
 
+  .link {
+    cursor: pointer;
+    transition: opacity .3s;
+  }
+
+  .link:hover {
+    opacity: .7;
+  }
+
 }
