@@ -26,7 +26,7 @@ import styles from './HomePage.module.css'
 
 const tabs = ['Spring', 'Summer', 'Fall', 'Winter']
 
-const percentagePartitions = {
+const sunshinePartitions = {
   'Low': {
     min: 0,
     max: 50
@@ -94,10 +94,10 @@ class HomePage extends Component {
     selectedState: null,
     averageHighSpringTarget: 70,
     chanceOfSunshineSpringTarget: 'High',
-    precipitationSpringTarget: 'Low',
+    precipitationSpringTarget: 'Moderate',
     averageHighSummerTarget: 90,
     chanceOfSunshineSummerTarget: 'High',
-    precipitationSummerTarget: 'Low',
+    precipitationSummerTarget: 'Moderate',
     averageHighFallTarget: 70,
     chanceOfSunshineFallTarget: 'High',
     precipitationFallTarget: 'Low',
@@ -198,7 +198,7 @@ class HomePage extends Component {
       {
         name: 'chanceOfSunshineSpring',
         isMet: (climate) => {
-          let partition = percentagePartitions[this.state.chanceOfSunshineSpringTarget]
+          let partition = sunshinePartitions[this.state.chanceOfSunshineSpringTarget]
           return inRange(climate.chanceOfSunshine('spring'), partition.min, partition.max)
         }
       },
@@ -218,7 +218,7 @@ class HomePage extends Component {
       {
         name: 'chanceOfSunshineSummer',
         isMet: (climate) => {
-          let partition = percentagePartitions[this.state.chanceOfSunshineSummerTarget]
+          let partition = sunshinePartitions[this.state.chanceOfSunshineSummerTarget]
           return inRange(climate.chanceOfSunshine('summer'), partition.min, partition.max)
         }
       },
@@ -238,7 +238,7 @@ class HomePage extends Component {
       {
         name: 'chanceOfSunshineFall',
         isMet: (climate) => {
-          let partition = percentagePartitions[this.state.chanceOfSunshineFallTarget]
+          let partition = sunshinePartitions[this.state.chanceOfSunshineFallTarget]
           return inRange(climate.chanceOfSunshine('fall'), partition.min, partition.max)
         }
       },
@@ -258,7 +258,7 @@ class HomePage extends Component {
       {
         name: 'chanceOfSunshineWinter',
         isMet: (climate) => {
-          let partition = percentagePartitions[this.state.chanceOfSunshineWinterTarget]
+          let partition = sunshinePartitions[this.state.chanceOfSunshineWinterTarget]
           return inRange(climate.chanceOfSunshine('winter'), partition.min, partition.max)
         }
       },
@@ -424,7 +424,7 @@ class HomePage extends Component {
                     <Slider
                       className={styles.slider}
                       value={this.state.averageHighWinterTarget}
-                      min={0}
+                      min={10}
                       max={70}
                       aria-labelledby="label"
                       step={10}
@@ -471,7 +471,7 @@ class HomePage extends Component {
             <div className={styles.mapContainer}>
               <ContainerDimensions>
                 { ({ width }) =>
-                  <USAMap customize={stateColors} width={Math.max(width)} onClick={this.onMapClick} />
+                  <USAMap customize={stateColors} width={Math.max(width)} onClick={this.onMapClick} title=""/>
                 }
               </ContainerDimensions>
               <ShareableLinkDialog onClose={this.closeLinkDialog} link={this.getShareableLink()} open={this.state.linkDialogOpen}/>

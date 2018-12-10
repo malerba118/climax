@@ -36,8 +36,7 @@
   overflow: hidden;
   box-shadow: 0 -4px 2px -2px rgba(0,0,0,0.03);
   composes: children-center from global;
-  background: rgba(255,255,255,0);
-  background: rgba(255,255,255,.15);
+  background: rgba(255,255,255,.05);
   transition: all .4s;
 }
 
@@ -84,8 +83,7 @@
     overflow: hidden;
     box-shadow: 0 -4px 2px -2px rgba(0,0,0,0.03);
     composes: children-center from global;
-    background: rgba(255,255,255,0);
-    background: rgba(255,255,255,.15);
+    background: rgba(255,255,255,.05);
     transition: all .4s;
   }
 

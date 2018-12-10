@@ -2,7 +2,7 @@
   "name": "react-redux-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://malerba118.github.io/climax",
+  "homepage": "https://whereshouldilive.us",
   "dependencies": {
     "@material-ui/core": "^3.2.2",
     "@material-ui/icons": "^3.0.1",
@@ -17,6 +17,7 @@
     "react": "^16.5.2",
     "react-charts-d3": "^2.4.1",
     "react-container-dimensions": "^1.4.1",
+    "react-copy-to-clipboard": "^5.0.1",
     "react-dom": "^16.5.2",
     "react-image": "^1.5.1",
     "react-moment": "^0.8.2",

@@ -6,21 +6,19 @@ import DialogActions from '@material-ui/core/DialogActions';
 import DialogContent from '@material-ui/core/DialogContent';
 import DialogContentText from '@material-ui/core/DialogContentText';
 import DialogTitle from '@material-ui/core/DialogTitle';
+import  {CopyToClipboard } from 'react-copy-to-clipboard';
 import { actions as notificationActions } from 'store/other/notifications'
 import { connect } from 'react-redux'
 import styles from './ShareableLinkDialog.module.css'
 
 class ShareableLinkDialog extends React.Component {
 
-  copyToClipboard = () => {
-    if (this.inputField && this.inputField.select) {
-      this.inputField.select()
-      document.execCommand("copy")
-      this.props.showNotification({
-        type: 'info',
-        message: 'Copied to clipboard!'
-      })
-    }
+  onCopy = () => {
+    this.props.showNotification({
+      type: 'info',
+      message: 'Copied to clipboard!'
+    })
+    this.props.onClose()
   }
 
   render() {
@@ -38,7 +36,6 @@ class ShareableLinkDialog extends React.Component {
             Share this link with others to show them your search options.
           </DialogContentText>
           <TextField
-            inputRef={(r) => this.inputField = r}
             style={{marginTop: 10}}
             margin="dense"
             id="name"
@@ -47,9 +44,12 @@ class ShareableLinkDialog extends React.Component {
           />
         </DialogContent>
         <DialogActions>
-          <Button onClick={this.copyToClipboard} color="primary">
-            Copy Link
-          </Button>
+          <CopyToClipboard text={this.props.link}
+            onCopy={this.onCopy}>
+            <Button color="primary">
+              Copy Link
+            </Button>
+          </CopyToClipboard>
           <Button onClick={this.props.onClose} color="primary">
             Close
           </Button>
