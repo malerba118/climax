@@ -6,7 +6,22 @@ const theme = createMuiTheme({
     fontFamily: [
       `'Josefin Sans'`,
       `sans-serif`
-    ].join(',')
+    ].join(','),
+    body2: {
+      color: 'rgba(0,0,0,.6)',
+      fontSize: 14
+    },
+    subtitle1: {
+      color: 'rgba(0,0,0,.6)',
+      fontSize: 16
+    }
+  },
+  overrides: {
+    MuiInputBase: {
+      input: {
+        color: 'rgba(0,0,0,.6)'
+      }
+    },
   },
   palette: {
     primary: {

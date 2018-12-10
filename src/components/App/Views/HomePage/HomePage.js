@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import { TextField } from '@material-ui/core'
-import { PromiseButton, CustomRadioGroup, ShareableLinkDialog } from 'components/App/Shared'
+import { PromiseButton, CustomRadioGroup, ShareableLinkDialog, MapKey } from 'components/App/Shared'
 import { FadeIn } from 'components/Universal/Transitions'
 import { actions as notificationActions } from 'store/other/notifications'
 import climateDataClient from 'services/climateDataClient'
@@ -10,7 +10,9 @@ import Slider from '@material-ui/lab/Slider';
 import Tabs from '@material-ui/core/Tabs'
 import Tab from '@material-ui/core/Tab'
 import IconButton from '@material-ui/core/IconButton'
+import Tooltip from '@material-ui/core/Tooltip'
 import LinkIcon from '@material-ui/icons/Link';
+import ArrowLeftIcon from '@material-ui/icons/KeyboardArrowLeft';
 import USAMap from "react-usa-map"
 import ContainerDimensions from 'react-container-dimensions'
 import { colorBurn } from 'color-blend/unit'
@@ -18,51 +20,52 @@ import {StateDetailView} from './Views'
 import pick from 'lodash/pick'
 import isEqual from 'lodash/isEqual'
 import queryString from 'query-string'
+import classNames from 'classnames'
 
 import styles from './HomePage.module.css'
 
 const tabs = ['Spring', 'Summer', 'Fall', 'Winter']
 
 const percentagePartitions = {
-  'None': {
+  'Low': {
     min: 0,
     max: 50
   },
-  'Some': {
+  'Moderate': {
     min: 50,
     max: 70
   },
-  'A lot': {
+  'High': {
     min: 70,
     max: 100
   },
 }
 
 const precipitationPartitions = {
-  'None': {
+  'Low': {
     min: 0,
     max: 20
   },
-  'Some': {
+  'Moderate': {
     min: 20,
     max: 40
   },
-  'A lot': {
+  'High': {
     min: 40,
     max: 100
   },
 }
 
 const snowfallPartitions = {
-  'None': {
+  'Low': {
     min: 0,
     max: 10
   },
-  'Some': {
+  'Moderate': {
     min: 10,
     max: 35
   },
-  'A lot': {
+  'High': {
     min: 35,
     max: 200
   },
@@ -90,17 +93,17 @@ class HomePage extends Component {
     selectedTab: 0,
     selectedState: null,
     averageHighSpringTarget: 70,
-    chanceOfSunshineSpringTarget: 'A lot',
-    precipitationSpringTarget: 'None',
+    chanceOfSunshineSpringTarget: 'High',
+    precipitationSpringTarget: 'Low',
     averageHighSummerTarget: 90,
-    chanceOfSunshineSummerTarget: 'A lot',
-    precipitationSummerTarget: 'None',
+    chanceOfSunshineSummerTarget: 'High',
+    precipitationSummerTarget: 'Low',
     averageHighFallTarget: 70,
-    chanceOfSunshineFallTarget: 'A lot',
-    precipitationFallTarget: 'None',
+    chanceOfSunshineFallTarget: 'High',
+    precipitationFallTarget: 'Low',
     averageHighWinterTarget: 50,
-    chanceOfSunshineWinterTarget: 'A lot',
-    snowfallWinterTarget: 'None',
+    chanceOfSunshineWinterTarget: 'High',
+    snowfallWinterTarget: 'Low',
     linkDialogOpen: false,
   }
 
@@ -168,6 +171,10 @@ class HomePage extends Component {
 
   closeLinkDialog = () => {
     this.setState({linkDialogOpen: false})
+  }
+
+  toggleMapKey = () => {
+    this.setState(prevState => ({mapKeyOpen: !prevState.mapKeyOpen}))
   }
 
   render() {
@@ -249,7 +256,7 @@ class HomePage extends Component {
         name: 'snowfallWinter',
         isMet: (climate) => {
           let partition = snowfallPartitions[this.state.snowfallWinterTarget]
-          return inRange(climate.daysWithPrecipitation('winter'), partition.min, partition.max)
+          return inRange(climate.snowfall('winter'), partition.min, partition.max)
         }
       },
     ]
@@ -304,7 +311,7 @@ class HomePage extends Component {
                     <CustomRadioGroup
                       onChange={this.onFieldChange('chanceOfSunshineSpringTarget')}
                       value={this.state.chanceOfSunshineSpringTarget}
-                      labels={['None', 'Some', 'A lot']}
+                      labels={['Low', 'Moderate', 'High']}
                     />
                   </div>
                   <div className={styles.field}>
@@ -314,7 +321,7 @@ class HomePage extends Component {
                     <CustomRadioGroup
                       onChange={this.onFieldChange('precipitationSpringTarget')}
                       value={this.state.precipitationSpringTarget}
-                      labels={['None', 'Some', 'A lot']}
+                      labels={['Low', 'Moderate', 'High']}
                     />
                   </div>
                 </div>
@@ -343,7 +350,7 @@ class HomePage extends Component {
                     <CustomRadioGroup
                       onChange={this.onFieldChange('chanceOfSunshineSummerTarget')}
                       value={this.state.chanceOfSunshineSummerTarget}
-                      labels={['None', 'Some', 'A lot']}
+                      labels={['Low', 'Moderate', 'High']}
                     />
                   </div>
                   <div className={styles.field}>
@@ -353,7 +360,7 @@ class HomePage extends Component {
                     <CustomRadioGroup
                       onChange={this.onFieldChange('precipitationSummerTarget')}
                       value={this.state.precipitationSummerTarget}
-                      labels={['None', 'Some', 'A lot']}
+                      labels={['Low', 'Moderate', 'High']}
                     />
                   </div>
                 </div>
@@ -382,7 +389,7 @@ class HomePage extends Component {
                     <CustomRadioGroup
                       onChange={this.onFieldChange('chanceOfSunshineFallTarget')}
                       value={this.state.chanceOfSunshineFallTarget}
-                      labels={['None', 'Some', 'A lot']}
+                      labels={['Low', 'Moderate', 'High']}
                     />
                   </div>
                   <div className={styles.field}>
@@ -392,7 +399,7 @@ class HomePage extends Component {
                     <CustomRadioGroup
                       onChange={this.onFieldChange('precipitationFallTarget')}
                       value={this.state.precipitationFallTarget}
-                      labels={['None', 'Some', 'A lot']}
+                      labels={['Low', 'Moderate', 'High']}
                     />
                   </div>
                 </div>
@@ -421,7 +428,7 @@ class HomePage extends Component {
                     <CustomRadioGroup
                       onChange={this.onFieldChange('chanceOfSunshineWinterTarget')}
                       value={this.state.chanceOfSunshineWinterTarget}
-                      labels={['None', 'Some', 'A lot']}
+                      labels={['Low', 'Moderate', 'High']}
                     />
                   </div>
                   <div className={styles.field}>
@@ -431,7 +438,7 @@ class HomePage extends Component {
                     <CustomRadioGroup
                       onChange={this.onFieldChange('snowfallWinterTarget')}
                       value={this.state.snowfallWinterTarget}
-                      labels={['None', 'Some', 'A lot']}
+                      labels={['Low', 'Moderate', 'High']}
                     />
                   </div>
                 </div>
@@ -442,9 +449,11 @@ class HomePage extends Component {
           </div>
           <div className={styles.content}>
             <div className={styles.shareableLink}>
-              <IconButton onClick={this.openLinkDialog} size="small">
-                <LinkIcon/>
-              </IconButton>
+              <Tooltip classes={{ tooltip: styles.lightTooltip }} title={'Shareable Link'}>
+                <IconButton onClick={this.openLinkDialog} size="small">
+                  <LinkIcon/>
+                </IconButton>
+              </Tooltip>
             </div>
             <div className={styles.mapContainer}>
               <ContainerDimensions>
@@ -453,6 +462,19 @@ class HomePage extends Component {
                 }
               </ContainerDimensions>
               <ShareableLinkDialog onClose={this.closeLinkDialog} link={this.getShareableLink()} open={this.state.linkDialogOpen}/>
+            </div>
+            <div className={classNames(styles.contentFooter, this.state.mapKeyOpen && styles.contentFooterOpen)}>
+              <div className={styles.footerToggleButton}>
+                <Tooltip classes={{ tooltip: styles.lightTooltip }} title={this.state.mapKeyOpen ? 'Hide Map Key' : 'Show Map Key'}>
+                  <IconButton style={{height: 32, width: 32, padding: 0}} onClick={this.toggleMapKey}>
+                    <ArrowLeftIcon className={classNames(styles.arrowIcon, this.state.mapKeyOpen && styles.faceRight)}/>
+                  </IconButton>
+                </Tooltip>
+              </div>
+
+              <span style={{marginLeft: 40}} className={styles.contentFooterText}>Don't Live Here</span>
+              <MapKey n={12} className={styles.mapKey} />
+              <span className={styles.contentFooterText}>Do Live Here</span>
             </div>
             <StateDetailView
               open={this.state.selectedState}
@@ -497,12 +519,11 @@ function getStateColors(searchResults) {
       fill: `rgba(${Math.floor(blended.r*255)},${Math.floor(blended.g*255)},${Math.floor(blended.b*255)},${blended.a})`
     }
   })
-  console.log()
   return defaultStateColors
 }
 
 function getQueryParams(props) {
-  let stringOptions = ['None', 'Some', 'A lot']
+  let stringOptions = ['Low', 'Moderate', 'High']
   let {
     averageHighSpringTarget,
     chanceOfSunshineSpringTarget,

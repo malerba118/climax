@@ -16,6 +16,7 @@
 
 .content {
   position: relative;
+  composes: children-center from global;
   height: 100vh;
   flex: 1;
   padding: 24px;
@@ -24,6 +25,24 @@
   color: white;
   background: #3b4458;
   box-sizing: border-box;
+}
+
+.contentFooter {
+  position: fixed;
+  bottom: 0px;
+  left: calc(100% - 48px);
+  width: calc(100% - 375px);
+  height: 48px;
+  overflow: hidden;
+  box-shadow: 0 -4px 2px -2px rgba(0,0,0,0.03);
+  composes: children-center from global;
+  background: rgba(255,255,255,0);
+  background: rgba(255,255,255,.15);
+  transition: all .4s;
+}
+
+.contentFooterOpen {
+  left: 375px;
 }
 
 @media only screen and (max-width: 720px) {
@@ -45,6 +64,7 @@
 
   .content {
     position: relative;
+    composes: children-center from global;
     height: 100vh;
     width: 100%;
     padding: 24px;
@@ -54,12 +74,30 @@
     background: #3b4458;
     box-sizing: border-box;
   }
+
+  .contentFooter {
+    position: fixed;
+    bottom: 0px;
+    left: calc(100% - 48px);
+    width: calc(100%);
+    height: 48px;
+    overflow: hidden;
+    box-shadow: 0 -4px 2px -2px rgba(0,0,0,0.03);
+    composes: children-center from global;
+    background: rgba(255,255,255,0);
+    background: rgba(255,255,255,.15);
+    transition: all .4s;
+  }
+
+  .contentFooterOpen {
+    left: 0;
+  }
 }
 
 .shareableLink {
   position: absolute;
   top: 10px;
-  right: 14px;
+  right: 10px;
 }
 
 .shareableLink Button {
@@ -145,4 +183,40 @@
   min-width: 200px;
   width: 90%;
   margin: 0 auto;
+  padding-left: 1%;
+}
+
+.mapKey {
+  position: relative;
+  width: 180px;
+  height: 16px;
+}
+
+.contentFooterText {
+  padding: 8px;
+  composes: text-sm from global;
+}
+
+.footerToggleButton {
+  position: absolute !important;
+  left: 8px;
+  top: 8px;
+  padding: 0;
+}
+
+.footerToggleButton svg {
+  fill: white;
+}
+
+.arrowIcon {
+  transition: transform .4s;
+}
+
+.faceRight {
+  transform: rotate(180deg);
+}
+
+.lightTooltip {
+  background: rgba(255, 255, 255, 0.9) !important;
+  color: #3b4458 !important;
 }

@@ -6,6 +6,7 @@ import DialogActions from '@material-ui/core/DialogActions';
 import DialogContent from '@material-ui/core/DialogContent';
 import DialogContentText from '@material-ui/core/DialogContentText';
 import DialogTitle from '@material-ui/core/DialogTitle';
+import styles from './ShareableLinkDialog.module.css'
 
 export default class ShareableLinkDialog extends React.Component {
 
@@ -16,12 +17,13 @@ export default class ShareableLinkDialog extends React.Component {
         onClose={this.props.onClose}
         aria-labelledby="form-dialog-title"
       >
-        <DialogTitle id="form-dialog-title">Shareable Link</DialogTitle>
+        <DialogTitle style={{paddingBottom: 8}}>Shareable Link</DialogTitle>
         <DialogContent>
           <DialogContentText>
             Share this link with others to show them your search options.
           </DialogContentText>
           <TextField
+            style={{marginTop: 10}}
             margin="dense"
             id="name"
             disabled

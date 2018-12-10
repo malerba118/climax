@@ -6,6 +6,7 @@ import CustomRadioGroup from './CustomRadioGroup/CustomRadioGroup'
 import ResultCard from './ResultCard'
 import { BarChart } from './Charts'
 import ShareableLinkDialog from './ShareableLinkDialog'
+import MapKey from './MapKey'
 
 export {
   PromiseButton,
@@ -16,4 +17,5 @@ export {
   ResultCard,
   BarChart,
   ShareableLinkDialog,
+  MapKey,
 }

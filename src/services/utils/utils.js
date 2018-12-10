@@ -6,3 +6,7 @@ export function inRange(value, low, high) {
 export function mean(arr) {
   return arr.reduce( ( p, c ) => p + c, 0 ) / arr.length
 }
+
+export function range(n) {
+  return [...Array(n).keys()]
+}
