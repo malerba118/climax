@@ -136,13 +136,13 @@ class ResultCard extends Component {
                   <div className={styles.seasonText}>Spring</div>
                   <div className={styles.seasonSvgs}>
                     <Tooltip title={!!criteriaClasses['averageHighSpring'] ? 'Criteria Met' : 'Criteria Not Met'}>
-                      <img className={criteriaClasses['averageHighSpring']} src="/svg/thermometer.svg" height="20"/>
+                      <img className={criteriaClasses['averageHighSpring']} src="svg/thermometer.svg" height="20"/>
                     </Tooltip>
                     <Tooltip title={!!criteriaClasses['chanceOfSunshineSpring'] ? 'Criteria Met' : 'Criteria Not Met'}>
-                      <img className={criteriaClasses['chanceOfSunshineSpring']} src="/svg/sun.svg" height="20"/>
+                      <img className={criteriaClasses['chanceOfSunshineSpring']} src="svg/sun.svg" height="20"/>
                     </Tooltip>
                     <Tooltip title={!!criteriaClasses['precipitationSpring'] ? 'Criteria Met' : 'Criteria Not Met'}>
-                      <img className={criteriaClasses['precipitationSpring']} src="/svg/rain.svg" height="20"/>
+                      <img className={criteriaClasses['precipitationSpring']} src="svg/rain.svg" height="20"/>
                     </Tooltip>
                   </div>
                 </div>
@@ -150,13 +150,13 @@ class ResultCard extends Component {
                   <div className={styles.seasonText}>Summer</div>
                   <div className={styles.seasonSvgs}>
                     <Tooltip title={!!criteriaClasses['averageHighSummer'] ? 'Criteria Met' : 'Criteria Not Met'}>
-                      <img className={criteriaClasses['averageHighSummer']} src="/svg/thermometer.svg" height="20"/>
+                      <img className={criteriaClasses['averageHighSummer']} src="svg/thermometer.svg" height="20"/>
                     </Tooltip>
                     <Tooltip title={!!criteriaClasses['chanceOfSunshineSummer'] ? 'Criteria Met' : 'Criteria Not Met'}>
-                      <img className={criteriaClasses['chanceOfSunshineSummer']} src="/svg/sun.svg" height="20"/>
+                      <img className={criteriaClasses['chanceOfSunshineSummer']} src="svg/sun.svg" height="20"/>
                     </Tooltip>
                     <Tooltip title={!!criteriaClasses['precipitationSummer'] ? 'Criteria Met' : 'Criteria Not Met'}>
-                      <img className={criteriaClasses['precipitationSummer']} src="/svg/rain.svg" height="20"/>
+                      <img className={criteriaClasses['precipitationSummer']} src="svg/rain.svg" height="20"/>
                     </Tooltip>
                   </div>
                 </div>
@@ -164,13 +164,13 @@ class ResultCard extends Component {
                   <div className={styles.seasonText}>Fall</div>
                   <div className={styles.seasonSvgs}>
                     <Tooltip title={!!criteriaClasses['averageHighFall'] ? 'Criteria Met' : 'Criteria Not Met'}>
-                      <img className={criteriaClasses['averageHighFall']} src="/svg/thermometer.svg" height="20"/>
+                      <img className={criteriaClasses['averageHighFall']} src="svg/thermometer.svg" height="20"/>
                     </Tooltip>
                     <Tooltip title={!!criteriaClasses['chanceOfSunshineFall'] ? 'Criteria Met' : 'Criteria Not Met'}>
-                      <img className={criteriaClasses['chanceOfSunshineFall']} src="/svg/sun.svg" height="20"/>
+                      <img className={criteriaClasses['chanceOfSunshineFall']} src="svg/sun.svg" height="20"/>
                     </Tooltip>
                     <Tooltip title={!!criteriaClasses['precipitationFall'] ? 'Criteria Met' : 'Criteria Not Met'}>
-                      <img className={criteriaClasses['precipitationFall']} src="/svg/rain.svg" height="20"/>
+                      <img className={criteriaClasses['precipitationFall']} src="svg/rain.svg" height="20"/>
                     </Tooltip>
                   </div>
                 </div>
@@ -178,13 +178,13 @@ class ResultCard extends Component {
                   <div className={styles.seasonText}>Winter</div>
                   <div className={styles.seasonSvgs}>
                     <Tooltip title={!!criteriaClasses['averageHighWinter'] ? 'Criteria Met' : 'Criteria Not Met'}>
-                      <img className={criteriaClasses['averageHighWinter']} src="/svg/thermometer.svg" height="20"/>
+                      <img className={criteriaClasses['averageHighWinter']} src="svg/thermometer.svg" height="20"/>
                     </Tooltip>
                     <Tooltip title={!!criteriaClasses['chanceOfSunshineWinter'] ? 'Criteria Met' : 'Criteria Not Met'}>
-                      <img className={criteriaClasses['chanceOfSunshineWinter']} src="/svg/sun.svg" height="20"/>
+                      <img className={criteriaClasses['chanceOfSunshineWinter']} src="svg/sun.svg" height="20"/>
                     </Tooltip>
                     <Tooltip title={!!criteriaClasses['snowfallWinter'] ? 'Criteria Met' : 'Criteria Not Met'}>
-                      <img className={criteriaClasses['snowfallWinter']} src="/svg/snowflake.svg" height="20"/>
+                      <img className={criteriaClasses['snowfallWinter']} src="svg/snowflake.svg" height="20"/>
                     </Tooltip>
                   </div>
                 </div>

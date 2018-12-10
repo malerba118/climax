@@ -19,6 +19,12 @@ export default class AboutDialog extends React.Component {
       >
         <DialogContent>
           <h2>
+            About
+          </h2>
+          <p>
+            This is a web app that let's you select your ideal climate conditions and view cities/states in the US that match your criteria.
+          </p>
+          <h2>
             Inspiration
           </h2>
           <p>

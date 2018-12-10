@@ -6,9 +6,22 @@ import DialogActions from '@material-ui/core/DialogActions';
 import DialogContent from '@material-ui/core/DialogContent';
 import DialogContentText from '@material-ui/core/DialogContentText';
 import DialogTitle from '@material-ui/core/DialogTitle';
+import { actions as notificationActions } from 'store/other/notifications'
+import { connect } from 'react-redux'
 import styles from './ShareableLinkDialog.module.css'
 
-export default class ShareableLinkDialog extends React.Component {
+class ShareableLinkDialog extends React.Component {
+
+  copyToClipboard = () => {
+    if (this.inputField && this.inputField.select) {
+      this.inputField.select()
+      document.execCommand("copy")
+      this.props.showNotification({
+        type: 'info',
+        message: 'Copied to clipboard!'
+      })
+    }
+  }
 
   render() {
     return (
@@ -25,15 +38,18 @@ export default class ShareableLinkDialog extends React.Component {
             Share this link with others to show them your search options.
           </DialogContentText>
           <TextField
+            inputRef={(r) => this.inputField = r}
             style={{marginTop: 10}}
             margin="dense"
             id="name"
-            disabled
             value={this.props.link}
             fullWidth
           />
         </DialogContent>
         <DialogActions>
+          <Button onClick={this.copyToClipboard} color="primary">
+            Copy Link
+          </Button>
           <Button onClick={this.props.onClose} color="primary">
             Close
           </Button>
@@ -42,3 +58,18 @@ export default class ShareableLinkDialog extends React.Component {
     );
   }
 }
+
+
+const mapStateToProps = (state) => {
+  return {
+  }
+}
+
+const mapDispatchToProps = {
+  showNotification: notificationActions.showNotification
+}
+
+export default connect(
+  mapStateToProps,
+  mapDispatchToProps
+)(ShareableLinkDialog)

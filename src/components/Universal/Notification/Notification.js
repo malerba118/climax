@@ -32,7 +32,7 @@ const styles = theme => ({
     backgroundColor: theme.palette.error.dark,
   },
   info: {
-    backgroundColor: blue[600],
+    backgroundColor: '#ee6d6d',
   },
   warning: {
     backgroundColor: amber[700],

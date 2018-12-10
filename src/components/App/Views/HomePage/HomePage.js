@@ -278,7 +278,7 @@ class HomePage extends Component {
           <div className={styles.controls}>
             <div className={styles.controlsHeader}>
               <div className={styles.appTitle}>
-                <img height="36" src='/svg/logo.svg'/>
+                <img height="36" src='svg/logo.svg'/>
                 <span>Climax</span>
               </div>
               <div className={styles.appSubtitle} style={{height: 30, textAlign: 'center'}}>
@@ -555,7 +555,7 @@ function getQueryParams(props) {
     averageHighSpringTarget: Number(averageHighSpringTarget) || undefined,
     chanceOfSunshineSpringTarget: stringOptions.includes(chanceOfSunshineSpringTarget) ? chanceOfSunshineSpringTarget : undefined,
     precipitationSpringTarget: stringOptions.includes(precipitationSpringTarget) ? precipitationSpringTarget : undefined,
-    averageHighSummerTarget: Number(averageHighSpringTarget) || undefined,
+    averageHighSummerTarget: Number(averageHighSummerTarget) || undefined,
     chanceOfSunshineSummerTarget: stringOptions.includes(chanceOfSunshineSummerTarget) ? chanceOfSunshineSummerTarget : undefined,
     precipitationSummerTarget:  stringOptions.includes(precipitationSummerTarget) ? precipitationSummerTarget : undefined,
     averageHighFallTarget:  Number(averageHighFallTarget) || undefined,
