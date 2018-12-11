@@ -5,8 +5,12 @@ import App from 'components/App';
 import * as serviceWorker from './serviceWorker';
 import store from 'store'
 import { HashRouter } from 'react-router-dom'
+import ReactGA from 'react-ga'
 
 import './index.scss';
+
+ReactGA.initialize('UA-130777483-1')
+ReactGA.pageview(window.location.pathname, [window.location.search])
 
 ReactDOM.render(
   <Provider store={store}>

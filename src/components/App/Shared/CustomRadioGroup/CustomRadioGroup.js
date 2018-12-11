@@ -16,6 +16,7 @@ class CustomRadioGroup extends React.Component {
       >
         {this.props.labels.map((label) => (
           <FormControlLabel
+            key={label}
             value={label}
             control={<Radio color="primary" />}
             label={label}
