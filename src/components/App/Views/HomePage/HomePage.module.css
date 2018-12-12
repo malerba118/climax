@@ -234,3 +234,14 @@
 .madeWithLoveTag {
   margin-bottom: 4px;
 }
+
+.mapContainer path {
+  transition: all .15s !important;
+  cursor: pointer;
+}
+
+.mapContainer path:hover {
+  stroke-width: 2px;
+  stroke: #3b4458;
+  stroke-dasharray: 7,7;
+}

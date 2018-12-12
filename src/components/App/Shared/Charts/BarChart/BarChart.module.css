@@ -19,6 +19,10 @@
   opacity: .89;
 }
 
+.chart path {
+  stroke: rgba(255,255,255,.55) !important;
+}
+
 .title {
   color: white;
   composes: text-md from global;
